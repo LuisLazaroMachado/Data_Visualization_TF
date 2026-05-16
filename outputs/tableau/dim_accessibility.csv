@@ -1,0 +1,30 @@
+accessibility_id,Model accessibility,Training code accessibility,Open model weights?
+1,Open weights (restricted use),Unknown,Yes
+2,Unknown,Unknown,Unknown
+3,API access,Unreleased,No
+4,API access,Unknown,No
+5,Hosted access (no API),Unknown,No
+6,Open weights (unrestricted),Unknown,Yes
+7,Open weights (unrestricted),Unreleased,Yes
+8,Unreleased,Unknown,No
+9,Open weights (restricted use),Unreleased,Yes
+10,Open weights (non-commercial),Unknown,Yes
+11,Open weights (unrestricted),Open source,Yes
+12,Unreleased,Unreleased,No
+13,Hosted access (no API),Unreleased,No
+14,Unreleased,Open (non-commercial),No
+15,Unreleased,Open source,No
+16,Open weights (non-commercial),Unreleased,Yes
+17,Open weights (restricted use),Open source,Yes
+18,Hosted access (no API),Open source,No
+19,Open weights (non-commercial),Open source,Yes
+20,Open weights (unrestricted),Open (non-commercial),Yes
+21,Open weights (non-commercial),Open (non-commercial),Yes
+22,Unknown,Unreleased,Unknown
+23,Unknown,Open source,Unknown
+24,Open weights (restricted use),Open (restricted use),Yes
+25,Unreleased,Open (restricted use),No
+26,Unknown,Open (non-commercial),Unknown
+27,API access,Open (non-commercial),No
+28,Open weights (restricted use),Open (non-commercial),Yes
+29,Hosted access (no API),Open (non-commercial),No

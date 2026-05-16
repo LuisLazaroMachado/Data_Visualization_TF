@@ -1,0 +1,3 @@
+option,description,tables,fact_rows,unique_model_keys,duplicate_model_rows,critical_null_rows,relationship_null_keys,recommended
+A_flat_table,Tabla limpia unica para Tableau,1,3405,3405,0,0,0,No
+B_star_schema,"Tabla de hechos con dimensiones de pais, organizacion, dominio y accesibilidad",5,3405,3405,0,0,0,Si
