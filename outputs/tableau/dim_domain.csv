@@ -1,0 +1,987 @@
+domain_id,Domain,Task
+1,Language,"Language modeling/generation,Question answering"
+2,Language,"Language modeling/generation,Coding"
+3,Multimodal,"Language modeling/generation,Question answering"
+4,Language,"Language modeling/generation,Code generation"
+5,Language,Language modeling/generation
+6,Language,"Coding,Agentic tasks"
+7,Unknown,Unknown
+8,Multimodal,Language modeling/generation
+9,Language,"Code generation,Language modeling/generation,Quantitative reasoning,Search,Visual question answering,Translation,Image captioning,Instruction interpretation,Mathematical reasoning,Visual puzzles,Code autocompletion,Chat,Character recognition (OCR),Language modeling,Language generation,Text autocompletion,Retrieval-augmented generation,System control"
+10,Robotics,Robotic manipulation
+11,Language,"Language modeling/generation,Vision-language generation"
+12,Language,"Code generation,System control,Search,Language modeling/generation,Question answering"
+13,Image generation,"Video generation,Audio generation"
+14,Language,"Language modeling/generation,Chat"
+15,Language,"Language modeling/generation,Chat,Question answering,Code generation,Mathematical reasoning,Instruction interpretation"
+16,Language,"Code generation,Language modeling/generation,Translation,Instruction interpretation,Mathematical reasoning,Chat,Language modeling,Language generation,Text autocompletion"
+17,Multimodal,"Language modeling/generation,(Visual) Question answering,Image Understanding"
+18,Language,"Chat,Language modeling/generation,Code generation,Tool use,Agentic workflows"
+19,Language,"Coding,Language modeling/generation"
+20,Unknown,"Language modeling/generation,Question answering"
+21,Language,"Mathematical problem solving,Proof writing,Reasoning"
+22,3D modeling,Unknown
+23,Video,Video generation
+24,Language,"Mathematical reasoning,Theorem proving,Proof generation,Proof verification"
+25,Image generation,Image generation
+26,Language,"Language modeling/generation,Chat,Reasoning,Code generation"
+27,Vision,Image segmentation
+28,Language,"Language modeling/generation,Chat,Code generation,Mathematical reasoning,Tool use"
+29,Language,"Language modeling/generation,Question answering,Mathematical reasoning,Quantitative reasoning,Code generation"
+30,Language,Question answering
+31,Recommendation,Recommender system
+32,Language,"Language modeling/generation,Question answering,Search,Quantitative reasoning,Code generation"
+33,Video,"Text-to-video,Image-to-video,Image generation,Text-to-image,Visual question answering,Language modeling/generation,Question answering,Speech recognition (ASR),Video description"
+34,Language,"Language modeling/generation,Question answering,Mathematical reasoning"
+35,Language,"Code generation,System control"
+36,Language,Code generation
+37,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Search,System control"
+38,Language,"Language modeling/generation,Question answering,Quantitative reasoning"
+39,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Mathematical reasoning"
+40,Vision,"Character recognition (OCR),Visual question answering"
+41,Biology,"Protein or nucleotide language model (pLM/nLM),Protein generation"
+42,Language,"Chat,Code generation,Language modeling/generation,Question answering"
+43,Video,"Image-to-video,Video generation,Text-to-video,Audio generation"
+44,Language,"Language modeling/generation,Question answering,Code generation"
+45,Image generation,"Image generation,Text-to-image"
+46,Language,"Cell Biology,RNA sequence generation,Language modeling/generation,Question answering"
+47,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation"
+48,Image generation,"Image generation,Video generation,Text-to-image,Text-to-video,Image-to-image,Image-to-video"
+49,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning,Visual question answering,Translation,Image captioning,Video description,Speech recognition (ASR),System control,Search"
+50,Language,"Language modeling/generation,Question answering,Visual puzzles"
+51,Language,"Language modeling/generation,Question answering,Text summarization,Text classification,Retrieval-augmented generation,Code generation"
+52,Speech,"Speech synthesis,Text-to-speech (TTS)"
+53,Speech,"Speech-to-speech,Audio question answering"
+54,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning,System control"
+55,Video,"Video generation,Text-to-video"
+56,Language,"Language modeling/generation,Code generation,System control,Question answering,Quantitative reasoning,Mathematical reasoning,Visual question answering"
+57,Robotics,"Robotic manipulation,Animal (human/non-human) imitation,Instruction interpretation"
+58,Video,"Video generation,Text-to-video,Image-to-video,Image generation,Text-to-image,Video-to-video"
+59,Video,"Video generation,Text-to-video,Image-to-video,Video-to-video"
+60,Language,"Language modeling/generation,Code generation,Quantitative reasoning,Question answering,Search,System control,Instruction interpretation"
+61,Language,"Visual question answering,Character recognition (OCR)"
+62,Video,"Video generation,Audio generation,Text-to-video,Image-to-video"
+63,Video,"Image-to-video,Video generation"
+64,Audio,Audio generation
+65,Robotics,"Robotic manipulation,Instruction interpretation"
+66,Vision,"Instruction interpretation,Robotic manipulation,Image captioning,Object detection,Search,Language modeling/generation,Question answering,Speech recognition (ASR)"
+67,Language,Semantic embedding
+68,Biology,Protein folding prediction
+69,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Image captioning,Video description,Speech recognition (ASR),Speech synthesis,Speech-to-text,Text-to-speech (TTS)"
+70,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Search,Code generation,Mathematical reasoning"
+71,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Translation,Visual question answering,Image captioning"
+72,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Translation"
+73,Vision,"Visual question answering,Character recognition (OCR),Retrieval-augmented generation"
+74,Language,"Language modeling/generation,Question answering,System control,Quantitative reasoning,Mathematical reasoning,Code generation,Search"
+75,Video,"Video generation,Image-to-video"
+76,Language,"Language modeling/generation,Question answering,System control,Code generation"
+77,Other,Signal processing
+78,Language,"Language modeling/generation,Question answering,Mathematical reasoning,Code generation,Quantitative reasoning,Retrieval-augmented generation,Translation"
+79,Speech,"Text-to-speech (TTS),Speech synthesis"
+80,Language,"Language modeling/generation,Question answering,Code generation,Translation"
+81,Language,"Language modeling/generation,Question answering,Chat,Code generation,Quantitative reasoning,Instruction interpretation"
+82,Speech,"Speech recognition (ASR),Speech synthesis,Visual question answering,Speech-to-speech,Audio question answering"
+83,Language,"Language modeling/generation,Code generation,Code autocompletion"
+84,Video,"Speech recognition (ASR),Video generation"
+85,Image generation,"Image generation,Text-to-image,Image-to-image"
+86,Language,"Language modeling/generation,Question answering,Code generation,Mathematical reasoning,Retrieval-augmented generation"
+87,Language,"Language modeling/generation,Question answering,System control,Code generation,Mathematical reasoning"
+88,Earth science,"Heliophysics,Weather forecasting"
+89,Multimodal,"Language modeling/generation,Question answering,Visual question answering"
+90,Materials science,Unknown
+91,Image generation,Image-to-image
+92,Multimodal,"Language modeling/generation,Visual question answering,Question answering,Character recognition (OCR),Image captioning,Quantitative reasoning,Mathematical reasoning,Video description"
+93,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Image captioning,Video description,Table tasks,Character recognition (OCR)"
+94,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Image captioning"
+95,Speech,"Speech recognition (ASR),Translation,Speech-to-text"
+96,Speech,"Speech-to-text,Speech recognition (ASR)"
+97,Video,"Text-to-video,Video generation"
+98,Vision,"Image classification,Object detection,Semantic segmentation"
+99,Image generation,"Image-to-image,Image generation"
+100,Language,"Language modeling/generation,Question answering,System control,Code generation,Search,Quantitative reasoning,Mathematical reasoning,Visual question answering"
+101,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning"
+102,Games,"Video generation,Text-to-video"
+103,Language,"Language modeling/generation,Question answering,Visual question answering,Image captioning,Video description,Table tasks,Character recognition (OCR)"
+104,Language,Visual puzzles
+105,Language,"Language modeling/generation,Mathematical reasoning"
+106,Language,"Code generation,Mathematical reasoning"
+107,Language,"Language modeling/generation,Mathematical reasoning,Code generation,Visual question answering,Question answering,Visual puzzles,Video description,Speech recognition (ASR),Speech-to-text"
+108,Video,"Image-to-video,Video generation,Text-to-video"
+109,Vision,"Visual question answering,Character recognition (OCR),Language modeling/generation,Question answering"
+110,Earth science,"Entity embedding,Crop Mapping / Segmentation"
+111,Language,"Language modeling/generation,Question answering,Code generation,Mathematical reasoning,Chat,Instruction interpretation,Retrieval-augmented generation"
+112,Language,"Financial management,Language modeling/generation,Question answering"
+113,Language,"Language modeling/generation,Question answering,Mathematical reasoning,Quantitative reasoning,Code generation,Translation"
+114,Language,Mathematical reasoning
+115,Language,"Language modeling/generation,Question answering,Code generation,System control"
+116,Language,"Language modeling/generation,Question answering,Quantitative reasoning,System control,Table tasks,Code generation,Instruction interpretation,Translation,Search"
+117,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning,Translation"
+118,Speech,"Audio question answering,Speech recognition (ASR),Speech-to-text,Language modeling/generation,Question answering"
+119,Language,"Language modeling/generation,Code generation,Question answering,Quantitative reasoning,Search,Table tasks"
+120,Language,"Language modeling/generation,Question answering,Search,Visual question answering,Character recognition (OCR),Image captioning,Quantitative reasoning"
+121,Vision,"Cancer diagnosis,Image classification,Medical diagnosis"
+122,Vision,"Image embedding,Image segmentation,Image classification"
+123,Multimodal,"Language modeling/generation,Visual question answering,Video description,Speech recognition (ASR),Quantitative reasoning,Code generation,Translation,Question answering,Character recognition (OCR)"
+124,Language,"Language modeling/generation,Quantitative reasoning,Code generation,Translation,Question answering"
+125,Multimodal,"Object detection,Object recognition,Speech recognition (ASR),Video description,Search,Audio classification,Face detection,Language modeling/generation,Question answering"
+126,Biology,"Gene expression enhancement,Gene expression profile generation,Molecular property prediction,Mutation prediction,Protein-DNA binding prediction,Transcriptomic prediction,RNA structure prediction"
+127,Multimodal,"Language modeling/generation,Object recognition,Mathematical reasoning"
+128,Video,"Video generation,Text-to-video,Image-to-video"
+129,Multimodal,"Image captioning,Video description"
+130,Language,"Language modeling/generation,Question answering,Translation,Text classification,Quantitative reasoning,Search,Code generation,Visual question answering,Video description,Speech recognition (ASR),Character recognition (OCR),System control"
+131,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Translation,Visual question answering,Character recognition (OCR)"
+132,Earth science,Weather forecasting
+133,Vision,Robotic manipulation
+134,Image generation,"Text-to-image,Image generation"
+135,Video,"Robotic manipulation,System control,Video generation"
+136,Multimodal,"Language modeling/generation,Vision-language generation"
+137,Multimodal,"Language modeling/generation,Image captioning,Video generation"
+138,Vision,Visual question answering
+139,Language,"Code generation,Language modeling/generation,Instruction interpretation,System control"
+140,Language,"Language modeling/generation,Code generation,Translation"
+141,Robotics,"Robotic manipulation,Animal (human/non-human) imitation"
+142,Biology,"Protein interaction prediction,Protein-ligand binding affinity prediction"
+143,Materials science,"Language modeling/generation,Molecular property prediction"
+144,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning,Visual question answering,Translation,Image captioning,Video description,Speech recognition (ASR)"
+145,Vision,"Character recognition (OCR),Image captioning,Language modeling/generation,Question answering,Visual question answering,Video,Video description"
+146,Speech,"Speech-to-speech,Audio question answering,Text-to-speech (TTS),Speech synthesis"
+147,Image generation,"Image generation,Text-to-image,Image captioning"
+148,Speech,"Speech-to-text,Speech recognition (ASR),Speech synthesis,Text-to-speech (TTS),Retrieval-augmented generation,Audio question answering,Speech-to-speech"
+149,Language,"Code generation,Language modeling/generation"
+150,Language,"Code generation,Code autocompletion,Retrieval-augmented generation"
+151,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Mathematical reasoning,Code generation"
+152,Language,"Language modeling/generation,Code generation,Quantitative reasoning,Question answering"
+153,Language,Unknown
+154,Multimodal,"Speech-to-text,Speech recognition (ASR),Image captioning,Visual question answering,Language modeling/generation,Question answering,Text-to-speech (TTS),Speech synthesis"
+155,Language,"Language modeling/generation,Question answering,System control,Code generation,Instruction interpretation,Search,Quantitative reasoning,Visual question answering,Character recognition (OCR)"
+156,Language,Language modeling
+157,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Retrieval-augmented generation"
+158,Video,"Video generation,Image-to-video,Text-to-video"
+159,Language,"Language modeling/generation,Question answering,Mathematical reasoning,Retrieval-augmented generation"
+160,Medicine,"Question answering,Language modeling/generation,Medical diagnosis,Visual question answering,Image classification"
+161,Language,"Language modeling/generation,Question answering,Chat,Speech recognition (ASR),Translation,Speech-to-text,Visual question answering,Mathematical reasoning,Code generation,Character recognition (OCR)"
+162,Language,"Language modeling/generation,Question answering,Retrieval-augmented generation,Entity embedding"
+163,Multimodal,"Language modeling/generation,Visual question answering,Video description,Question answering,Instruction interpretation,Robotic manipulation"
+164,Biology,"Cell Biology,RNA structure prediction,Protein-RNA binding affinity prediction"
+165,Language,"Language modeling/generation,Question answering,Medical diagnosis"
+166,Video,Unknown
+167,Mathematics,"Code generation,Mathematical reasoning,Language modeling/generation,Question answering"
+168,Vision,"Visual question answering,Video description,Language modeling/generation,Question answering,Character recognition (OCR)"
+169,Earth science,"Image generation,Weather forecasting"
+170,Language,"Language modeling/generation,Question answering,System control"
+171,Language,"Language modeling/generation,Question answering,System control,Retrieval-augmented generation,Visual question answering,Speech recognition (ASR)"
+172,Multimodal,"Language modeling/generation,Visual question answering,Question answering,Quantitative reasoning,Code generation,Translation"
+173,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Chat"
+174,Language,"Language modeling/generation,Quantitative reasoning,Question answering,Mathematical reasoning,Code generation"
+175,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Mathematical reasoning"
+176,Biology,Unknown
+177,Multimodal,"Language modeling/generation,Visual question answering,Video description,Question answering,Code generation,Character recognition (OCR),System control,Instruction interpretation,Retrieval-augmented generation"
+178,Language,"Language modeling/generation,Question answering,Retrieval-augmented generation,Quantitative reasoning,Code generation,Translation,Character recognition (OCR)"
+179,Language,"Retrieval-augmented generation,Language modeling/generation,Question answering,Search,Text summarization,Translation"
+180,Language,"Language modeling/generation,Language generation"
+181,Vision,Unknown
+182,Language,"Language modeling/generation,Question answering,Translation,Chat,Quantitative reasoning,Visual question answering,Code generation"
+183,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning,Visual question answering,Translation,Image captioning,Speech recognition (ASR),Video description,Search,Text summarization,Chat"
+184,Language,"Language modeling/generation,Text classification,Question answering,Entity embedding"
+185,Multimodal,"Language modeling/generation,Search,Question answering,Quantitative reasoning,Chat,Translation,Code generation,Visual question answering,Instruction interpretation,Visual puzzles"
+186,Language,Entity embedding
+187,Speech,"Speech recognition (ASR),Speech-to-text"
+188,Video,"Video generation,Image-to-video,Video-to-video,Text-to-video"
+189,Earth science,"Image captioning,Flood Mapping,Crop Mapping / Segmentation,Wildfire Mapping,Cloud monitoring / analysis"
+190,Language,"Semantic embedding,Retrieval-augmented generation,Image embedding"
+191,Multimodal,"Language modeling/generation,Code generation,Question answering,Quantitative reasoning,Instruction interpretation,System control,Visual question answering,Video description"
+192,Language,"Language modeling/generation,Question answering,Translation,Quantitative reasoning,Code generation"
+193,Language,"Language modeling/generation,Question answering,Translation,Quantitative reasoning,Code generation,Neural Architecture Search - NAS"
+194,Audio,"Audio generation,Speech recognition (ASR),Audio classification"
+195,Language,"Language modeling/generation,Question answering,Code generation,Search"
+196,Multimodal,"Language modeling/generation,Quantitative reasoning,Question answering,Visual question answering,Video description,Character recognition (OCR),Code generation,Chat"
+197,Video,"Video generation,Text-to-video,Image-to-video,Audio generation"
+198,Medicine,"Medical diagnosis,Language modeling/generation,Question answering,Chat"
+199,3D modeling,Aerodynamics simulations
+200,Language,"Protein or nucleotide language model (pLM/nLM),Protein property prediction,Small molecule property prediction,Chat,Question answering,Protein question answering,Protein function prediction,Language modeling/generation"
+201,Language,"Protein or nucleotide language model (pLM/nLM),Protein property prediction,Small molecule property prediction,Question answering,Protein question answering,Protein function prediction,Language modeling/generation"
+202,Speech,"Speech-to-text,Speech recognition (ASR),Speech synthesis,Speech-to-speech,Audio question answering"
+203,Language,"Semantic embedding,Language modeling/generation,Question answering"
+204,Multimodal,"Chat,Code generation,Visual question answering,Language modeling/generation,Question answering"
+205,Multimodal,"Chat,Code generation,Visual question answering,Translation,Language modeling/generation,Quantitative reasoning,Question answering"
+206,3D modeling,3D reconstruction
+207,Vision,Image generation
+208,Other,"System control,Instruction interpretation"
+209,Language,"Visual question answering,Video description,Language modeling/generation,Translation,Question answering,Character recognition (OCR),Quantitative reasoning"
+210,Language,Data analytics
+211,Vision,Image-to-image
+212,Multimodal,"Chat,Image generation,Audio generation,Vision-language generation,Table tasks,Language modeling/generation,Question answering,Speech recognition (ASR),Speech-to-text"
+213,Video,"Self-driving car,Video generation,Instruction interpretation"
+214,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Speech synthesis,Speech recognition (ASR),Speech-to-speech,Audio question answering,Speech-to-text,Text-to-speech (TTS),Video description,Image captioning"
+215,Language,"Question answering,Chat,Language modeling/generation,Quantitative reasoning,Search"
+216,Vision,3D reconstruction
+217,Video,"Video editing,Video-to-video,3D segmentation"
+218,Biology,3D chromosome structures reconstruction
+219,Language,"Text summarization,Semantic search"
+220,Language,"Code generation,Language modeling/generation,Quantitative reasoning,Chat,Question answering,Translation,Mathematical reasoning"
+221,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Neural Architecture Search - NAS"
+222,Speech,"Speech recognition (ASR),Speech-to-text,Translation"
+223,Language,"Code generation,Mathematical reasoning,Chat"
+224,Language,"Language modeling/generation,Question answering,Translation"
+225,Language,"Language modeling/generation,Chat,Code generation,Question answering"
+226,Language,"Language modeling/generation,Question answering,Chat,Code generation,Mathematical reasoning"
+227,Language,"Language modeling/generation,Question answering,Translation,Chat,Quantitative reasoning,Code generation,Mathematical reasoning"
+228,Robotics,"Instruction interpretation,Robotic manipulation,Speech recognition (ASR),Object recognition,Object detection"
+229,Language,"Language modeling/generation,Quantitative reasoning,Question answering,Code generation,Text summarization"
+230,Speech,"Music generation,Text-to-speech (TTS)"
+231,Multimodal,"Chat,Code generation,Language modeling/generation,Quantitative reasoning,Question answering,Character recognition (OCR),Visual question answering,Video description,Speech recognition (ASR)"
+232,Multimodal,"Character recognition (OCR),Chat,Language generation"
+233,Language,"Language modeling/generation,Question answering,Code generation,Retrieval-augmented generation,Chat,Quantitative reasoning,Table tasks,Translation"
+234,Language,"Language modeling/generation,Visual question answering,Code generation,Quantitative reasoning,Translation"
+235,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Speech recognition (ASR),Translation,Audio question answering,Character recognition (OCR)"
+236,Multimodal,"Language generation,Image captioning,Visual question answering,Language modeling/generation,Question answering"
+237,Language,"Language modeling/generation,Chat,Mathematical reasoning"
+238,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Translation,Visual question answering,Code generation,Instruction interpretation"
+239,Language,"Mathematical reasoning,Quantitative reasoning,Language modeling/generation,Question answering"
+240,Language,"Mathematical reasoning,Quantitative reasoning,Language modeling/generation,Question answering,Text summarization,Text classification,Translation,Code generation"
+241,Language,"Quantitative reasoning,Language modeling/generation,Question answering"
+242,Language,"Text summarization,Translation,Language modeling/generation,Question answering"
+243,Language,"Language modeling/generation,Question answering,Code generation,Quantitative reasoning,Translation,Instruction interpretation,Visual question answering"
+244,Robotics,Manufacturing Automation
+245,Robotics,"Animal (human/non-human) imitation,Robotic manipulation"
+246,Vision,"Image classification,Image embedding"
+247,Biology,Protein or nucleotide language model (pLM/nLM)
+248,Vision,"Image captioning,Visual question answering,Object detection,Image segmentation,Object recognition,Character recognition (OCR)"
+249,Vision,"Image captioning,Visual question answering,Object detection,Object recognition,Image segmentation,Character recognition (OCR)"
+250,Language,"Language modeling/generation,Question answering,Chat"
+251,Multimodal,"Chat,Language modeling/generation,Question answering,Retrieval-augmented generation,Speech synthesis"
+252,Language,Language generation
+253,Speech,"Speech synthesis,Speech recognition (ASR),Speech-to-text,Text-to-speech (TTS),Audio question answering,Audio generation,Speech-to-speech"
+254,Speech,"Speech synthesis,Speech recognition (ASR),Speech-to-text,Text-to-speech (TTS),Audio question answering,Audio generation,Image captioning,Visual question answering,Speech-to-speech"
+255,Language,"Chat,Language modeling/generation,Question answering,Code generation,Visual question answering"
+256,Language,"Language modeling/generation,Question answering,Chat,Translation"
+257,Multimodal,"Language modeling/generation,Code generation,Question answering,Visual question answering,Character recognition (OCR)"
+258,Image generation,Text-to-image
+259,Language,"Mathematical reasoning,Quantitative reasoning,Language modeling/generation,Question answering,Visual question answering"
+260,Language,"Question answering,Chat,Language modeling/generation,Quantitative reasoning,Text summarization"
+261,Mathematics,"Mathematical reasoning,Quantitative reasoning,Language modeling/generation,Question answering"
+262,Video,"Video generation,Video-to-video,Image-to-video"
+263,Video,"Video generation,Image generation,Text-to-video"
+264,Mathematics,"Mathematical reasoning,Code generation"
+265,Earth science,Unknown
+266,Language,"Mathematical reasoning,Language modeling/generation"
+267,Image generation,"Image generation,Text-to-image,Visual question answering"
+268,Multimodal,"Language modeling/generation,Question answering,Audio question answering,Speech recognition (ASR),Speech-to-text,Visual question answering,Image captioning,Speech synthesis,Text-to-speech (TTS),Video,Video classification"
+269,Language,"Question answering,Chat,Language modeling/generation,Search"
+270,Vision,"Instruction interpretation,System control"
+271,Multimodal,"Language modeling/generation,Code generation,Quantitative reasoning,Question answering,Visual question answering,Translation,Image captioning,Visual puzzles"
+272,Language,3D reconstruction
+273,3D modeling,"3D reconstruction,Self-driving car"
+274,Mathematics,Mathematical reasoning
+275,Biology,"Protein generation,Proteins,Protein or nucleotide language model (pLM/nLM)"
+276,Materials science,"Materials design,Crystal discovery"
+277,Vision,"Visual question answering,Language modeling/generation,Question answering"
+278,Robotics,"Robotic manipulation,Self-driving car,Video generation"
+279,Language,"Language modeling/generation,Question answering,Retrieval-augmented generation,Entity embedding,Translation"
+280,Language,"Code generation,Chat,Search,Language modeling/generation"
+281,3D modeling,"3D reconstruction,3D segmentation"
+282,Video,"Video generation,Image-to-video,Text-to-video,Image generation,Text-to-image"
+283,Multimodal,Unknown
+284,Language,"Translation,Language generation"
+285,Language,Chat
+286,Video,Video editing
+287,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Visual question answering,Search,Instruction interpretation,Visual puzzles"
+288,Language,"Language modeling/generation,Quantitative reasoning,Question answering,Visual question answering,Code generation"
+289,Language,"Question answering,Chat,Language modeling/generation"
+290,Vision,"Language modeling/generation,Visual question answering"
+291,Audio,"Language modeling/generation,Speech synthesis,Speech recognition (ASR),Text-to-speech (TTS),Audio generation,Audio question answering,Translation,Speech-to-speech"
+292,Speech,"Speech synthesis,Translation"
+293,Language,"Chat,Language modeling/generation,Recommender system"
+294,Video,Video description
+295,Multimodal,"Video,Visual question answering,Video description,Language modeling/generation"
+296,Language,"Language modeling/generation,Question answering,Visual question answering,Speech recognition (ASR),Code generation,Quantitative reasoning,Video description,Translation,Chat,Table tasks,Search,Text summarization"
+297,Language,"Code generation,Language modeling/generation,Question answering,Visual question answering,Speech recognition (ASR),Video description"
+298,Language,"Language modeling/generation,Question answering,Code generation,Mathematical reasoning"
+299,Language,"Language modeling/generation,Question answering,Translation,Code generation"
+300,Multimodal,"Visual question answering,Language modeling/generation"
+301,Multimodal,"Visual question answering,Language modeling/generation,Question answering,Character recognition (OCR)"
+302,Vision,"Visual question answering,Video description"
+303,Language,"Code generation,Code autocompletion,Retrieval-augmented generation,Entity embedding"
+304,Multimodal,"Language modeling/generation,Retrieval-augmented generation,Visual question answering,Image captioning,Video description,Character recognition (OCR),Code generation,Translation"
+305,Language,"Language modeling/generation,Retrieval-augmented generation,Question answering,Code generation"
+306,Games,Game of 24 (24 puzzle)
+307,Biology,RNA structure prediction
+308,Language,"Chat,Text summarization,Translation,Language modeling/generation"
+309,Language,"Chat,Language generation"
+310,Language,"Financial management,Data analytics,Search,Text summarization"
+311,Multimodal,"Language modeling/generation,Visual question answering"
+312,Multimodal,Audio generation
+313,Biology,Drug discovery
+314,Language,"Language modeling/generation,Protein question answering,Question answering"
+315,Multimodal,"Language modeling/generation,Question answering,Code generation,Visual question answering"
+316,Biology,"Protein folding prediction,Protein-ligand contact prediction,Protein interaction prediction,Protein structure comparison"
+317,Multimodal,"Vision-language generation,Visual question answering,Mathematical reasoning,Character recognition (OCR),Language modeling/generation,Question answering"
+318,Language,"Question answering,Language modeling/generation,Code generation,Quantitative reasoning"
+319,Biology,"Protein or nucleotide language model (pLM/nLM),Entity embedding"
+320,Language,"Chat,Search,Language modeling/generation,Question answering,Visual question answering"
+321,Mathematics,"Mathematical reasoning,Quantitative reasoning"
+322,Language,"Visual question answering,Language modeling/generation,Quantitative reasoning"
+323,Language,"Language modeling/generation,Code generation,Question answering,Translation,Quantitative reasoning"
+324,Language,"Language modeling/generation,Translation,Code generation,Question answering,Retrieval-augmented generation"
+325,Language,"Language modeling/generation,Quantitative reasoning,Question answering"
+326,Audio,Audio classification
+327,Biology,Spatial Transcriptomics
+328,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Chat,Text summarization,Code generation"
+329,Language,Text classification
+330,Biology,Image embedding
+331,Language,"Language modeling/generation,Chat,Question answering"
+332,Vision,"Data analytics,Miscellaneous image analysis"
+333,Language,"Chat,Question answering"
+334,Multimodal,"Text-to-image,Text-to-video,Text-to-speech (TTS)"
+335,Astronomy,Unknown
+336,Language,Code autocompletion
+337,Biology,Protein design
+338,Language,"Language modeling/generation,Question answering,Text summarization,Text classification"
+339,Language,"Language modeling/generation,Translation"
+340,Language,"Language modeling/generation,Question answering,Mathematical reasoning,Code generation,Chat,Visual question answering,Character recognition (OCR)"
+341,Vision,Object detection
+342,Vision,"Language modeling/generation,Vision-language generation,Question answering,Code generation,Translation,Quantitative reasoning"
+343,Multimodal,"Video compression,Video,Language modeling/generation,Video description"
+344,Language,"Language modeling/generation,Question answering,Translation,Text summarization,Text classification,Code generation"
+345,Video,"Video generation,Text-to-video,Image-to-video,Video-to-video,Image generation,Text-to-image,Visual question answering,Language modeling/generation,Question answering"
+346,Video,"Video generation,Video editing"
+347,Multimodal,"Chat,Language modeling/generation,Question answering,Visual question answering,Image captioning,Face verification,Character recognition (OCR)"
+348,Multimodal,"Transcription,Text summarization,Search,Video editing,Video classification,Image completion"
+349,Language,"Language modeling/generation,Question answering,Visual question answering"
+350,Speech,Speech recognition (ASR)
+351,Biology,"Protein folding prediction,Protein-ligand contact prediction"
+352,Biology,Small molecule property prediction
+353,Biology,Antibody property prediction
+354,Biology,Protein-ligand binding affinity prediction
+355,Language,"Visual question answering,Language modeling/generation,Video description,Speech synthesis,Image captioning"
+356,Biology,Protein function prediction
+357,Biology,Protein classification
+358,Biology,"Proteins,Protein generation"
+359,Language,"Language modeling,Language modeling/generation,Question answering,Code generation,Retrieval-augmented generation"
+360,Biology,Enzyme function prediction
+361,Biology,"Protein folding prediction,Molecular simulation"
+362,Robotics,"Video,Action recognition,Video generation,Instruction interpretation,Robotic manipulation"
+363,Multimodal,"Language modeling/generation,Visual question answering,Image captioning,Question answering,Code generation,Video description,Character recognition (OCR)"
+364,Biology,"Protein or nucleotide language model (pLM/nLM),Nucleotide generation"
+365,Biology,Plasmid Design
+366,Language,"Language modeling,Translation,Japanese language modeling,Language modeling/generation,Question answering"
+367,Biology,"Protein design,Drug discovery"
+368,Biology,Toxin prediction
+369,Biology,"Protein design,Protein or nucleotide language model (pLM/nLM)"
+370,Biology,Molecular simulation
+371,Other,Chip design
+372,Language,"Language modeling/generation,Question answering,Chat,Code generation,Translation"
+373,Biology,"RNA sequence generation,Protein or nucleotide language model (pLM/nLM)"
+374,Biology,Protein generation
+375,Biology,Molecular property prediction
+376,Biology,Codon design
+377,Language,"Language modeling/generation,Visual question answering,Question answering"
+378,Biology,"Protein design,Protein property prediction"
+379,Multimodal,"Visual question answering,Image captioning,Object detection"
+380,Language,"Language modeling/generation,Text summarization,Question answering,Quantitative reasoning,Translation"
+381,Biology,"Protein property prediction,Drug discovery"
+382,Biology,Bacteriophage screening
+383,Biology,Protein embedding
+384,Biology,Mutation prediction
+385,Biology,Allergenic Protein Prediction
+386,Biology,Protein-ligand contact prediction
+387,Biology,Protein-DNA binding prediction
+388,Biology,"Protein generation,Protein design"
+389,Biology,Protein property prediction
+390,Biology,"Protein design,Protein generation"
+391,Biology,Human physiology
+392,Language,"Code generation,Code autocompletion,Quantitative reasoning,Question answering,Language modeling/generation"
+393,Multimodal,"Visual question answering,Video compression,Image captioning,Video description,Language modeling/generation"
+394,Multimodal,"Visual question answering,Video compression,Image captioning"
+395,Language,"Language modeling/generation,Quantitative reasoning,Mathematical reasoning"
+396,Biology,Protein interaction prediction
+397,Robotics,"Robotic manipulation,Video generation,Animal (human/non-human) imitation"
+398,Vision,"Language modeling/generation,Question answering,Visual question answering,Code generation"
+399,Biology,RNA sequence generation
+400,Biology,"Protein-ligand contact prediction,Drug discovery"
+401,Biology,"RNA structure prediction,RNA-Protein interaction prediction,Mean ribosome load prediction"
+402,Biology,Immunogenic Neoantigen Prediction
+403,Vision,"Image classification,Image segmentation"
+404,Biology,Codon optimization
+405,Language,"Code generation,Language modeling/generation,Quantitative reasoning,Chat,Question answering,Translation"
+406,Multimodal,"Text summarization,Transcription,Chat,Question answering,Language modeling/generation,Speech recognition (ASR),Image captioning,Image classification,Video description,Retrieval-augmented generation"
+407,Speech,"Text-to-speech (TTS),Speech synthesis,Speech-to-text,Speech recognition (ASR),Audio question answering,Speech-to-speech"
+408,Materials science,Crystal discovery
+409,Biology,"Drug discovery,Protein-ligand binding affinity prediction"
+410,Biology,Cell Biology
+411,Biology,Protein inverse folding
+412,Biology,Antibody epitope prediction
+413,Biology,"Protein property prediction,Protein or nucleotide language model (pLM/nLM)"
+414,Biology,RNA design
+415,Biology,"Mutation prediction,Protein stability prediction"
+416,Language,"Language modeling/generation,Chat,Code generation"
+417,Biology,"Mutation prediction,Protein protein binding affinity prediction"
+418,Biology,"Protein generation,Proteins"
+419,Vision,"Visual question answering,Medical diagnosis"
+420,Biology,"Cancer diagnosis,Image classification,Object detection"
+421,Biology,Gene expression enhancement
+422,Biology,Molecular representation learning
+423,Biology,"Molecular screening,Drug discovery"
+424,Biology,"Protein folding prediction,Protein interaction prediction,Protein nucleotide interaction prediction,RNA-Protein interaction prediction,Protein design,Drug discovery"
+425,Biology,Drug Sensitivity Prediction
+426,Language,"Language modeling/generation,Translation,Question answering"
+427,Language,"Language modeling/generation,Chat,Translation,Question answering"
+428,Biology,"Mutation prediction,Protein property prediction"
+429,Games,Doom
+430,Biology,Cell-cell interaction prediction
+431,Biology,Protein-RNA binding affinity prediction
+432,Multimodal,"Character recognition (OCR),Document classification,Language modeling/generation,Visual question answering,Document representation"
+433,Biology,Protein protein binding affinity prediction
+434,Multimodal,"Video,Video description,Visual question answering,Language modeling/generation"
+435,Biology,Enzyme substrate pair prediction
+436,Multimodal,"Image captioning,Character recognition (OCR),Visual question answering,Chat"
+437,Language,Quantitative reasoning
+438,Multimodal,"Data analytics,Code generation,Language modeling/generation,Question answering,System control,Instruction interpretation"
+439,Other,Unknown
+440,Language,Search
+441,Speech,"Speech recognition (ASR),Translation"
+442,Vision,Image classification
+443,Language,"Language modeling/generation,Code generation,Question answering"
+444,Robotics,Sports
+445,Vision,"Visual question answering,Language modeling/generation,Image captioning,Character recognition (OCR),Video description"
+446,Multimodal,"Image captioning,Visual question answering,Video description,Object recognition,Action recognition,Language modeling/generation"
+447,Vision,"Image embedding,Image classification"
+448,Vision,Image captioning
+449,Speech,Text-to-speech (TTS)
+450,Biology,Gene expression profile generation
+451,Vision,"Image captioning,Visual question answering,Image classification,Object detection"
+452,Vision,"Visual question answering,Character recognition (OCR)"
+453,Robotics,"Route finding,Video generation,Self-driving car,Spatial Intelligence,Object recognition"
+454,Mathematics,"Automated theorem proving,Quantitative reasoning"
+455,Mathematics,"Language modeling/generation,Geometry,Quantitative reasoning"
+456,Video,"Portrait animation,Video generation,Image-to-video"
+457,Search,Unknown
+458,Language,"Language modeling/generation,Translation,Code generation"
+459,Biology,Transcriptomic prediction
+460,Language,"Question answering,Recommender system"
+461,Language,"Search,Text summarization"
+462,Vision,"Object detection,Image captioning"
+463,Language,"Chat,Language modeling/generation,Code generation,Visual question answering"
+464,Robotics,"3D segmentation,Spatial Intelligence"
+465,Language,"Search,Chat,Text summarization"
+466,Speech,Speech-to-text
+467,Multimodal,"Language modeling/generation,Image completion,Question answering,Image generation,Image captioning,Text-to-image,Table tasks"
+468,Language,"Chat,Language modeling/generation"
+469,Language,"Code generation,Code autocompletion"
+470,Language,Translation
+471,Mathematics,"Mathematical reasoning,Language modeling/generation,Quantitative reasoning"
+472,Multimodal,"Speech recognition (ASR),Speech synthesis,Translation,Speech-to-speech"
+473,Multimodal,"Visual question answering,Language modeling/generation,Question answering,Video description"
+474,Biology,"Molecular simulation,Protein generation,Protein design"
+475,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Translation,Code generation"
+476,Multimodal,"Vision-language generation,Visual question answering,Language modeling/generation,Question answering,Chat,Quantitative reasoning"
+477,Vision,Character recognition (OCR)
+478,Multimodal,"Visual question answering,Language modeling/generation,Question answering,Video description,Character recognition (OCR)"
+479,Multimodal,"Vision-language generation,Language modeling/generation,Question answering,Chat,Visual question answering"
+480,Language,"Language modeling/generation,Translation,Text summarization,Question answering"
+481,Language,"Language modeling/generation,Chat,Code generation,Question answering,Quantitative reasoning"
+482,Multimodal,"Image captioning,Visual question answering,Character recognition (OCR)"
+483,Multimodal,"Chat,Image captioning,Code generation,Language modeling/generation"
+484,Language,"Language modeling/generation,Code generation,Question answering,Translation,Visual question answering"
+485,Multimodal,"Visual question answering,Language modeling/generation,Question answering"
+486,Image generation,"Video generation,3D reconstruction"
+487,Medicine,"Image captioning,Image generation"
+488,Multimodal,"Text summarization,Image captioning,Character recognition (OCR),Visual question answering,Language modeling/generation,Question answering,Speech recognition (ASR)"
+489,Language,"Chat,Language modeling/generation,Question answering"
+490,Audio,"Audio classification,Audio generation"
+491,Biology,Cryo-EM image reconstruction
+492,Language,"Language modeling/generation,Chat,Text summarization,Code generation,Question answering"
+493,Language,"Data analytics,Language modeling/generation"
+494,Language,"Question answering,Language modeling/generation"
+495,Biology,Protein question answering
+496,Games,Atari
+497,Multimodal,"Language modeling/generation,Vision-language generation,Visual question answering,Text-to-image"
+498,Speech,"Audio generation,Speech synthesis,Speech recognition (ASR)"
+499,Language,"Translation,Speech synthesis,Speech recognition (ASR)"
+500,Multimodal,"Chat,Visual question answering,Image captioning,Language modeling/generation,Question answering,Video description"
+501,Multimodal,"Chat,Visual question answering,Image captioning,Language modeling/generation,Question answering"
+502,Language,"Chat,Language modeling/generation,Translation,Code generation"
+503,Language,"Transcription,Translation,Character recognition (OCR),Speech-to-text"
+504,Psychology,"Emotion recognition,Language modeling/generation,Question answering,Chat"
+505,Multimodal,"Chat,Image captioning,Visual question answering,Translation,Language modeling/generation,Question answering,Speech recognition (ASR)"
+506,Materials science,"Atomistic simulations,Molecular simulation"
+507,Unknown,"Chat,Search,Recommender system"
+508,Biology,"Protein folding prediction,Antibody property prediction,Protein-ligand contact prediction,RNA structure prediction,Protein interaction prediction"
+509,Medicine,"Drug discovery,Protein-ligand binding affinity prediction"
+510,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Image generation,Text-to-image"
+511,Language,"Language modeling/generation,Text summarization,Chat,Code generation,Retrieval-augmented generation,Question answering"
+512,Medicine,"Visual question answering,Medical diagnosis"
+513,Language,"Language modeling,Language modeling/generation"
+514,Robotics,"Animal (human/non-human) imitation,Sports"
+515,Multimodal,"Language modeling,Image captioning,Visual question answering"
+516,Medicine,"Medical diagnosis,Question answering,Visual question answering,Mortality prediction,Video description,Text summarization"
+517,Multimodal,"Visual question answering,Image captioning,Object detection,Character recognition (OCR),Language modeling/generation,Translation"
+518,Language,"Language modeling/generation,Chat,Translation"
+519,Multimodal,"Miscellaneous image analysis,Emotion recognition"
+520,Language,"Chat,Language modeling/generation,Quantitative reasoning,Code generation,Translation"
+521,Language,"Chat,Question answering,Text summarization"
+522,Language,"Question answering,Language modeling/generation,Data analytics,Face recognition"
+523,Language,"Language modeling/generation,Translation,Question answering,Code generation,Quantitative reasoning"
+524,Biology,Cell segmentation
+525,Biology,"Protein generation,Protein folding prediction"
+526,Language,"Chat,Language modeling/generation,Code generation"
+527,Language,"Chat,Language modeling/generation,Code generation,Question answering"
+528,Multimodal,"Chat,Language modeling/generation,Image captioning,Code generation,Code autocompletion,Question answering,Visual question answering,Video description,Speech recognition (ASR),Speech-to-text"
+529,Speech,"Text-to-speech (TTS),Speech synthesis,Speech-to-text,Speech recognition (ASR),Audio question answering"
+530,Language,"Language modeling/generation,Code generation,Translation,Quantitative reasoning,Question answering"
+531,Games,"Action recognition,Video description,Video"
+532,Biology,"Protein or nucleotide language model (pLM/nLM),Protein design"
+533,Language,"Question answering,Chat"
+534,Driving,"Self-driving car,Language modeling/generation,Instruction interpretation"
+535,Multimodal,"Chat,Language modeling/generation,Image captioning,Code generation,Code autocompletion,Question answering,Visual question answering,Video description,Speech recognition (ASR),Speech-to-text,Quantitative reasoning"
+536,Multimodal,"Object recognition,Audio question answering,System control,Instruction interpretation,Speech recognition (ASR),Language modeling/generation,Question answering,Audio classification,Text classification"
+537,Language,"Chat,Language modeling/generation,Document classification"
+538,Biology,"Protein-ligand binding affinity prediction,Protein-ligand contact prediction"
+539,Multimodal,"Chat,Language modeling/generation,Image generation,Speech synthesis,Table tasks,Visual question answering,Image captioning"
+540,Language,"Chat,Language modeling/generation,Question answering,Retrieval-augmented generation"
+541,Biology,"Protein folding prediction,Protein or nucleotide language model (pLM/nLM),Proteins"
+542,Language,"Language modeling/generation,Language generation,Translation,Code autocompletion"
+543,Language,"Language modeling/generation,Language generation,Translation"
+544,Games,"Language modeling/generation,Pokemon battles"
+545,Multimodal,"Chat,Recommender system,Image generation,Language modeling/generation,Question answering,Mathematical reasoning,Quantitative reasoning"
+546,Language,"Financial management,Chat"
+547,Vision,"Image captioning,Image classification"
+548,Language,"Language modeling/generation,Chat,Question answering,Text summarization,Code generation,Translation"
+549,Language,"Named entity recognition (NER),Language modeling,Part-of-speech tagging"
+550,Language,"Language modeling,Chat"
+551,Multimodal,"Language modeling,Chat,Image captioning,Code autocompletion,Code generation,Visual question answering"
+552,Language,"Language modeling/generation,Chat,Question answering,Text summarization,Table tasks"
+553,Language,"Chat,Code generation"
+554,Biology,"Drug discovery,Protein-ligand contact prediction,Protein-ligand binding affinity prediction"
+555,Language,"Question answering,Medical diagnosis"
+556,Language,"Language modeling/generation,Chat,Visual question answering,Image captioning"
+557,Multimodal,"Recommender system,Image super-resolution"
+558,Multimodal,"Chat,Image captioning,Visual question answering"
+559,Robotics,"Robotic manipulation,Image captioning,Video description"
+560,Image generation,"Image generation,Home design"
+561,Vision,"Image embedding,Medical diagnosis,Cancer diagnosis,Image classification"
+562,Multimodal,"Character recognition (OCR),Language modeling/generation,Visual question answering,Question answering"
+563,Multimodal,"Chat,Language modeling/generation,Image embedding,Image captioning,Video description,Speech recognition (ASR)"
+564,Materials science,Molecular simulation
+565,Robotics,Animal (human/non-human) imitation
+566,Biology,"RNA structure prediction,RNA splice-site prediction,Mean ribosome load prediction"
+567,Vision,"Visual question answering,Video description,Image captioning,Character recognition (OCR),Language generation"
+568,Language,"Language modeling/generation,Question answering,Medical diagnosis,Named entity recognition (NER),Text classification,Text summarization"
+569,Language,"Language modeling,Visual question answering"
+570,Vision,"Language modeling,Visual question answering,Chat,Translation,Video description,Question answering"
+571,Vision,Representation learning
+572,Games,Chess
+573,Multimodal,"Recommender system,Language modeling/generation,Text summarization"
+574,Language,"Medical diagnosis,Language modeling/generation,Question answering,Character recognition (OCR)"
+575,Vision,"Self-driving car,Visual question answering,Face recognition,Language modeling/generation,Image captioning"
+576,Language,"Language modeling/generation,Question answering,Translation,Text classification,Quantitative reasoning,Code generation,Visual question answering,Video description,Speech recognition (ASR)"
+577,Multimodal,"Text-to-speech (TTS),Text-to-image,Recommender system,Image captioning,Speech synthesis,Character recognition (OCR)"
+578,Multimodal,"Visual question answering,Chat,Question answering"
+579,Language,"Language modeling/generation,Question answering,Code generation,Mathematical reasoning,Medical diagnosis"
+580,Multimodal,"Chat,Image captioning,Face recognition,Visual question answering"
+581,Multimodal,"Chat,Language modeling/generation,Visual question answering,System control"
+582,Vision,"Visual question answering,Language modeling/generation"
+583,Language,"Language modeling/generation,Chat,Text summarization,Code generation"
+584,Biology,Protein nucleotide interaction prediction
+585,Mathematics,"Geometry,Mathematical reasoning"
+586,Language,"Language modeling/generation,Question answering,Code generation,Text-to-image,Image generation"
+587,Biology,Protein representation learning
+588,Language,"Chat,Code autocompletion"
+589,Multimodal,"Language modeling/generation,Question answering,Visual question answering,Speech recognition (ASR),Video description"
+590,Vision,"Visual question answering,Image classification,Image captioning"
+591,Language,"Chat,Language modeling/generation,Video editing"
+592,Robotics,"Self-driving car,Question answering,Recommender system,Object recognition,Language modeling/generation,3D reconstruction"
+593,Biology,Language modeling/generation
+594,Mathematics,"Quantitative reasoning,Language modeling/generation"
+595,Language,"Text summarization,Language modeling/generation,Translation"
+596,Video,"Video generation,Audio generation,Text-to-video,Image-to-video,Video-to-video"
+597,Multimodal,"Chat,Image captioning,Speech recognition (ASR)"
+598,Language,"Language modeling/generation,Semantic search,Text classification,Question answering,Text summarization,Sentiment classification"
+599,Vision,"Instruction interpretation,Visual question answering"
+600,Image generation,"Text-to-image,Image generation,Video generation"
+601,Language,"Language generation,Code generation"
+602,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Translation"
+603,Speech,"Translation,Speech synthesis,Speech recognition (ASR),Speech-to-text,Speech-to-speech"
+604,Multimodal,"Language modeling,Visual question answering,Chat,Translation"
+605,Multimodal,"Chat,Visual question answering,Question answering,Image captioning,Video description,Speech recognition (ASR)"
+606,Speech,"Audio generation,Speech synthesis,Text-to-speech (TTS)"
+607,Language,"Language generation,Question answering"
+608,Speech,"Image captioning,Speech-to-text,Chat,Language modeling/generation,Question answering,Code generation"
+609,Language,"Chat,Language modeling/generation,Question answering,Text summarization"
+610,Language,"Language generation,Chat,Text summarization,Language modeling/generation"
+611,Language,"Language modeling/generation,Text summarization,Chat,Code generation"
+612,Image generation,"Image generation,Video generation,Text-to-video,Image-to-video"
+613,Language,"Language modeling/generation,Visual question answering"
+614,Language,"Chat,Data analytics"
+615,Language,"Language modeling,Language modeling/generation,Chat,Question answering"
+616,Language,"Language modeling,Chat,Language modeling/generation,Question answering"
+617,Language,"Chat,Language generation,Language modeling/generation,Translation,Code generation,Question answering"
+618,Language,"Audio question answering,Chat,Speech recognition (ASR),Translation,Transcription,Text classification,Question answering,Audio classification,Voice identification,Part-of-speech tagging,Speech-to-speech"
+619,Vision,"Visual question answering,Image captioning"
+620,Language,"Language modeling/generation,Question answering,Text summarization,Translation"
+621,Earth science,"Cloud monitoring / analysis,Flood Mapping,Wildfire Mapping,Crop Mapping / Segmentation"
+622,Language,"Text classification,Language modeling/generation"
+623,Multimodal,"Image classification,Speech recognition (ASR)"
+624,Vision,"Visual question answering,Image captioning,Language modeling/generation"
+625,Multimodal,"Chat,Visual question answering"
+626,Language,"Language generation,Language modeling/generation,Question answering,Text summarization,Translation"
+627,Multimodal,"Image captioning,Visual question answering,Chat"
+628,Multimodal,"Chat,Question answering,Visual question answering"
+629,Language,"Chat,Text summarization,Search"
+630,Language,"Semantic embedding,Retrieval-augmented generation"
+631,Biology,Synthetic accessibility model
+632,Language,"Chat,Translation,Language modeling/generation,Question answering,Code generation"
+633,Language,"Language modeling,Language modeling/generation,Translation"
+634,Multimodal,"Chat,Visual question answering,Code generation"
+635,Multimodal,"Video description,Visual question answering,Language modeling/generation"
+636,Language,"Code generation,Language generation,Language modeling/generation,Question answering"
+637,Language,"Quantitative reasoning,Chat"
+638,Multimodal,"Chat,Language modeling/generation,Video generation,Image generation"
+639,Multimodal,"Chat,Image classification,Visual question answering,Image captioning"
+640,Multimodal,"Visual question answering,Character recognition (OCR),Image captioning"
+641,Mathematics,"Mathematical reasoning,Language modeling/generation,Question answering,Code generation"
+642,Language,"Language modeling/generation,Table tasks"
+643,Multimodal,"Object recognition,Language modeling"
+644,Biology,"Protein localization prediction,Text-to-image"
+645,Biology,"Protein folding prediction,Proteins"
+646,Language,"Named entity recognition (NER),Sentiment classification,Language modeling/generation,Financial management"
+647,Language,"Protein folding prediction,Protein generation,Other Biological Modeling,Protein or nucleotide language model (pLM/nLM),Protein question answering"
+648,Language,"Chat,Language modeling/generation,Translation,Question answering"
+649,Language,"Semantic search,Image generation,Language modeling/generation,Code generation,Chat,Text-to-image,Translation"
+650,Biology,"Drug discovery,Protein-RNA binding affinity prediction,Gene expression profile generation"
+651,Multimodal,"Chat,Visual question answering,Translation"
+652,Multimodal,"Language modeling,Visual question answering"
+653,Biology,"Protein pathogenicity prediction,Protein folding prediction,Proteins"
+654,Language,"Chat,Code generation,Translation"
+655,Multimodal,"Language modeling/generation,Vision-language generation,Image generation"
+656,Language,"Language modeling/generation,Image generation,Question answering"
+657,Vision,"Image embedding,Semantic search,Image classification"
+658,Vision,"Image embedding,Visual question answering,Semantic search,Image classification,Language modeling/generation"
+659,Language,"Language modeling,Language modeling/generation,Question answering"
+660,Language,"Chat,Language generation,Language modeling/generation,Question answering"
+661,Multimodal,"Language generation,Chat,Image generation"
+662,Robotics,Helicopter driving
+663,Language,"Language modeling,Chat,Translation,Language modeling/generation,Question answering"
+664,Biology,"Proteins,Protein property prediction"
+665,Language,"Language modeling/generation,Chat,Search,Translation,Code generation,Question answering,Quantitative reasoning"
+666,Multimodal,"Image captioning,Chat,Question answering,Visual question answering"
+667,Language,"Chat,Translation"
+668,Language,"Language modeling/generation,Chat,Text summarization,Translation,Question answering"
+669,Biology,"Proteins,Protein interaction prediction,Protein protein binding affinity prediction,Protein representation learning"
+670,Language,"Language generation,Translation"
+671,Multimodal,"Language modeling,Image generation,Visual question answering"
+672,Medicine,Question answering
+673,Vision,"Image generation,Text autocompletion,Text-to-image,Visual question answering,Image captioning,Language modeling/generation"
+674,Multimodal,"Chat,Language modeling/generation,Question answering,Character recognition (OCR),Image captioning,Speech recognition (ASR),Text-to-speech (TTS)"
+675,Language,"Chat,Language modeling/generation,Text summarization,Translation"
+676,Multimodal,"Language modeling/generation,Image generation"
+677,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein generation"
+678,Vision,"Text-to-image,Image generation,Image-to-image"
+679,Language,"Visual question answering,Image captioning,Named entity recognition (NER),Character recognition (OCR),Document representation"
+680,Vision,"Image captioning,Visual question answering"
+681,Language,"Chat,Code generation,Language modeling/generation,Question answering,Text summarization"
+682,Biology,"Protein generation,Protein or nucleotide language model (pLM/nLM)"
+683,Language,"Chat,Language modeling/generation,Japanese language modeling"
+684,Medicine,Mortality prediction
+685,Language,"Translation,Language modeling/generation"
+686,Biology,Protein stability prediction
+687,Image generation,"Text-to-image,Image captioning,Image generation,Image-to-image"
+688,Multimodal,"Image captioning,Video description,Character recognition (OCR),Visual question answering"
+689,Language,"Language modeling/generation,Question answering,Chat,Medical diagnosis"
+690,Language,"Visual question answering,Medical diagnosis,Image captioning,Image classification,Text summarization,Language modeling/generation,Mortality prediction"
+691,Multimodal,"Image classification,Speech recognition (ASR),Audio question answering,Audio classification,Semantic segmentation"
+692,Multimodal,"Visual question answering,Chat"
+693,Biology,"Proteins,Protein function prediction"
+694,Multimodal,"Image classification,Speech recognition (ASR),Image generation,Language modeling/generation"
+695,Multimodal,"Chat,Visual question answering,Image captioning,Image generation,Vision-language generation"
+696,Language,"Language modeling/generation,Code generation,Speech synthesis"
+697,Multimodal,"Image generation,Audio generation,Video generation,Language generation,Language modeling/generation,Question answering"
+698,Vision,"Image representation,Image classification"
+699,Biology,Virus-host association prediction
+700,Biology,"Protein classification,Protein localization prediction,Enzyme-catalyzed reaction classification"
+701,Language,"Language modeling,Language modeling/generation,Question answering,Financial management,Text classification"
+702,Video,Action recognition
+703,Biology,"Protein or nucleotide language model (pLM/nLM),Protein folding prediction"
+704,Language,"Code generation,Language modeling,Translation,Question answering"
+705,Multimodal,"Language modeling,Language modeling/generation,Question answering,Visual question answering"
+706,Biology,"Proteins,Protein interaction prediction,Drug discovery,Protein-ligand binding affinity prediction"
+707,Language,"Language modeling/generation,Question answering,Search"
+708,Speech,"Translation,Speech synthesis,Speech recognition (ASR),Speech-to-speech"
+709,Robotics,"Visual question answering,Robotic manipulation,Image captioning,Language generation"
+710,Biology,"Molecular representation learning,Molecular property prediction,Protein-ligand contact prediction,Drug discovery"
+711,Language,"Language modeling,Translation,Language modeling/generation,Question answering"
+712,Multimodal,"Visual question answering,Image captioning,Language modeling/generation,Chat,Question answering,Document classification,Image classification,Visual puzzles"
+713,Language,"Language modeling,Code generation"
+714,Language,"Language modeling,Code generation,Language modeling/generation,Question answering"
+715,Vision,"Object detection,Image classification"
+716,Image generation,Unknown
+717,Biology,"Proteins,Protein representation learning,Protein generation,Protein design"
+718,Multimodal,"Vision-language generation,Chat,Visual question answering"
+719,Biology,"Proteins,Protein representation learning"
+720,Biology,"Drug discovery,Proteins"
+721,Language,"Language modeling/generation,Question answering,System control,Code generation,Instruction interpretation,Search,Quantitative reasoning"
+722,Games,Open ended play
+723,Biology,"Protein generation,Proteins,Protein or nucleotide language model (pLM/nLM),Protein contact and distance prediction,Protein classification,Protein localization prediction,Protein fold classification"
+724,Audio,"Speech synthesis,Text-to-speech (TTS)"
+725,Biology,"Protein or nucleotide language model (pLM/nLM),Protein embedding,Protein property prediction,Protein localization prediction"
+726,Biology,"Proteins,Protein pathogenicity prediction"
+727,Language,"Language modeling,Question answering,Word sense disambiguation"
+728,Games,Stratego
+729,Games,Diplomacy
+730,Biology,Representation learning
+731,Language,"Language modeling,Question answering,Mathematical reasoning,Medical diagnosis,Language modeling/generation"
+732,Vision,"Image classification,Object detection,Semantic segmentation,Video classification"
+733,Multimodal,"Language modeling/generation,Chat,Visual question answering,Image generation"
+734,Vision,"Image classification,Object detection,Image segmentation"
+735,Biology,"Proteins,Protein function prediction,Protein fold classification"
+736,Language,"Language modeling,Translation,Text summarization"
+737,Language,"Representation learning,Language modeling"
+738,Language,Instruction interpretation
+739,Language,"Language generation,Language modeling/generation,Question answering,Mathematical reasoning,Quantitative reasoning"
+740,Language,"Language generation,Language modeling/generation,Question answering,Mathematical reasoning"
+741,Biology,Proteins
+742,Materials science,"Molecular simulation,Molecular property prediction,Atomistic simulations,Molecular representation learning,Materials design"
+743,Biology,"Proteins,Protein folding prediction"
+744,Language,"Visual question answering,Language modeling/generation,Image captioning"
+745,Biology,"Cell Biology,Gene expression profile generation,Cell-cell interaction prediction"
+746,Multimodal,"Object detection,Semantic segmentation,Image classification,Visual question answering,Image captioning,Language generation"
+747,Language,"Semantic search,Semantic embedding,Entity embedding"
+748,Language,"Language modeling,Translation,Question answering"
+749,Biology,"Proteins,Protein generation,Protein or nucleotide language model (pLM/nLM)"
+750,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein folding prediction"
+751,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM)"
+752,Language,"Language modeling,Translation,Code generation"
+753,Language,"Chat,Text classification,Financial management"
+754,Language,"Quantitative reasoning,Mathematical reasoning,Language modeling/generation,Question answering"
+755,Multimodal,"Object detection,Language modeling/generation,Image generation,Visual question answering,Image classification,Image captioning,Text classification,Text summarization,Question answering"
+756,Vision,"Image classification,Visual question answering,Image captioning"
+757,Multimodal,"Language modeling,Visual question answering,Language modeling/generation,Image captioning"
+758,Multimodal,Image classification
+759,Language,"Language modeling/generation,Text summarization"
+760,Biology,"Protein folding prediction,Protein classification,Protein-ligand binding affinity prediction,Protein structure similarity prediction"
+761,Materials science,Materials design
+762,Multimodal,"Atari,Image captioning,Chat,Robotic manipulation"
+763,Language,"Language modeling/generation,Question answering,Text summarization"
+764,Multimodal,"Visual question answering,Image captioning"
+765,Language,"Language modeling/generation,Translation,Text summarization,Text classification"
+766,Biology,"Proteins,Protein interaction prediction,RNA-Protein interaction prediction"
+767,Language,"Language modeling,Code generation,Translation"
+768,Multimodal,"Language modeling,Image classification"
+769,Biology,Protein structure comparison
+770,Medicine,Drug discovery
+771,Vision,Text-to-image
+772,Language,"Automated theorem proving,Language modeling/generation,Question answering,Mathematical reasoning"
+773,Language,"Language modeling,Translation,Language modeling/generation"
+774,Video,Video compression
+775,Biology,"Proteins,Protein generation,Protein representation learning"
+776,Image generation,"Image generation,Image-to-image"
+777,Language,"Language modeling/generation,Language modeling"
+778,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein interaction prediction,Protein function prediction,Protein representation learning"
+779,Biology,"Proteins,Antibody property prediction,Protein or nucleotide language model (pLM/nLM)"
+780,Biology,Signal peptide prediction
+781,Multimodal,"Vision-language generation,Image generation,Text-to-image,Image captioning,Language modeling/generation,Visual question answering"
+782,Language,"Language modeling,Language modeling/generation,Relation extraction,Sentiment classification,Text classification"
+783,Language,"Translation,Question answering,Language modeling/generation"
+784,Language,Text summarization
+785,Multimodal,"Translation,Language modeling/generation,Visual question answering"
+786,Language,Named entity recognition (NER)
+787,Language,"Language modeling,Question answering"
+788,Games,"Chess,Go,Poker"
+789,Recommendation,Click-through rate prediction
+790,Language,"Language modeling,Text classification"
+791,Multimodal,"Image generation,Video generation,Text-to-image,Text-to-video"
+792,Vision,"Action recognition,Image classification"
+793,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein pathogenicity prediction"
+794,Vision,"Semantic segmentation,Image classification,Image generation"
+795,Mathematics,"Language modeling/generation,Quantitative reasoning"
+796,Language,"Language modeling/generation,Named entity recognition (NER)"
+797,Biology,"Protein pathogenicity prediction,Proteins"
+798,Multimodal,Image captioning
+799,Language,"Language modeling/generation,Chat,Translation,Text classification"
+800,Search,Search
+801,Language,"Language modeling,Question answering,Language modeling/generation"
+802,Multimodal,"Language modeling/generation,Speech recognition (ASR),Image captioning"
+803,Robotics,Object detection
+804,Language,"Language modeling,Language modeling/generation,Text classification,Question answering"
+805,Materials science,"Molecular simulation,Molecular property prediction,Molecular representation learning,Atomistic simulations"
+806,Biology,"Proteins,Protein generation,Protein inverse folding,Protein fold classification"
+807,Vision,"Image classification,Neural Architecture Search - NAS"
+808,Multimodal,"Representation learning,Image classification,Image representation"
+809,Multimodal,"Image captioning,Chat,Image generation,Text-to-image,Language modeling/generation,Question answering,Visual question answering"
+810,Language,"Language modeling,Translation"
+811,Vision,"Image classification,Image generation"
+812,Medicine,"Medical diagnosis,Text classification,Prediction of hospital stay duration,Prediction of diabetic heart failure (DHF),Prediction of onset of pancreatic cancer (PaCa)"
+813,Language,"Language modeling/generation,Image captioning,Question answering,Visual question answering,Translation,Character recognition (OCR),Search"
+814,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein representation learning"
+815,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein contact and distance prediction"
+816,Language,"Language modeling/generation,Question answering,Automated theorem proving,Code generation"
+817,Language,"Language modeling/generation,Text summarization,Question answering"
+818,Language,Text autocompletion
+819,Image generation,"Image generation,Image representation"
+820,Multimodal,"Chat,Image captioning"
+821,Language,"Language modeling/generation,Image generation,Video generation,Text-to-image,Question answering,Visual question answering"
+822,Multimodal,"Image generation,Visual question answering"
+823,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Protein contact and distance prediction,Protein folding prediction"
+824,Speech,"Speech recognition (ASR),Audio classification"
+825,Multimodal,"Zero-shot image classification,Character recognition (OCR),Video description"
+826,Language,"Language modeling,Text summarization,Translation"
+827,Biology,"Protein or nucleotide language model (pLM/nLM),Proteins"
+828,Language,Relation extraction
+829,Vision,Image representation
+830,Speech,Speech completion
+831,Language,"Document classification,Named entity recognition (NER)"
+832,Language,"Document classification,Named entity recognition (NER),Text classification"
+833,Language,"Question answering,Relation extraction,Named entity recognition (NER)"
+834,Biology,"Proteins,Protein representation learning,Protein classification,Protein interaction prediction"
+835,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Mutation prediction,Protein contact and distance prediction"
+836,Language,"Language modeling,Language modeling/generation,Text summarization,Chat"
+837,Biology,"Drug discovery,Language modeling,Object recognition,Cancer diagnosis"
+838,Language,"Text autocompletion,Language modeling/generation"
+839,Vision,Image completion
+840,Image generation,Image completion
+841,Language,"Question answering,Retrieval-augmented generation"
+842,Language,Document representation
+843,Language,"Neural Architecture Search - NAS,Language modeling"
+844,Vision,Visual puzzles
+845,Language,"Text autocompletion,Language generation,Text summarization"
+846,Multimodal,"Language modeling/generation,Image captioning"
+847,Language,"Text autocompletion,Chat"
+848,Games,Dota 2
+849,Vision,"Image generation,Image-to-image"
+850,Language,"Language modeling/generation,Part-of-speech tagging,Named entity recognition (NER)"
+851,Language,"Named entity recognition (NER),Question answering,Text classification"
+852,Games,StarCraft
+853,Vision,"Neural architecture search for computer vision,Image classification,Object detection,Image captioning"
+854,Language,"Language modeling/generation,Translation,Question answering,Text summarization,Language modeling"
+855,Games,Hide and seek
+856,Language,"Chat,Image captioning,Visual question answering,Language modeling/generation,Translation"
+857,Vision,Object recognition
+858,Biology,"Proteins,Protein or nucleotide language model (pLM/nLM),Enzyme function prediction"
+859,Games,Poker
+860,Language,"Translation,Language modeling"
+861,Language,"Language modeling/generation,Question answering,Sentiment classification"
+862,Vision,"Image classification,Object detection"
+863,Vision,"Image classification,Object detection,Neural Architecture Search - NAS"
+864,Vision,"Image completion,Object detection,Image classification"
+865,Biology,"Protein folding prediction,Proteins,Protein contact and distance prediction"
+866,Vision,"Visual question answering,Semantic segmentation"
+867,Vision,Semantic segmentation
+868,Language,"Neural Architecture Search - NAS,Language modeling/generation"
+869,Language,Speech recognition (ASR)
+870,Materials science,Molecular property prediction
+871,Language,"Relation extraction,Sentiment classification,Text classification,Named entity recognition (NER)"
+872,Games,Go
+873,Games,Hanabi
+874,3D modeling,"3D segmentation,Object detection"
+875,Unknown,Multi-class classification
+876,Unknown,Regression
+877,Biology,"Proteins,Protein folding prediction,Protein contact and distance prediction"
+878,Language,"Question answering,Text autocompletion"
+879,Language,"Language modeling,Translation,Text classification"
+880,Biology,"Protein folding prediction,Protein property prediction"
+881,Vision,Image super-resolution
+882,Vision,"Image classification,Object recognition"
+883,Image generation,Image super-resolution
+884,Games,Capture the flag
+885,Language,"Language modeling,Neural Architecture Search - NAS"
+886,Vision,"Object detection,Image classification,Image segmentation"
+887,Language,"Question answering,Text classification,Language modeling"
+888,Vision,Digit recognition
+889,Vision,"Image classification,Digit recognition"
+890,Language,"Question answering,Sentiment classification,Language modeling"
+891,Language,"Language modeling,Text summarization"
+892,Vision,Person retrieval
+893,Speech,Speech synthesis
+894,Games,"Chess,Shogi,Go"
+895,Video,Person re-identification
+896,Vision,Person re-identification
+897,Recommendation,Collaborative filtering
+898,Vision,"Image classification,Object detection,Semantic segmentation,Pose estimation"
+899,Biology,Protein localization prediction
+900,Games,Atari game: Ms. Pac-Man
+901,3D modeling,3D segmentation
+902,3D modeling,Action recognition
+903,Vision,"Object detection,Image classification,Face detection"
+904,Vision,"Face recognition,3D reconstruction"
+905,Vision,Face detection
+906,Vision,"Digit recognition,Image classification"
+907,Vision,"Image classification,Atari"
+908,Vision,Pose estimation
+909,Speech,"Text-to-speech (TTS),Speech synthesis,Audio generation"
+910,Mathematics,Pattern classification
+911,Video,"Video,Action recognition"
+912,Language,Part-of-speech tagging
+913,Vision,Face recognition
+914,Language,"Named entity recognition (NER),Language modeling"
+915,Vision,"Face detection,3D reconstruction"
+916,Robotics,"Robotic manipulation,Self-driving car"
+917,Vision,Face verification
+918,Video,Video
+919,Other,Sequence memorization
+920,Recommendation,"Recommender system,Click-through rate prediction"
+921,Video,Video classification
+922,Vision,"Entity embedding,Semantic segmentation"
+923,Language,Sentiment classification
+924,Speech,Audio classification
+925,Vision,Image clustering
+926,Vision,Semantic embedding
+927,Language,Language Structure Modeling
+928,Vision,"Object detection,Image segmentation"
+929,Audio,"Language modeling,Audio generation"
+930,Other,Mathematical simulation
+931,Vision,"Character recognition (OCR),Image classification"
+932,Other,Text classification
+933,Language,"Semantic embedding,Sentiment classification"
+934,Speech,Transcription
+935,Speech,"Speech recognition (ASR),Transcription"
+936,Other,Binary classification
+937,Other,Image classification
+938,Recommendation,Movie ratings
+939,Other,Miscellaneous image analysis
+940,Vision,Self-driving car
+941,Driving,Self-driving car
+942,Other,"Image classification,Language Structure Modeling,Text classification"
+943,Recommendation,"Movie ratings,Recommender system"
+944,Other,"Image classification,Regression"
+945,Other,Image embedding
+946,Vision,"Object recognition,Image classification"
+947,Video,Corner detection
+948,Driving,Helicopter driving
+949,Robotics,"Self-driving car,Object detection"
+950,Vision,Miscellaneous image analysis
+951,Biology,Other Biological Modeling
+952,Language,Word sense disambiguation
+953,Vision,"Image classification,Text classification"
+954,Recommendation,"Recommender system,Collaborative filtering,Movie ratings"
+955,Recommendation,"Recommender system,Search"
+956,Language,Document classification
+957,Language,"Binary classification,Part-of-speech tagging"
+958,Other,Pole balancing
+959,Mathematics,"Pattern classification,Binary classification,Regression"
+960,Mathematics,Periodic function approximation
+961,Materials science,Pattern classification
+962,Vision,"Binary classification,Digit recognition"
+963,Games,Backgammon
+964,Medicine,Medical diagnosis
+965,Robotics,"Route finding,System control"
+966,Games,Pole balancing
+967,Language,"Semantic embedding,Document representation,Language Structure Modeling,Search"
+968,Unknown,Object recognition
+969,Mathematics,Triplet completion
+970,Other,Representation learning
+971,Other,"Text classification,Image classification"
+972,Language,Verb conjugation
+973,Other,Pattern recognition
+974,Robotics,Pole balancing
+975,Mathematics,Dimensionality reduction
+976,Vision,"Digit recognition,Character recognition (OCR)"
+977,Other,"Miscellaneous image analysis,Image classification"
+978,Games,Blackjack
+979,Games,Tic Tac Toe
+980,Games,Checkers
+981,Robotics,System control
+982,Mathematics,Binary classification
+983,Vision,Pattern recognition
+984,Language,Morse translation
+985,Mathematics,Numerical simulation
+986,Robotics,Maze solving

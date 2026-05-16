@@ -1,0 +1,1309 @@
+organization_id,Organization,Organization categorization,Country (of organization)
+1,Google DeepMind,Industry,United States of America
+2,NVIDIA,Industry,United States of America
+3,OpenAI,Industry,United States of America
+4,Google,Industry,United States of America
+5,Cognition,Industry,United States of America
+6,Alibaba,Industry,China
+7,"Prime Intellect,Arcee AI",Industry,United States of America
+8,Anthropic,Industry,United States of America
+9,Z.ai (Zhipu AI),Industry,China
+10,MiniMax,Industry,China
+11,ByteDance,Industry,China
+12,Cursor,Industry,United States of America
+13,StepFun,Industry,China
+14,Moonshot,Industry,China
+15,Figure AI,Industry,United States of America
+16,Upstage,Industry,Korea (Republic of)
+17,LG AI Research,Industry,Korea (Republic of)
+18,NC AI,Industry,Korea (Republic of)
+19,SK Telecom,Industry,Korea (Republic of)
+20,NAVER,Industry,Korea (Republic of)
+21,Xiaomi Corp,Industry,China
+22,Nous Research,Industry,United States of America
+23,Mistral AI,Industry,France
+24,Amazon,Industry,United States of America
+25,DeepSeek,Industry,China
+26,Runway,Industry,United States of America
+27,Prime Intellect,Industry,United States of America
+28,Black Forest Labs,Industry,Germany
+29,Allen Institute for AI,Research collective,United States of America
+30,Meta AI,Industry,United States of America
+31,"Allen Institute for AI,University of Washington,Carnegie Mellon University (CMU),Stanford University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Princeton University,Massachusetts Institute of Technology (MIT),University of Maryland",Research collective,United States of America
+32,xAI,Industry,United States of America
+33,Physical Intelligence,Industry,United States of America
+34,Shanghai AI Lab,Academia,China
+35,Generalist,Industry,United States of America
+36,Beijing Academy of Artificial Intelligence / BAAI,Academia,China
+37,"Microsoft Research Asia,Shanghai Jiao Tong University,Carnegie Mellon University (CMU)",Industry,China
+38,"Ukrainian Catholic University,Igor Sikorsky Kyiv Polytechnic Institute,AGH University of Krakow,Lviv Polytechnic",Academia,Ukraine
+39,Ant Group,Industry,China
+40,"Fudan University,Shanghai Qiji Zhifeng",Academia,China
+41,Anthrogen,Industry,United States of America
+42,Microsoft,Industry,United States of America
+43,"Google Research,Yale University,Google DeepMind,Brown University,University of Southern California",Industry,United States of America
+44,Samsung SAIT AI Lab,Industry,Korea (Republic of)
+45,IBM,Industry,United States of America
+46,Hume,Industry,United States of America
+47,"Z.ai (Zhipu AI),Tsinghua University",Industry,China
+48,Sber,Industry,Russia
+49,"Shanghai AI Lab,Peking University,Shanghai Jiao Tong University",Academia,China
+50,Kuaishou Technology,Industry,China
+51,Suno,Industry,United States of America
+52,"Sber,Moscow Institute of Physics and Technology",Industry,Russia
+53,Apple,Industry,United States of America
+54,Veed,Industry,United Kingdom of Great Britain and Northern Ireland
+55,Leonardo AI,Industry,Australia
+56,"Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),G42",Academia,United Arab Emirates
+57,Softbank,Industry,Japan
+58,Resemble AI,Industry,United States of America
+59,"ETH Zurich,Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Swiss National Supercomputing Centre (CSCS),Swisscom",Academia,Switzerland
+60,Meituan Inc,Industry,China
+61,"Massachusetts Institute of Technology (MIT),Databricks",Academia,United States of America
+62,Yandex,Industry,Russia
+63,Cohere,Industry,Canada
+64,"OpenGPT-X,Fraunhofer Institute for Algorithms and Scientific Computing,Forschungszentrum Julich,Technische Universität Dresden",Government,Germany
+65,"NASA,University of Alabama,IBM Research",Government,United States of America
+66,AI Singapore,Government,Singapore
+67,Massachusetts Institute of Technology (MIT),Academia,United States of America
+68,"Allen Institute for AI,University of Washington",Research collective,United States of America
+69,Moonvalley,Industry,Canada
+70,Ideogram,Industry,Canada
+71,Sapient Intelligence,Unknown,Singapore
+72,"Microsoft Research Asia,Peking University,Tsinghua University",Industry,China
+73,Kunlun Inc.,Industry,China
+74,"Google,Google DeepMind",Industry,United States of America
+75,Trillion Labs,Industry,Korea (Republic of)
+76,"Google DeepMind,Google",Industry,United States of America
+77,"Google DeepMind,University of Nottingham,University of Warwick,Athens University of Economics and Business,Google,University of Oxford",Industry,United States of America
+78,T-Bank,Industry,Russia
+79,Rednote,Industry,China
+80,Baidu,Industry,China
+81,"China Mobile,Zero Gravity Labs (0g AI)",Industry,China
+82,"Hangzhou EZVIZ Software Co., Ltd. (Hikvision)",Industry,China
+83,"MiniMax,Hailuo AI",Industry,China
+84,Inception Labs,Industry,United States of America
+85,"Stanford University,Microsoft,Georgia Institute of Technology",Academia,United States of America
+86,Facebook AI Research,Industry,United States of America
+87,"Mistral AI,All Hands AI",Industry,France
+88,OpenBMB (Open Lab for Big Model Base),Unknown,China
+89,1X,Industry,United States of America
+90,"Massachusetts Institute of Technology (MIT),Recursion Pharmaceuticals,ETH Zurich,Valence Labs",Academia,United States of America
+91,FutureHouse,Unknown,United States of America
+92,Cartesia,Industry,United States of America
+93,ElevenLabs,Industry,United States of America
+94,Fish Audio,Industry,United States of America
+95,Huawei,Industry,China
+96,"Chinese Academy of Sciences,Shenzhen Institute of Advanced Technology,University of Chinese Academy of Sciences,National University of Singapore,University of Science and Technology of China (USTC)",Academia,China
+97,LightOn,Industry,France
+98,Technology Innovation Institute,Government,United Arab Emirates
+99,Voyage AI,Industry,United States of America
+100,Marin,Research collective,United States of America
+101,"NVIDIA,Massachusetts Institute of Technology (MIT),Tsinghua University,Playground,Peking University,The University of Hong Kong",Industry,United States of America
+102,DeepGenomics,Industry,Canada
+103,Intelligent Internet,Industry,United Kingdom of Great Britain and Northern Ireland
+104,DeepMind,Industry,United Kingdom of Great Britain and Northern Ireland
+105,Lightricks,Industry,Israel
+106,PixVerse AI,Industry,China
+107,Tencent,Industry,China
+108,ZTE,Industry,China
+109,Lenovo,Industry,China
+110,"NVIDIA,ServiceNow",Industry,United States of America
+111,"Cognition,Stanford University",Industry,United States of America
+112,Typhoon / SCB 10X,Industry,Thailand
+113,Chan Zuckerberg Initiative,Research collective,United States of America
+114,Cisco,Industry,United States of America
+115,Writer,Industry,United States of America
+116,PleIAs,Industry,France
+117,HiDream,Industry,China
+118,Adobe,Industry,United States of America
+119,"INSAIT,ETH Zurich",Academia,Bulgaria
+120,"NVIDIA,Nanjing University,Hong Kong Polytechnic University,Rutgers University",Industry,United States of America
+121,Trend Micro,Industry,Japan
+122,Darktrace,Industry,United Kingdom of Great Britain and Northern Ireland
+123,Deepgram,Industry,United States of America
+124,"IBM,Forschungszentrum Julich,European Space Agency (ESA),NASA",Industry,United States of America
+125,"Google DeepMind,Georgia Institute of Technology,Wild Dolphin Project",Industry,United States of America
+126,Tsinghua University,Academia,China
+127,360 Security Technology,Industry,China
+128,SenseTime,Industry,Hong Kong
+129,"Google DeepMind,Google Research",Industry,United States of America
+130,"Luminary Cloud,NVIDIA,Honda",Industry,United States of America
+131,Midjourney,Industry,United States of America
+132,"Mahidol University,AI Entrepreneurs Association of Thailand",Academia,Thailand
+133,Papla Media,Industry,Poland
+134,Guangzhou Lingju Information Technology Co Ltd.,Industry,China
+135,"Shanghai AI Lab,University of Sydney,Chinese University of Hong Kong (CUHK),Shanghai Jiao Tong University,Krea AI",Academia,China
+136,CassetteAI,Industry,United States of America
+137,FASHN AI,Industry,United Kingdom of Great Britain and Northern Ireland
+138,Wayve,Industry,United Kingdom of Great Britain and Northern Ireland
+139,Perplexity,Industry,United States of America
+140,"Stability AI,Northeastern University",Industry,United Kingdom of Great Britain and Northern Ireland
+141,"NVIDIA,University of Toronto",Industry,United States of America
+142,"NVIDIA,University of Toronto,Vector Institute,University of Illinois Urbana-Champaign (UIUC)",Industry,United States of America
+143,University of Missouri,Academia,United States of America
+144,"Troy Information Technology Co., Ltd.",Industry,China
+145,"National University of Singapore,Skywork AI,Hong Kong University of Science and Technology (HKUST),University of California (UC) Berkeley,Zhejiang University (ZJU)",Academia,Singapore
+146,"Hong Kong University of Science and Technology (HKUST),Multimodal Art Projection (MAP)",Academia,Hong Kong
+147,Reka AI,Industry,United States of America
+148,Foxconn,Industry,Taiwan
+149,AI21 Labs,Industry,Israel
+150,Hedra AI,Industry,United States of America
+151,iFlytek,Industry,China
+152,"NVIDIA,National University of Singapore,University of Toronto,Vector Institute",Industry,United States of America
+153,Pika Labs,Industry,United States of America
+154,IBM Research,Industry,United States of America
+155,"Shanghai Lingyi Artificial Intelligence Technology Co., Ltd.",Industry,China
+156,"Arc Institute,Stanford University,NVIDIA,Liquid,University of California (UC) Berkeley,Goodfire,Columbia University,University of California San Francisco",Academia,United States of America
+157,"Chengdu Tasi Technology Co., Ltd.",Industry,China
+158,"Meta AI,Universite de Technologie de Compiègne – CNRS,Basque Center on Cognition",Industry,United States of America
+159,Yayi (Wenge),Industry,China
+160,BRIA AI,Industry,United States of America
+161,"Renmin University of China,Ant Group",Academia,China
+162,"Shanghai AI Lab,Shanghai Jiao Tong University,Chinese University of Hong Kong (CUHK),InnoHK",Academia,China
+163,Zyphra,Industry,United States of America
+164,"NVIDIA,University of Washington,University of Southern California",Industry,United States of America
+165,"The University of Hong Kong,ByteDance",Academia,Hong Kong
+166,"Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute",Academia,China
+167,"IBM Research,NASA,University of Alabama,University of Iceland,Forschungszentrum Julich,Virginia Tech (Virginia Polytechnic Institute and State University),Arizona State University,Oregon State University,Boston University,University of California (UC) Berkeley,Julich Supercomputing Center",Industry,United States of America
+168,"Stanford University,University of Washington,Allen Institute for AI,Contextual AI",Academia,United States of America
+169,Baichuan,Industry,China
+170,LumaLabs,Industry,United States of America
+171,"NVIDIA,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)",Industry,United States of America
+172,"NVIDIA,Brown University",Industry,United States of America
+173,"OpenAI,Retro Biosciences",Industry,United States of America
+174,Microsoft Research AI for Science,Industry,United States of America
+175,China Unicom,Industry,China
+176,Saama,Unknown,United States of America
+177,"Stability AI,University of Illinois Urbana-Champaign (UIUC)",Industry,United Kingdom of Great Britain and Northern Ireland
+178,"Allen Institute for AI,University of Washington,New York University (NYU)",Research collective,United States of America
+179,"University of Southern California,Georgia Institute of Technology,Stanford University,NVIDIA",Academia,United States of America
+180,Shanghai Jiao Tong University,Academia,China
+181,Beijing 58 Information Technology,Industry,China
+182,Suzhou Jueqing Diyu Intelligent Technology,Industry,China
+183,"Shanghai Jiao Tong University,University of Cambridge,Geely Automobile Research Institute (Ningbo) Company",Academia,China
+184,"Wuxi Sixiang Digital Intelligence Technology Co., Ltd.",Industry,China
+185,"Meta AI,Stanford University",Industry,United States of America
+186,Microsoft Research,Industry,United States of America
+187,"Facebook,University of California San Diego",Industry,United States of America
+188,"Shanghai AI Lab,SenseTime,Tsinghua University,Nanjing University,Fudan University,Chinese University of Hong Kong (CUHK),Shanghai Jiao Tong University",Academia,China
+189,"NVIDIA,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,University of California San Diego,University of Washington,Tsinghua University",Industry,United States of America
+190,"University of British Columbia (UBC),Vector Institute,CIFAR AI Research",Academia,Canada
+191,Poolside,Industry,United States of America
+192,University of Freiburg,Academia,Germany
+193,"Prime Intellect,Hugging Face,Arcee AI",Industry,United States of America
+194,4Paradigm,Industry,China
+195,"Shanghai Shuheng Information Technology Co., Ltd.",Industry,China
+196,CreditEase,Industry,China
+197,Inspur,Industry,China
+198,Ruliad,Industry,United Kingdom of Great Britain and Northern Ireland
+199,Stability AI,Industry,United Kingdom of Great Britain and Northern Ireland
+200,"University of Bonn,Institute for Numerical Simulation,Fraunhofer Institute for Algorithms and Scientific Computing",Academia,Germany
+201,Samsung,Industry,Korea (Republic of)
+202,"Massachusetts Institute of Technology (MIT), Genesis Therapeutics",Academia,United States of America
+203,"Bangladesh University of Engineering and Technology,University of California Riverside,Carnegie Mellon University (CMU)",Academia,India
+204,"Peking University,Tsinghua University,Peng Cheng Laboratory,Alibaba DAMO Academy,Lehigh University",Academia,China
+205,Nexusflow,Industry,United States of America
+206,"Indosat,Tech Mahindra,AI Singapore,GoTo",Industry,Indonesia
+207,ShengShu,Industry,China
+208,"Université de Lille,Linköping University,Universite de Technologie de Compiègne – CNRS",Academia,France
+209,Earth Species Project,Research collective,United States of America
+210,"Shanghai Jiao Tong University,Chinese Academy of Sciences",Academia,China
+211,China Telecom,Industry,China
+212,Recursion Pharmaceuticals,Industry,United States of America
+213,Harbin Institute of Technology,Academia,China
+214,Jeonbuk National University,Academia,Korea (Republic of)
+215,"Tsinghua University,Beijing University of Posts and Telecommunications",Academia,China
+216,"Princeton University,University of Virginia",Academia,United States of America
+217,"Shanghai Xingzhi Technology Co., Ltd.",Industry,China
+218,Microsoft Research Asia,Industry,China
+219,Zhijiang Lab,Unknown,China
+220,Peking University,Academia,China
+221,Recraft,Industry,United Kingdom of Great Britain and Northern Ireland
+222,Haiper,Industry,United Kingdom of Great Britain and Northern Ireland
+223,"Shanghai Jiao Tong University,Shanghai AI Lab,East China University of Science and Technology,Shanghai Tech University,Guangzhou Inernational Bio Island,Chinese Academy of Sciences,Shanghai Academy of Experimental Medicine",Academia,China
+224,Cohere for AI,Industry,Canada
+225,"SpeakLeash,Cyfronet AGH",Research collective,Poland
+226,Huddersfield University,Academia,United Kingdom of Great Britain and Northern Ireland
+227,Genmo,Industry,United States of America
+228,"Meta AI,King Abdullah University of Science and Technology (KAUST),Korea University",Industry,United States of America
+229,Alibaba DAMO Academy,Industry,China
+230,Megvii Inc,Industry,China
+231,"Xinhua Zhiyun Technology Co., Ltd.",Industry,China
+232,Rhymes AI,Industry,United States of America
+233,"Tik Tok,Hong Kong University",Industry,China
+234,01.AI,Industry,China
+235,"DeepSeek,The University of Hong Kong,Peking University",Industry,China
+236,KE Holdings Inc. (“Beike”),Industry,China
+237,Chai discovery,Industry,United States of America
+238,"NVIDIA,Massachusetts Institute of Technology (MIT),Tsinghua University",Industry,United States of America
+239,"Alibaba,Hong Kong Polytechnic University",Industry,China
+240,"Southwest Petroleum University,East China Normal University",Academia,China
+241,"Hangzhou Institute of Medicine,Zhejiang University (ZJU),University of Chinese Academy of Sciences",Academia,China
+242,Regeneron,Industry,United States of America
+243,Pennsylvania State University,Academia,United States of America
+244,"Fox Chase Cancer Center,Temple University School of Pharmacy",Academia,United States of America
+245,"Stockholm University,Science for Life Laboratory",Academia,Sweden
+246,"Nanhu Brain-Computer Interface Institute,Lingang Laboratory,Medical School of Nantong University,Zhejiang University School of Medicine",Academia,China
+247,"West Virginia University,University of New Mexico",Academia,United States of America
+248,"University of California Santa Barbara (UCSB),University of California Los Angeles (UCLA),Amazon,University of Waterloo",Academia,United States of America
+249,"Baichuan,Westlake University,Zhejiang University (ZJU)",Industry,China
+250,"University of California San Diego,BioMap Research,The Scripps Research Institute,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",Academia,United States of America
+251,"University of California Davis,Pt. Jawahar Lal Nehru Memorial Medical College,Purdue University",Academia,United States of America
+252,Tokyo Institute of Technology,Academia,Japan
+253,"Profluent Bio,California Institute of Technology",Industry,United States of America
+254,"University of Science and Technology of China (USTC),Oristruct Biotech Company,iFLYTEK Research",Academia,China
+255,"Linköping University,Uppsala University,Stockholm University",Academia,Sweden
+256,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Swiss Institute of Bioinformatics,Imperial College London,University of Oxford,Prescient Design",Academia,Switzerland
+257,"Cleveland Clinic,Kent State University,Pacific Northwest National Laboratory",Academia,United States of America
+258,"University of Luxembourg,Technische Universitat Berlin,Berlin Institute for the Foundations of Learning and Data,DeepMind,Max Planck Institute for Informatics,Korea University",Academia,Luxembourg
+259,"Peking University,Kuaishou Technology,Beijing University of Posts and Telecommunications",Academia,China
+260,Ginkgo Bioworks,Industry,United States of America
+261,Korea Advanced Institute of Science and Technology (KAIST),Academia,Korea (Republic of)
+262,"McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Hong Kong University of Science and Technology (HKUST),University of Washington,Microsoft Research,DeepMind,Shanghai Jiao Tong University,University of Montreal / Université de Montréal",Academia,Canada
+263,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),University of Zurich,University of Lausanne,Massachusetts Institute of Technology (MIT),Visterra Inc,Swiss Federal Institute of Technology",Academia,Switzerland
+264,Harvard University,Academia,United States of America
+265,Liquid,Industry,United States of America
+266,YDS Pharmatech,Industry,United States of America
+267,"Fujitsu,Cohere",Industry,Japan
+268,"University of Science and Technology of China (USTC),State Key Laboratory of Cognitive Intelligence,Harvard University",Academia,China
+269,"University of Science and Technology of China (USTC),State Key Laboratory of Cognitive Intelligence,Princeton University",Academia,China
+270,Johns Hopkins University,Academia,United States of America
+271,"Chongqing University,Ministry of Natural Resources (China)",Academia,China
+272,Shape Therapeutics,Industry,United States of America
+273,Shandong University,Academia,China
+274,"Heinrich Heine University,Concordia University",Academia,Germany
+275,University of Washington,Academia,United States of America
+276,"RWKV Foundation,EleutherAI,Ohio State University,University of California Santa Barbara (UCSB),Wroclaw Tech (Wrocław University of Science and Technology),Guangdong Laboratory of Artificial Intelligence and Digital Economy (Pazhou Lab),New York University (NYU),Harvard University,Contextual AI,University of Chinese Academy of Sciences,University of California Santa Cruz,Tsinghua University,University of Edinburgh,University of British Columbia (UBC),Pennsylvania State University",Research collective,Multinational
+277,"Bangladesh University of Engineering and Technology,University of California Riverside",Academia,India
+278,"University of Washington,Institute for Protein Design,Georgia Institute of Technology,Microsoft,Heidelberg University",Academia,United States of America
+279,"Zhejiang University (ZJU),Westlake University",Academia,China
+280,"Harvard Medical School,Harvard-MIT Program in Health Sciences and Technology,The Mount Sinai Hospital (New York),Broad Institute,Harvard Data Science Initiative,Harvard University,Stanford University",Academia,United States of America
+281,"Sorbonne University,Université Grenoble Alpes,Institut Universitaire de France (IUF)",Academia,France
+282,"Zhejiang University (ZJU),Jiangsu University of Technology,Zhejiang University School of Medicine",Academia,China
+283,"Harvard Medical School,Massachusetts Institute of Technology (MIT)",Academia,United States of America
+284,Hong Kong Polytechnic University,Academia,Hong Kong
+285,"Rensselaer Polytechnic Institute,Stanford University,University of Minnesota,Korea Advanced Institute of Science and Technology (KAIST),University of Illinois Urbana-Champaign (UIUC)",Academia,United States of America
+286,"Nanjing University,Yangzhou University",Academia,China
+287,InstaDeep,Industry,United Kingdom of Great Britain and Northern Ireland
+288,Isfahan University of Technology,Academia,Iran (Islamic Republic of)
+289,"Indraprastha Institute of Information Technology
+Delhi",Academia,India
+290,"University Medicine Greifswald,Utrecht University,Friedrich Schiller University Jena",Academia,Germany
+291,University of Florida,Academia,United States of America
+292,"Chinese University of Hong Kong (CUHK),City University of Hong Kong",Academia,Hong Kong
+293,Indian Institute of Science Education and Research,Government,India
+294,University of Wisconsin Madison,Academia,United States of America
+295,Shanghai Ocean University,Academia,China
+296,"University of Science and Technology of China (USTC),Hefei Comprehensive National Science Center,Harvard University,Broad Institute,Harvard Data Science Initiative",Academia,China
+297,Northeastern University (China),Academia,China
+298,"Chandar Research Lab,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Amgen,Polytechnique Montreal,CIFAR AI Research",Academia,Canada
+299,George Washington University,Academia,United States of America
+300,"Chinese Academy of Sciences,University of Chinese Academy of Sciences,Tencent",Academia,China
+301,Nanjing Agricultural University,Academia,China
+302,"AstraZeneca,Chalmers University of Technology",Industry,United Kingdom of Great Britain and Northern Ireland
+303,Soochow University,Academia,Taiwan
+304,"IBM Research,University of Alabama,Stanford University,Colorado State University,Oak Ridge National Laboratory,NASA",Industry,United States of America
+305,Beijing University of Chemical Technology,Academia,China
+306,Hokkaido University,Academia,Japan
+307,"Harvard Medical School,University of Illinois Urbana-Champaign (UIUC),Harvard TH Chan School of Public Health",Academia,United States of America
+308,"Tsinghua University,Tencent,Nanyang Technological University",Academia,China
+309,"University of Washington,University of Texas Southwest Medical Center,Seoul National University,Massachusettes General Hospital,Harvard Medical School,Broad Institute",Academia,United States of America
+310,"Peking University,Chinese University of Hong Kong (CUHK),Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,HEC Montreal,CIFAR AI Research",Academia,China
+311,"Sun Yat-sen University,National Supercomputing Center in Shenzhen,Chongqing University,Key Laboratory of Machine Intelligence and Advanced Computing",Academia,China
+312,"European Bioinformatics Institute,University of Cambridge,Google Research",Research collective,Multinational
+313,"Google Research,National Oceanic and Atmospheric Administration (NOAA),Oregon State University",Industry,United States of America
+314,"National University of Singapore,Sun Yat-sen University,Peking University,China Medical University Hospital,Asia university,Guangdong L-Med Biotechnology Company",Academia,Singapore
+315,"Zhejiang Lab,Zhejiang University (ZJU),Huazhong University of Science and Technology,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",Academia,China
+316,"NERSC, Lawrence Berkeley National Laboratory,University of California San Francisco,University of California (UC) Berkeley",Government,United States of America
+317,University of Virginia,Academia,United States of America
+318,Playground,Industry,United States of America
+319,"Princeton University,Tsinghua University,Stanford University",Academia,United States of America
+320,"Fudan University,Shanghai AI Lab",Academia,China
+321,"Kyoto University,National Institute of Biomedical Innovation,RIKEN",Academia,Japan
+322,"Chinese Academy of Sciences,Beijing Academy of Artificial Intelligence / BAAI,University of Chinese Academy of Sciences",Academia,China
+323,University of Oxford,Academia,United Kingdom of Great Britain and Northern Ireland
+324,"South China University of Technology,Jinan University",Academia,China
+325,ETH Zurich,Academia,Switzerland
+326,"JURA Bio,New York University (NYU),Harvard Medical School,Columbia University",Industry,United States of America
+327,"Shandong University,BioMap Research,Fuzhou University,Shanghai Jiao Tong University",Academia,China
+328,"CentraleSupelec,Gustave Roussy,Université Paris Cité",Academia,France
+329,"Vector Institute,University of Toronto,Université Paris Cité",Academia,Canada
+330,"University of California San Diego,Brown University",Academia,United States of America
+331,"Fudan University,Shanghai Academy of Artificial Intelligence for Science,Nanjing University",Academia,China
+332,"Goethe University Frankfurt,Fraunhofer Institute for Translational Medicine and Pharmacology,Ludwig Maximilian University of Munich",Academia,Germany
+333,Dahan Software / Hanweb,Industry,China
+334,"Charité-Universitätsmedizin Berlin,Saarland University,Memorial Sloan Kettering Cancer Center",Academia,Germany
+335,"Shanghai Jiao Tong University,University of New South Wales,University of Cambridge,Shanghai AI Lab",Academia,China
+336,"Valence Labs,University of British Columbia (UBC),Vector Institute,University of Toronto,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Industry,Canada
+337,"University of Cambridge,Shanghai Jiao Tong University,University of New South Wales",Academia,United Kingdom of Great Britain and Northern Ireland
+338,Peptone,Industry,United Kingdom of Great Britain and Northern Ireland
+339,Sichuan University,Academia,China
+340,"Sun Yat-sen University,Guangzhou National Laboratory",Academia,China
+341,"Technical University of Munich,Sorbonne University,Institute for Advanced Study,Université Paris Cité,Institut Universitaire de France (IUF)",Academia,Germany
+342,"City University of New York,Cornell University",Academia,United States of America
+343,Carnegie Mellon University (CMU),Academia,United States of America
+344,"University of Freiburg,Collaborative Research Institute Intelligent Oncology ,BrainLinks-BrainTools",Academia,Germany
+345,"Sun Yat-sen University,Rhegen Biotechnology,Chinese Academy of Sciences",Academia,China
+346,University of Bologna,Academia,Italy
+347,Hunan University,Academia,China
+348,"Chinese University of Hong Kong (CUHK),Lanzhou University,Zhejiang Lab,Zhejiang University (ZJU)",Academia,Hong Kong
+349,Harmonic,Industry,United States of America
+350,"BioGeometry,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Fudan University,HEC Montreal",Industry,China
+351,"Shanghai Jiao Tong University,East China University of Science and Technology,Shanghai AI Lab",Academia,China
+352,"Clemson University,Central China Normal University",Academia,United States of America
+353,Salesforce,Industry,United States of America
+354,Mianbi Intelligence,Industry,China
+355,University of Pittsburgh,Academia,United States of America
+356,West Lake Xinchen / Xinchen AI / 西湖心辰（杭州）科技有限公司,Industry,China
+357,Harrison.ai,Industry,Australia
+358,"Harvard Medical School,Massachusetts Institute of Technology (MIT),Sichuan University,Sun Yat-sen University,Shenzhen Maternity & Child Healthcare Hospital,Chongqing University Cancer Hospital,Harvard University,University of Pennsylvania,Cedars-Sinai Medical Center,Broad Institute,Dana-Farber Cancer Institute,Brigham and Women's Hospital,Tencent,Massachusettes General Hospital,Pennsylvania State University,Jinan University,Stanford University",Academia,United States of America
+359,"National University of Singapore,Jiangnan University",Academia,Singapore
+360,"Central South University,Singapore Agency for Science",Academia,China
+361,"Allen Institute for AI,Contextual AI,University of Washington,Princeton University",Research collective,United States of America
+362,"Tsinghua University,Tsinghua-Peiking Center for Life Sciences,Peking University,Beijing Academy of Artificial Intelligence / BAAI",Academia,China
+363,"Tsinghua University,PingAn Technology,Beijing University of Posts and Telecommunications",Academia,China
+364,"Chinese University of Hong Kong (CUHK),Zhejiang Lab,Zhejiang University (ZJU),Huawei Noah's Ark Lab",Academia,Hong Kong
+365,University of Central Florida,Academia,United States of America
+366,"Tecorigin LTD,Tsinghua University,Baidu",Industry,China
+367,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),University of Cambridge,Harvard Medical School",Academia,Switzerland
+368,Sarvam,Industry,India
+369,"Fudan University,Shanghai AI Lab,Harcam Biomedicines",Academia,China
+370,"University of Florida,University of Texas Health Science Center,H. Lee Moffitt Cancer Center and Research Institute",Academia,United States of America
+371,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT)",Academia,United States of America
+372,Aleph Alpha,Industry,Germany
+373,"Zhejiang University (ZJU),Institute for Advanced Algorithms Research,Northeastern University (China),China Telecom,State Key Laboratory of Media Convergence Production Technology and Systems",Academia,China
+374,Aarhus university,Academia,Denmark
+375,"Google Research,Google DeepMind,Tel Aviv University",Industry,United States of America
+376,Yale School of Public Health,Academia,United States of America
+377,"Tsinghua University,University College London (UCL),Monash University,Beijing University of Posts and Telecommunications",Academia,China
+378,"University of Florida,Sichuan University,Shihezi University,University of Macau,University of Texas Health Science Center",Academia,United States of America
+379,"ETH Zurich,University of Zurich,ETH AI Center",Academia,Switzerland
+380,"NVIDIA,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,UT Austin",Industry,United States of America
+381,"Carnegie Mellon University (CMU),Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Cartesia",Academia,United States of America
+382,Kansas State University,Academia,United States of America
+383,"Salesforce Research,University of Washington",Industry,United States of America
+384,Google Research,Industry,United States of America
+385,Stanford University,Academia,United States of America
+386,Cosine,Industry,United Kingdom of Great Britain and Northern Ireland
+387,University of Siena,Academia,Italy
+388,"Duke University,Cornell University,McMaster University",Academia,United States of America
+389,Moore Threads,Industry,China
+390,"ByteDance,Nanyang Technological University,Chinese University of Hong Kong (CUHK),Hong Kong University of Science and Technology (HKUST)",Industry,China
+391,"G42,Inception G42",Industry,United Arab Emirates
+392,"The University of Hong Kong,Harvard Medical School",Academia,Hong Kong
+393,Virginia Tech (Virginia Polytechnic Institute and State University),Academia,United States of America
+394,Equall.ai,Industry,United States of America
+395,NIO,Industry,China
+396,"King Abdullah University of Science and Technology (KAUST),Karolinska Institute",Academia,Saudi Arabia
+397,"Alibaba,University of Science and Technology of China (USTC)",Industry,China
+398,"Jiangsu Huizhi Intelligent Digital Technology Co., Ltd.",Industry,China
+399,"Duke University,Cornell University,Sanford Burnham Prebys Institute",Academia,United States of America
+400,"Guangzhou AI Public Computing Center,Sun Yat-sen University,Meituan Inc,Pengcheng Lab",Government,China
+401,Beijing Weimeng Chuangke Network Technology,Industry,China
+402,"Tsinghua University,International Digital Economy Academy,Hong Kong University of Science and Technology (HKUST),Chinese University of Hong Kong (CUHK),Microsoft Research,South China University of Technology",Academia,China
+403,"Beijing Zhijing Yunchuang Technology Co., Ltd.",Industry,China
+404,"Beijing Beida Software Engineering Co., Ltd.",Industry,China
+405,SoundAI,Industry,China
+406,Gray Swan,Industry,United States of America
+407,DeepL,Industry,Germany
+408,University of Exeter,Academia,United Kingdom of Great Britain and Northern Ireland
+409,"Oncode Institute,UMC Utrecht,Netherlands Cancer Institute,University of Groningen,Radboud University Medical Center",Academia,Netherlands
+410,310.ai,Industry,United States of America
+411,"Sun Yat-sen University,University of California Irvine,Guangdong Provincial People's Hospital,Guangdong Academy of Medical Sciences",Academia,China
+412,"University of Waterloo,01.AI,Wuhan University",Academia,Canada
+413,"Insilico Medicine AI,Harvard Medical School",Industry,Hong Kong
+414,"Illuin Technology,Equall.ai,University Paris-Saclay,ETH Zurich",Industry,France
+415,Hong Kong University of Science and Technology (HKUST),Academia,Hong Kong
+416,Abacus AI,Industry,United States of America
+417,"Beihang University,Nanjing University,Chinese University of Hong Kong (CUHK)",Academia,China
+418,"Beijing Institute of Technology,Academy of Military Science,Minzu University of China",Academia,China
+419,"Shanghai Kuanyu Digital Technology Co., Ltd. (Bilibili)",Industry,China
+420,Verily Research,Industry,United States of America
+421,"EvolutionaryScale,University of California (UC) Berkeley",Industry,United States of America
+422,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Swiss Institute of Bioinformatics",Academia,Switzerland
+423,"NVIDIA,University of California (UC) Berkeley",Industry,United States of America
+424,New York University (NYU),Academia,United States of America
+425,Factory,Industry,United States of America
+426,"Nous Research,Arcee AI",Industry,United States of America
+427,"National University of Singapore,Prescient Design,University of Missouri,University of Cambridge",Academia,Singapore
+428,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),University at Buffalo,University of Washington,Massachusetts Institute of Technology (MIT)",Academia,Switzerland
+429,"Alibaba,Nanjing University",Industry,China
+430,"Stability AI,Medical AI Research Center (MedARC),Princeton University,University of Minnesota,University of Sydney,University of Waterloo",Industry,United Kingdom of Great Britain and Northern Ireland
+431,China Mobile,Industry,China
+432,Preferred Networks Inc,Industry,Japan
+433,"University of California (UC) Berkeley,University of Illinois Urbana-Champaign (UIUC),Google DeepMind",Academia,United States of America
+434,"Stanford University,University of California (UC) Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence",Academia,United States of America
+435,"FPT Software AI Center,University of Chicago,Indiana State University",Industry,Vietnam
+436,"NVIDIA,Meta AI",Industry,United States of America
+437,Databricks,Industry,United States of America
+438,"Infinigence AI,Tsinghua University,Shanghai Jiao Tong University",Industry,China
+439,"Microsoft,University of Illinois Urbana-Champaign (UIUC)",Industry,United States of America
+440,"ByteDance,Technical University of Munich",Industry,China
+441,Westlake University,Academia,China
+442,"University of Missouri,Politecnico di Milano",Academia,United States of America
+443,"Tsinghua University,ModelBest",Academia,China
+444,"AIRI Artificial Intelligence Research Institute,Skolkovo Institute of Science and Technology,Belozersky Institute of Physio-Chemical Biology,Ligand Pro",Research collective,Russia
+445,"Stanford University,SLAC National Laboratory,Princeton University,Columbia University",Academia,United States of America
+446,"Princeton University,Carnegie Mellon University (CMU)",Academia,United States of America
+447,Beijing Institute of Technology,Academia,China
+448,Zhuhai Wujiefangzhou Intelligent Technology,Industry,China
+449,"Dreamfold,University of Montreal / Université de Montréal,McGill University,University of Oxford",Industry,Canada
+450,"Shanghai Tech University,Deemos Technology,Huazhong University of Science and Technology",Academia,China
+451,"Alibaba,The University of Hong Kong,Fudan University",Industry,China
+452,Nanbeige LLM Lab,Industry,China
+453,Nixtla,Industry,United States of America
+454,SaltLux,Industry,Korea (Republic of)
+455,"Columbia University,Rutgers University",Academia,United States of America
+456,"Imperial College London,University of British Columbia (UBC)",Academia,United Kingdom of Great Britain and Northern Ireland
+457,"National University of Singapore,University of Science and Technology of China (USTC),Hokkaido University",Academia,Singapore
+458,Saudi Data and Artificial Intelligence Authority,Industry,Saudi Arabia
+459,"University of Geneva,University of Edinburgh,Microsoft Research",Academia,Switzerland
+460,"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind",Academia,United States of America
+461,"Shanghai Jiao Tong University,Shanghai AI Lab,East China University of Science and Technology",Academia,China
+462,"Prescient Design,Genentech",Industry,United States of America
+463,"NVIDIA,Massachusetts Institute of Technology (MIT)",Industry,United States of America
+464,"Google Research,Google DeepMind,Google,Arizona State University,Lund University,University of Oxford",Industry,United States of America
+465,"Shanghai Digivio Information Technology Co., Ltd.",Industry,China
+466,"Beijing Yuanshi Technology Co., Ltd.",Unknown,China
+467,"Xiaoyu Intelligence Information Technology (Yunnan) Co., Ltd",Industry,China
+468,"Beijing Lituo Feiyuan Technology Co., Ltd.,Cylingo Group",Industry,China
+469,Beijing Bitauto Interactive Advertising Company Limited,Industry,China
+470,"Microsoft Research,Novartis",Industry,United States of America
+471,"Tohoku University,CyberAgent,Tokyo Institute of Technology,Fujitsu,RIKEN,Nagoya University,Kotoba Technologies",Academia,Japan
+472,"Chengdu Xiaoduo Technology Co., Ltd.",Industry,China
+473,"Google DeepMind,Isomorphic Labs",Industry,United States of America
+474,DeepOrigin,Industry,United States of America
+475,"Beijing Academy of Artificial Intelligence / BAAI,Tsinghua University,Peking University",Academia,China
+476,Johannes Kepler University Linz,Academia,Austria
+477,"Google DeepMind,University College London (UCL)",Industry,United States of America
+478,"University of Cambridge,Southern University of Science and Technology (SUSTech),Hong Kong University of Science and Technology (HKUST),Huawei Noah's Ark Lab,Alan Turing Institute,Max Planck Institute for Intelligent Systems",Academia,United Kingdom of Great Britain and Northern Ireland
+479,"Hugging Face,Sorbonne University",Industry,United States of America
+480,National Science and Technology Council,Government,Taiwan
+481,"Shanghai AI Lab,SenseTime,Tsinghua University,Nanjing University,Fudan University,Chinese University of Hong Kong (CUHK)",Academia,China
+482,"Tsinghua University,ShengShu",Academia,China
+483,"Zhejiang Lianxin Digital Co., Ltd.",Industry,China
+484,"Huazhong University of Science and Technology,Fudan University,Northwestern Polytechnical University",Academia,China
+485,Snowflake,Industry,United States of America
+486,NEC Corporation,Industry,Japan
+487,"Zhixin Shuchuang (Chongqing) Technology Co., Ltd.",Industry,China
+488,"Zhejiang Lab,Zhejiang University (ZJU),Nanjing University,Tsinghua University,Alibaba,Chinese University of Hong Kong (CUHK)",Academia,China
+489,"University of Wisconsin Madison,Morgridge Institute for Research",Academia,United States of America
+490,"Contextual AI,The University of Hong Kong,Microsoft",Industry,United States of America
+491,"University Paris-Saclay,Radboud University Medical Center",Academia,France
+492,Chengdu University of Traditional Chinese Medicine,Academia,China
+493,NTT Communication Science Laboratories,Industry,Japan
+494,"Shanghai AI Lab,Massachusetts Institute of Technology (MIT),Taptap",Academia,China
+495,Hugging Face,Industry,United States of America
+496,University of Maryland,Academia,United States of America
+497,"Hugging Face,Korea Advanced Institute of Science and Technology (KAIST),Argilla",Industry,United States of America
+498,"Peking University,Tsinghua-Peiking Center for Life Sciences",Academia,China
+499,Weitu AI,Industry,Hong Kong
+500,"SambaNova Systems, Inc",Industry,United States of America
+501,"Peking University,Nanjing University,Tsinghua University,PharMolix",Academia,China
+502,"Cohere,Cohere for AI",Industry,Canada
+503,"Silo AI,University of Turku",Industry,Finland
+504,"Harvard Medical School,Stanford University,Columbia University,University of Strasbourg",Academia,United States of America
+505,"Sea AI Lab,Singapore University of Technology & Design",Academia,Singapore
+506,"Google DeepMind,McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Industry,United States of America
+507,Georgia Institute of Technology,Academia,United States of America
+508,"Galixir Technologies,Rensselaer Polytechnic Institute,Massachusetts Institute of Technology (MIT)",Industry,China
+509,"XVERSE Technology,Shenzhen Yuanxiang Technology",Industry,China
+510,"Qilin Hesheng Network Technology Co., Ltd. (APUS)",Industry,China
+511,"China Post Consumer Finance Co., Ltd.",Industry,China
+512,"French Engineering School ECE,TW3 Partners",Academia,France
+513,MTS,Industry,Russia
+514,"Technical University of Munich,Seoul National University,Institute for Advanced Study,TUM School of Life Sciences Weihenstephan",Academia,Germany
+515,"Shanghai AI Lab,Fudan University,Loughborough University,Chinese University of Hong Kong (CUHK),Shanghai Jiao Tong University",Academia,China
+516,"Peng Cheng Laboratory,Peking University,University of Science and Technology of China (USTC),ByteDance,Tsinghua University",Academia,China
+517,Zhuoshi Technology,Industry,China
+518,"University of Maryland,Microsoft",Academia,United States of America
+519,"Microsoft Research,Syngentech,Tsinghua University",Industry,United States of America
+520,"Barcelona Institute of Science and Technology,Universitat de Barcelona,Institució Catalana de Recerca i Estudis Avançats (ICREA)",Academia,Spain
+521,Hisense,Industry,China
+522,"Tsinghua University,Nanyang Technological University,Carnegie Mellon University (CMU)",Academia,China
+523,Covariant,Industry,United States of America
+524,"Geely Automobile Research Institute (Ningbo) Company,National Institute of Informatics,Shanghai Jiao Tong University",Industry,China
+525,Inflection AI,Industry,United States of America
+526,Basecamp Research,Industry,United Kingdom of Great Britain and Northern Ireland
+527,"ByteDance,Fudan University",Industry,China
+528,Saudi Aramco,Industry,Saudi Arabia
+529,"University of Cambridge,Federal Institute of Materials Research and Testing (BAM),NERSC, Lawrence Berkeley National Laboratory,University of British Columbia (UBC),Friedrich Schiller University Jena,University of Bayreuth,Fritz Haber Institute of the Max Planck Society,U. S. Naval Research Laboratory,Chemix,Daresbury Laboratory,BASF,University of South Carolina,University of Stuttgart,Uppsala University,Newcastle University,Technical University of Denmark,Aix-Marseille Université,University of Warwick,University of California Los Angeles (UCLA),InstaDeep,University of California (UC) Berkeley",Academia,United Kingdom of Great Britain and Northern Ireland
+530,"Hugging Face,ServiceNow,NVIDIA,BigCode",Industry,United States of America
+531,University of California (UC) Berkeley,Academia,United States of America
+532,"Academia Sinica,National Taipei University of Technology,Chung Yuan Christian University",Academia,Taiwan
+533,"University of Zagreb,Genome Institute of Singapore,Bioinformatics Institute",Academia,Croatia
+534,Duke University,Academia,United States of America
+535,"Beijing Institute of Technology,Beihang University,Peking University,Smart Grid Research Institute,Shanghai AI Lab",Academia,China
+536,"Stanford University,University of California (UC) Berkeley,Together",Academia,United States of America
+537,"University of Chinese Academy of Sciences,Microsoft Research",Academia,China
+538,"Peking University,Peng Cheng Laboratory",Academia,China
+539,"University of Illinois Urbana-Champaign (UIUC),ByteDance,University of Chinese Academy of Sciences,Chinese Academy of Sciences,Tsinghua University",Academia,United States of America
+540,"ByteDance,Peking University",Industry,China
+541,"Zhejiang University (ZJU),Westlake University,University of Washington",Academia,China
+542,"Tsinghua University,Renmin University of China",Academia,China
+543,AstraZeneca,Industry,United Kingdom of Great Britain and Northern Ireland
+544,"Yale School of Medicine,University of Florida,University of Texas Health Science Center",Academia,United States of America
+545,"University of Technology Sydney,Zhejiang University (ZJU)",Academia,Australia
+546,"Cohere for AI,Brown University,Cohere,Carnegie Mellon University (CMU),Massachusetts Institute of Technology (MIT)",Industry,Canada
+547,"Wolfram Research,ASC27,Newport High School,Sanskriti School",Industry,United States of America
+548,Imperial College London,Academia,United Kingdom of Great Britain and Northern Ireland
+549,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,IBM Research,HEC Montreal,CIFAR AI Research",Academia,Canada
+550,CausalLM,Unknown,China
+551,"DeepSeek,Tsinghua University,Peking University",Industry,China
+552,"Shuchi Information Technology ( Shanghai ) Co. , Ltd.",Industry,China
+553,"University of Wisconsin Madison,ByteDance,Nanyang Technological University,University of California (UC) Berkeley",Academia,United States of America
+554,KARAKURI Inc.,Industry,Japan
+555,Max Planck Institute of Biochemistry,Academia,Germany
+556,Rock AI / Shanghai Stonehill Technology,Industry,China
+557,"DeepSeek,Peking University",Industry,China
+558,Adept,Industry,United States of America
+559,"Google Research,Weizmann Institute of Science,Tel Aviv University,Technion - Israel Institute of Technology",Industry,United States of America
+560,"Beijing OrionStar Technology Co., Ltd.",Industry,China
+561,"Google DeepMind,New York University (NYU)",Industry,United States of America
+562,"Shiyin Intelligent Technology Co., Ltd.",Industry,China
+563,"Thunder Software Technology Co.,Ltd.",Industry,China
+564,Kakao,Industry,Korea (Republic of)
+565,Deci AI,Industry,Israel
+566,Tianjin Medical University,Academia,China
+567,"Shanghai AI Lab,Nanjing University,The University of Hong Kong,Tsinghua University,SenseTime,University of Science and Technology of China (USTC)",Academia,China
+568,EFFYIC (识因智能),Industry,China
+569,"Shanghai AI Lab,SenseTime,Chinese University of Hong Kong (CUHK),Fudan University",Academia,China
+570,Ultralytics,Industry,United States of America
+571,Shenzhen Honor Software Technology,Industry,China
+572,"Meta AI,Hebrew University of Jerusalem,Kyutai",Industry,United States of America
+573,"Renmin University of China,Huazhong University of Science and Technology,Microsoft Research AI for Science,University of Science and Technology of China (USTC)",Academia,China
+574,"University of Oxford,Massachusetts Institute of Technology (MIT),Microsoft Research AI for Science",Academia,United Kingdom of Great Britain and Northern Ireland
+575,Geely Automobile Research Institute (Ningbo) Company,Industry,China
+576,"University of California Santa Barbara (UCSB),University of Lincoln,Chinese Academy of Agricultural Sciences,Swedish University of Agricultural Sciences",Academia,United States of America
+577,Lightblue,Industry,Japan
+578,Langboat,Industry,China
+579,Elyza,Industry,Japan
+580,Zhujian Intelligence,Industry,China
+581,"Google Research,Carnegie Mellon University (CMU),Google DeepMind",Industry,United States of America
+582,rinna,Industry,Japan
+583,"Basecamp Research,Technical University of Munich,Molecular Institute of Biology,Microsoft Research",Industry,United Kingdom of Great Britain and Northern Ireland
+584,"Google Research,Cornell University,Naturalis Biodiversity Center,Chemnitz University of Technology",Industry,United States of America
+585,Konan Technology,Industry,Korea (Republic of)
+586,"High-Performance Language Technologies (HPLT),University of Turku",Research collective,Multinational
+587,"Tsinghua University,Z.ai (Zhipu AI)",Academia,China
+588,Google Cloud,Industry,United States of America
+589,"University of Science and Technology of China (USTC),Tencent,Zhejiang University (ZJU)",Academia,China
+590,"Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Petuum,University of Southern California,Carnegie Mellon University (CMU),University of Illinois Urbana-Champaign (UIUC),University of California San Diego,LLM360",Academia,United Arab Emirates
+591,"Stanford University,Google Research,Georgia Institute of Technology",Academia,United States of America
+592,"Facebook,INRIA,University of California (UC) Berkeley",Industry,United States of America
+593,"Chinese University of Hong Kong (CUHK),Shanghai AI Lab",Academia,Hong Kong
+594,"University of California San Diego,Sun Yat-sen University,Microsoft Research Asia",Academia,United States of America
+595,"Carnegie Mellon University (CMU),Princeton University",Academia,United States of America
+596,"NASA,IBM",Government,United States of America
+597,National Taiwan University,Academia,Taiwan
+598,"Together,Nous Research",Industry,United States of America
+599,Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Academia,Switzerland
+600,Transwarp Technology,Industry,China
+601,"AIRI Artificial Intelligence Research Institute,Sber,Skolkovo Institute of Science and Technology",Research collective,Russia
+602,Columbia University,Academia,United States of America
+603,Chinese University of Hong Kong (CUHK),Academia,Hong Kong
+604,Oppo Mobile Telecommunications,Industry,China
+605,KT,Industry,Korea (Republic of)
+606,"Shanghai AI Lab,Chinese University of Hong Kong (CUHK),ShanghaiTech University",Academia,China
+607,"Korea University,Korea Advanced Institute of Science and Technology (KAIST),LG",Academia,Korea (Republic of)
+608,"Fudan University,University of Maryland",Academia,China
+609,"Intel,Argonne National Laboratory",Industry,United States of America
+610,"Meta AI,Hebrew University of Jerusalem,LORIA",Industry,United States of America
+611,"IBM,NASA",Industry,United States of America
+612,"Shanghai AI Lab,Massachusetts Institute of Technology (MIT)",Academia,China
+613,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42,G42",Industry,United States of America
+614,Zhuiyi Technology,Industry,China
+615,TensorTour,Industry,United States of America
+616,Nanyang Technological University,Academia,Singapore
+617,"Tsinghua University,Z.ai (Zhipu AI),Beihang University",Academia,China
+618,"Peking University,Shanghai AI Lab,Griffith University,Peng Cheng Laboratory,Shenzhen Bay Laboratory",Academia,China
+619,"University of Wisconsin Madison,Microsoft Research",Academia,United States of America
+620,Mobvoi,Industry,China
+621,Beijing Zhizhe Tianxia Technology,Industry,China
+622,"University of Turku,Hugging Face",Academia,Finland
+623,"Google DeepMind,University of California San Diego,Stanford University",Industry,United States of America
+624,ShanghaiTech University,Academia,China
+625,vivo AI lab,Industry,China
+626,DeepLang AI,Industry,China
+627,CyberAgent,Industry,Japan
+628,"University of Science and Technology of China (USTC),Alibaba",Academia,China
+629,"Nous Research,EleutherAI,University of Geneva",Industry,United States of America
+630,"Peking University,Microsoft Research Asia",Academia,China
+631,"Microsoft,Microsoft Research",Industry,United States of America
+632,"ETH Zurich,Disney Research",Academia,Switzerland
+633,"Institute of Science and Technology Austria (ISTA),Neural Magic",Academia,Austria
+634,Dahua Technology,Industry,China
+635,Stockmark,Industry,Japan
+636,"ETH Zurich,DeepMind,Google,Technical University of Munich",Academia,Switzerland
+637,"Google DeepMind,Google Research,Google Cloud",Industry,United States of America
+638,"Princeton University,University of Toronto,Vector Institute,University of Cambridge,Carnegie Mellon University (CMU),University of Washington,EleutherAI",Academia,United States of America
+639,"Princeton University,EleutherAI,University of Toronto,Vector Institute,University of Cambridge,Carnegie Mellon University (CMU),University of Washington",Academia,United States of America
+640,"Columbia University,Apple",Academia,United States of America
+641,"Chan Zuckerberg Initiative,University of California San Francisco,University of California (UC) Berkeley",Research collective,United States of America
+642,"University of Washington,Seoul National University,University of Sheffield",Academia,United States of America
+643,"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)",Academia,United States of America
+644,"University of California Santa Barbara (UCSB),Massachusetts Institute of Technology (MIT),Carnegie Mellon University (CMU)",Academia,United States of America
+645,"McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Dreamfold,University of Montreal / Université de Montréal,University of Oxford",Academia,Canada
+646,Zhejiang University (ZJU),Academia,China
+647,King Abdullah University of Science and Technology (KAUST),Academia,Saudi Arabia
+648,"Stanford University,Sony",Academia,United States of America
+649,Singapore University of Technology & Design,Academia,Singapore
+650,"LG,Shutterstock",Industry,Korea (Republic of)
+651,"Huawei Noah's Ark Lab,The University of Hong Kong,Hong Kong University of Science and Technology (HKUST)",Industry,China
+652,"Technische Hochschule Ingolstadt,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Polytechnique Montreal,Wand Technologies",Academia,Germany
+653,National University of Singapore,Academia,Singapore
+654,Peng Cheng Laboratory,Academia,China
+655,Cerebras Systems,Industry,United States of America
+656,"Xi’an Jiaotong University,Megvii Inc,Tsinghua University,Huazhong University of Science and Technology",Academia,China
+657,"Tsinghua University,Shanghai AI Lab,01.AI",Academia,China
+658,"Beijing Academy of Artificial Intelligence / BAAI,Hugging Face",Academia,China
+659,"Shanghai Qi Zhi institute,Stanford University,Carnegie Mellon University (CMU),Tsinghua University",Academia,China
+660,"Chinese Academy of Sciences,Harbin Institute of Technology,Nanyang Technological University,Beijing Academy of Artificial Intelligence / BAAI",Academia,China
+661,"Google,Northwestern Medicine,Apollo Radiology International",Industry,United States of America
+662,Tigerobo,Industry,China
+663,Intel Labs,Industry,United States of America
+664,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42",Industry,United States of America
+665,Refact AI,Industry,United Kingdom of Great Britain and Northern Ireland
+666,TAL Education Group (Xueersi),Industry,China
+667,Hungarian Research Centre for Linguistics,Academia,Hungary
+668,Ohio State University,Unknown,United States of America
+669,NCSOFT,Industry,Korea (Republic of)
+670,Boston University,Academia,United States of America
+671,LINE Corporation,Industry,Japan
+672,"NVIDIA,Technion - Israel Institute of Technology",Industry,United States of America
+673,"Nostrum Biodiscovery,Barcelona Supercomputing Center,Institucio Catalana de Recerca i Estudis Avancçats",Government,Spain
+674,"Westlake University,Tsinghua University,Toyota Technological Institute at Chicago",Academia,China
+675,Matsuo Lab,Unknown,Japan
+676,Renmin University of China,Academia,China
+677,"University of Washington,Stanford University,Allen Institute for AI,Hebrew University of Jerusalem,Columbia University,Google DeepMind,University of California Santa Barbara (UCSB),Research Center Juelich",Academia,United States of America
+678,K.D. Feddersen (KDF),Industry,China
+679,"Large Model Systems Organization,University of California (UC) Berkeley",Academia,United States of America
+680,NetEase,Industry,China
+681,"Beijing Lingxin Intelligent Technology Co., Ltd.",Industry,China
+682,"Microsoft,Peking University",Industry,United States of America
+683,"University of Washington,Columbia University,Ecole Normale Supèrieure,University of Cambridge,Massachusetts Institute of Technology (MIT),Seoul National University",Academia,United States of America
+684,"ByteDance,University of Wisconsin Madison",Industry,China
+685,"Stanford University,Princeton University",Academia,United States of America
+686,"Microsoft Research,Tsinghua University",Industry,United States of America
+687,"University of California Santa Barbara (UCSB),Stanford University",Academia,United States of America
+688,JD.com,Industry,China
+689,DP Technology,Industry,China
+690,"Google Research,National Library of Medicine,DeepMind",Industry,United States of America
+691,"Shanghai AI Lab,SenseTime",Academia,China
+692,"Tsinghua University,BioMap Research",Academia,China
+693,NEC Laboratories,Industry,United States of America
+694,"Microsoft,Xi’an Jiaotong University",Industry,United States of America
+695,"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",Academia,United States of America
+696,RWKV Foundation,Research collective,Multinational
+697,FlagAlpha,Research collective,China
+698,MosaicML,Industry,United States of America
+699,"POSTECH,Carnegie Mellon University (CMU),Adobe",Academia,Korea (Republic of)
+700,"Google Research,University of Cambridge",Industry,United States of America
+701,OpenProtein.ai,Industry,Singapore
+702,University of Delaware,Academia,United States of America
+703,AI inside,Industry,Japan
+704,Together,Industry,United States of America
+705,Magic,Industry,United States of America
+706,"University of California (UC) Berkeley,Toyota Technological Institute at Chicago",Academia,United States of America
+707,"Technical University of Denmark,University of Copenhagen",Academia,Denmark
+708,EleutherAI,Research collective,United States of America
+709,Pinterest,Industry,United States of America
+710,"Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems,Shenzhen Institute of Advanced Technology,Chinese Academy of Sciences",Research collective,China
+711,"ShengShu,Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",Industry,China
+712,Oregon State University,Academia,United States of America
+713,"Stanford University,CZ Biohub Network",Academia,United States of America
+714,"Shenzhen Research Institue of Big Data,Chinese University of Hong Kong (CUHK)",Academia,China
+715,Unisound,Industry,China
+716,"Lehigh University,University of Georgia,Samsung Research America,Harvard Medical School,University of Pennsylvania",Academia,United States of America
+717,Du Xiaoman,Industry,China
+718,"Alibaba,Huazhong University of Science and Technology",Industry,China
+719,"Meta AI,Carnegie Mellon University (CMU),University of Southern California,Tel Aviv University",Industry,United States of America
+720,National Supercomputer Center in Tianjin,Government,China
+721,CloudWalk Technology,Industry,China
+722,"University of Minnesota,Grammarly",Academia,United States of America
+723,WeChat AI,Industry,China
+724,"Google Research,DeepMind",Industry,United States of America
+725,"NAVER,Naver AI Lab",Industry,Korea (Republic of)
+726,"Salesforce Research,Hong Kong University of Science and Technology (HKUST),Nanyang Technological University",Industry,United States of America
+727,"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich",Industry,United States of America
+728,"NVIDIA,Tel Aviv University,Bar-Ilan University",Industry,United States of America
+729,OpenLM Research,Research collective,United States of America
+730,"Technische Universitat Berlin,Research Cluster of Excellence,University of Edinburgh",Academia,Germany
+731,Fudan University,Academia,China
+732,"University of Wisconsin Madison,Microsoft Research,Columbia University",Academia,United States of America
+733,"Facebook AI Research,INRIA",Industry,United States of America
+734,"Facebook AI Research,University of Washington,University of California (UC) Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago",Industry,United States of America
+735,"Technical University of Munich,Massachusetts Institute of Technology (MIT)",Academia,Germany
+736,"University of Glasgow,Cancer Research UK Beatson Institute",Academia,United Kingdom of Great Britain and Northern Ireland
+737,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",Research collective,United States of America
+738,University of Rochester,Academia,United States of America
+739,"McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Baidu Research - Silicon Valley AI Lab,Baidu,Boston Consulting Group X",Academia,Canada
+740,"Bloomberg,Johns Hopkins University",Industry,United States of America
+741,"Nanjing University,Shenzhen Institute of Advanced Technology,Shanghai AI Lab",Academia,China
+742,"Baidu,Wuhan University of Science and Technology",Industry,China
+743,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology",Academia,China
+744,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,ModelBest,OpenBMB (Open Lab for Big Model Base)",Academia,China
+745,Henan University,Academia,China
+746,Huawei Noah's Ark Lab,Industry,China
+747,"Google,TU Berlin",Industry,United States of America
+748,"Renmin University of China,DP Technology,AI for Science Institute, Beijing (AISI)",Academia,China
+749,"Meta AI,Hebrew University of Jerusalem",Industry,United States of America
+750,Google Brain,Industry,United States of America
+751,"New York University (NYU),University of California (UC) Berkeley",Academia,United States of America
+752,AI Sweden,Unknown,Sweden
+753,Zhengzhou University,Academia,China
+754,"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Academia,United States of America
+755,"University of Oxford,DeepMind",Academia,United Kingdom of Great Britain and Northern Ireland
+756,"Google,University of California Los Angeles (UCLA)",Industry,United States of America
+757,"University of California (UC) Berkeley,California Institute of Technology,University of Toronto,University of Wisconsin Madison,Texas A&M,NVIDIA,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Academia,United States of America
+758,University of Toronto,Academia,Canada
+759,Cornell University,Academia,United States of America
+760,Insilico Medicine AI,Industry,Hong Kong
+761,"Google DeepMind,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,Georgia Institute of Technology,University of Alberta",Industry,United States of America
+762,Salesforce Research,Industry,United States of America
+763,"The University of Hong Kong,ByteDance,JancsiTech,OPPO HealthLab",Academia,Hong Kong
+764,University of California San Diego,Academia,United States of America
+765,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Intel Labs,HEC Montreal,CIFAR AI Research",Academia,Canada
+766,Utrecht University,Academia,Netherlands
+767,University of Montreal / Université de Montréal,Academia,Canada
+768,HEC Montreal,Academia,Canada
+769,"Technical University of Munich,Columbia University",Academia,Germany
+770,"NVIDIA,Technical University of Munich,InstaDeep",Industry,United States of America
+771,"DeepMind,University of Toronto",Industry,United Kingdom of Great Britain and Northern Ireland
+772,"Hugging Face,ServiceNow,Massachusetts Institute of Technology (MIT),Wellesley College,Saama,EleutherAI,Huawei Noah's Ark Lab,Carnegie Mellon University (CMU)",Industry,United States of America
+773,Institute of Science and Technology Austria (ISTA),Academia,Austria
+774,Tongji University,Academia,China
+775,"Stanford University,University at Buffalo",Academia,United States of America
+776,"University of Oxford,Harvard Medical School",Academia,United Kingdom of Great Britain and Northern Ireland
+777,"Wuhan University,JD Explore Academy,Shanghai AI Lab,Nanyang Technological University,Washington University in St Louis,Chongqing University of Posts and Telecommunications,University of Sydney",Academia,China
+778,Nanjing University,Academia,China
+779,"Basecamp Research,Friedrich-Alexander-Universität,University of Girona",Industry,United Kingdom of Great Britain and Northern Ireland
+780,"Korea Advanced Institute of Science and Technology (KAIST),NAVER",Academia,Korea (Republic of)
+781,"Naver Clova,Naver AI Lab",Industry,Korea (Republic of)
+782,"University of Toronto,Vector Institute,University Health Network,Microsoft Research",Academia,Canada
+783,"Alibaba,University of Waterloo,Vector Institute",Industry,China
+784,"Aleph Alpha,Graphcore",Industry,Germany
+785,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology,Zhejiang University (ZJU),Beijing Institute of Technology",Academia,China
+786,"University of Pittsburgh,Carnegie Mellon University (CMU)",Academia,United States of America
+787,"Shanghai AI Lab,Tsinghua University,Nanjing University,SenseTime,Chinese University of Hong Kong (CUHK)",Academia,China
+788,"Hugging Face,BigScience",Industry,United States of America
+789,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,University of Cambridge,IBM Research,HEC Montreal,CIFAR AI Research",Academia,Canada
+790,IDEA CCNL,Academia,China
+791,University of Massachusetts Amherst,Academia,United States of America
+792,"Tsinghua University,Chinese University of Hong Kong (CUHK),Nara Institute of Science and Technology",Academia,China
+793,"Microsoft Research,OpenBioML,University of Chicago",Industry,United States of America
+794,"Johns Hopkins University,New York University (NYU)",Academia,United States of America
+795,"University of Washington,Arizona State University,Allen Institute for AI",Academia,United States of America
+796,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),University of Cambridge,Cornell University,Chinese Academy of Mathematics and System Science,University of Rome,Microsoft Research,University of Oxford,AITHYRA Institute",Academia,Switzerland
+797,"Google,University of Illinois Urbana-Champaign (UIUC)",Industry,United States of America
+798,"Huawei,Huawei Noah's Ark Lab",Industry,China
+799,"University of Chicago,NVIDIA,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology",Academia,United States of America
+800,"Google,Dartmouth College",Industry,United States of America
+801,"Meta AI,Massachusetts Institute of Technology (MIT)",Industry,United States of America
+802,University of California Los Angeles (UCLA),Academia,United States of America
+803,Jenni,Industry,Singapore
+804,"University College London (UCL),University of Michigan,Google Brain",Academia,United Kingdom of Great Britain and Northern Ireland
+805,University of Notre Dame,Academia,United States of America
+806,"Harvard Medical School,Nabla Bio,Columbia University",Academia,United States of America
+807,"Technical University of Munich,Carnegie Mellon University (CMU),Facebook AI Research",Academia,Germany
+808,Bar-Ilan University,Academia,Israel
+809,Texas A&M,Academia,United States of America
+810,LAION,Research collective,Germany
+811,"University of Washington,Wageningen University and Research,NERSC, Lawrence Berkeley National Laboratory",Academia,United States of America
+812,"Saudi Data and Artificial Intelligence Authority,Saudi Company for Artificial Intelligence",Industry,Saudi Arabia
+813,Ludwig Maximilian University of Munich,Academia,Germany
+814,"University of Montpellier,BionomeeX",Academia,France
+815,"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Academia,Canada
+816,"Chinese University of Hong Kong (CUHK),Fudan University,Shanghai AI Lab,Harbin Institute of Technology,University of Electronic Science and Technology of China,Massachusetts Institute of Technology (MIT),Harvard University,Shanghai Zelixir Biotech,CUHK Shenzhen Research Institute",Academia,Hong Kong
+817,"Zhejiang University (ZJU),Microsoft Research Asia",Academia,China
+818,University of Bayreuth,Academia,Germany
+819,Abeja,Industry,Japan
+820,"Massachusetts Institute of Technology (MIT),Westlake University",Academia,United States of America
+821,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",Industry,United States of America
+822,"Hong Kong Baptist University,NetEase",Academia,Hong Kong
+823,"Moscow Institute of Physics and Technology,AIRI Artificial Intelligence Research Institute",Academia,Russia
+824,"LightOn,Harvard University,University of Oxford",Industry,France
+825,Drahim,Unknown,Saudi Arabia
+826,Craiyon,Industry,United States of America
+827,"Salesforce Research,Columbia University,Johns Hopkins University",Industry,United States of America
+828,"AI Sweden,RISE",Academia,Sweden
+829,"Ruhr University Bochum,Technische Universität Dresden,University of London",Academia,Germany
+830,"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)",Academia,China
+831,"UT Austin,Microsoft",Academia,United States of America
+832,"LINE Corporation,Tohoku University",Industry,Japan
+833,Ulm University,Unknown,Germany
+834,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",Academia,China
+835,"University of Oxford,Harvard Medical School,Cohere",Academia,United Kingdom of Great Britain and Northern Ireland
+836,Princeton University,Academia,United States of America
+837,"Henan University of Technology,Nanyang Central Hospital",Academia,China
+838,"Princeton University,Tsinghua University",Academia,United States of America
+839,"Google Research,Google Brain",Industry,United States of America
+840,"Max Planck Institute for Intelligent Systems,University of Tübingen",Academia,Germany
+841,"Texas A&M,Fujitsu",Academia,United States of America
+842,"Tsinghua University,NetEase,Oppo Mobile Telecommunications",Academia,China
+843,"Runway,Ludwig Maximilian University of Munich,Heidelberg University",Industry,United States of America
+844,Waseda University,Academia,Japan
+845,"Stanford University,University at Buffalo,University of Michigan",Academia,United States of America
+846,"Tel Aviv University,University of Washington,Intel Labs,Meta AI",Academia,Israel
+847,"Tsinghua University,Zhejiang Lab,Beijing Academy of Artificial Intelligence / BAAI,Alibaba",Academia,China
+848,"Shanghai Jiao Tong University,Ministry of Education of China",Academia,China
+849,"Meta AI,Chinese University of Hong Kong (CUHK)",Industry,United States of America
+850,"Microsoft Research,University of Waterloo",Industry,United States of America
+851,"University of Waterloo,Microsoft Research",Academia,Canada
+852,"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University",Academia,United States of America
+853,"Microsoft,OpenAI",Industry,United States of America
+854,Collaborations Pharmaceuticals,Industry,United States of America
+855,"Kakao,POSTECH",Industry,Korea (Republic of)
+856,"NVIDIA,NERSC, Lawrence Berkeley National Laboratory,University of Michigan,Rice University,California Institute of Technology,Purdue University",Industry,United States of America
+857,"Google,Google Brain,Google Research",Industry,United States of America
+858,"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading",Academia,Israel
+859,University College London (UCL),Academia,United Kingdom of Great Britain and Northern Ireland
+860,"DeepMind,University of Oxford",Industry,United Kingdom of Great Britain and Northern Ireland
+861,"Meta AI,University of Texas at Austin",Industry,United States of America
+862,"Technical University of Denmark,ETH Zurich,University of Copenhagen,Stanford University,Stockholm University,European Bioinformatics Institute",Academia,Denmark
+863,Technical University of Munich,Academia,Germany
+864,"Baidu,Peng Cheng Laboratory",Industry,China
+865,"Heidelberg University,Runway",Academia,Germany
+866,"Meta AI,Facebook AI Research",Industry,United States of America
+867,Toyota Technological Institute at Chicago,Academia,United States of America
+868,"Meta AI,University College London (UCL),PSL University,Université Grenoble Alpes",Industry,United States of America
+869,LG,Industry,Korea (Republic of)
+870,"Stanford University,SambaNova Systems, Inc,Peking University,Adobe,University at Buffalo",Academia,United States of America
+871,"Chinese University of Hong Kong (CUHK),Microsoft",Academia,Hong Kong
+872,"Microsoft Research,Peking University",Industry,United States of America
+873,"ETH Zurich,Kuaishou Technology",Academia,Switzerland
+874,"Facebook AI Research,New York University (NYU),University of California (UC) Berkeley",Industry,United States of America
+875,"Massachusetts Institute of Technology (MIT),ETH Zurich,Tencent",Academia,United States of America
+876,Aristotle University of Thessaloniki,Academia,Greece
+877,"University of Illinois Urbana-Champaign (UIUC),NVIDIA",Academia,United States of America
+878,"Salesforce,Nanyang Technological University",Industry,United States of America
+879,Heidelberg University,Academia,Germany
+880,"Tsinghua University,University of California (UC) Berkeley,Shanghai Qi Zhi institute",Academia,China
+881,"Stanford University,Adobe,University at Buffalo",Academia,United States of America
+882,"Harvard Medical School,University of Oxford",Academia,United States of America
+883,"Johannes Kepler University,HERE Technologies,Institute of Advanced Research in Artificial Intelligence",Academia,Austria
+884,"Microsoft Research Asia,Nanyang Technological University,Xi’an Jiaotong University,Sun Yat-sen University",Industry,China
+885,"University of Cambridge,Alan Turing Institute",Academia,United Kingdom of Great Britain and Northern Ireland
+886,"Shannon.AI,Nanjing University,Nanyang Technological University,Zhejiang University (ZJU)",Industry,China
+887,"LightOn,Laboratoire de Physique de l'Ecole Normale (LPENS),INRIA",Industry,France
+888,"FPT Software AI Center,University of California Los Angeles (UCLA),VinUniversity,Deezer Research,Rice University,University of Texas at Austin",Industry,Vietnam
+889,"Hugging Face,Brown University",Industry,United States of America
+890,"Huawei Noah's Ark Lab,McGill University",Industry,China
+891,"University of Southern California,Google",Academia,United States of America
+892,"Microsoft,NVIDIA",Industry,United States of America
+893,"Google DeepMind,DeepMind",Industry,United States of America
+894,"Beihang University,Microsoft Research Asia",Academia,China
+895,"Amazon Machine Learning Solutions Lab,Johnson & Johnson",Industry,United States of America
+896,Facebook,Industry,United States of America
+897,"NAVER,Search Solutions",Industry,Korea (Republic of)
+898,"Carnegie Mellon University (CMU),University of California San Diego",Academia,United States of America
+899,Speechmatics,Industry,United Kingdom of Great Britain and Northern Ireland
+900,"Seoul National University,LG AI Research,NAVER,Kangwon National University",Academia,Korea (Republic of)
+901,"Universidade de Lisboa (ULisboa),DeepMind",Academia,Portugal
+902,"University of Washington,Microsoft",Academia,United States of America
+903,"University of Washington,Facebook AI Research,Allen Institute for AI",Academia,United States of America
+904,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Tencent",Academia,China
+905,Northeastern University,Academia,United States of America
+906,"Chinese Academy of Sciences,Wuhan AI Computing Center",Academia,China
+907,"Google Brain,Massachusetts Institute of Technology (MIT)",Industry,United States of America
+908,"University of California Los Angeles (UCLA),University of Utah",Academia,United States of America
+909,"Facebook AI Research,Georgia Institute of Technology",Industry,United States of America
+910,X-Mechanics,Research collective,United States of America
+911,"Carnegie Mellon University (CMU),Intel Labs",Academia,United States of America
+912,"Microsoft Research Asia,Soochow University",Industry,China
+913,"IBM,Texas A&M",Industry,United States of America
+914,"Google,Google Brain",Industry,United States of America
+915,"NVIDIA,Aalto University",Industry,United States of America
+916,"IDSIA,SUPSI,King Abdullah University of Science and Technology (KAUST)",Academia,Switzerland
+917,"Google,Google Research,Google Brain",Industry,United States of America
+918,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),McGill University,DeepMind",Academia,Canada
+919,"Google Brain,Google Research",Industry,United States of America
+920,University of Sheffield,Academia,United Kingdom of Great Britain and Northern Ireland
+921,"The University of Hong Kong,Sun Yat-sen University,Shanghai AI Lab",Academia,Hong Kong
+922,"Google,Google Research",Industry,United States of America
+923,"Google Cloud,Google Research",Industry,United States of America
+924,"Tsinghua University,Alibaba DAMO Academy",Academia,China
+925,"Flatiron Institute,University of California San Diego,Jagiellonian University,New York University (NYU),Broad Institute,University of Auckland,Massachusettes General Hospital,Harvard Medical School,Massachusetts Institute of Technology (MIT)",Academia,United States of America
+926,"Meituan University,Beijing University of Posts and Telecommunications",Academia,China
+927,"Peng Cheng Laboratory,University of Texas at Houston",Academia,China
+928,"Google AI,ETH Zurich,University of Cambridge",Industry,United States of America
+929,"Technical University of Munich,Med AI Technology,NVIDIA,Oak Ridge National Laboratory,Google,Seoul National University",Academia,Germany
+930,"Technical University of Munich,NVIDIA,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology",Academia,Germany
+931,INRIA,Academia,France
+932,"EleutherAI,LAION",Research collective,United States of America
+933,"INRIA,Facebook AI Research",Academia,France
+934,"Meta AI,Carnegie Mellon University (CMU)",Industry,United States of America
+935,"Microsoft Research,NVIDIA,Stanford University",Industry,United States of America
+936,Lenovo Research,Industry,China
+937,"Dalian University of Technology,Dongbei University of Technology,Baidu,China National Health Development Research Center",Academia,China
+938,"University of Washington,Microsoft,DeepMind,Allen Institute for AI",Academia,United States of America
+939,"University of Washington,Microsoft,DeepMind",Academia,United States of America
+940,"Bosch Center for Artificial Intelligence,Max Planck Institute for Informatics",Industry,Germany
+941,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT),Shanghai Qi Zhi institute",Academia,China
+942,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT)",Academia,China
+943,"Google Brain,University of California (UC) Berkeley",Industry,United States of America
+944,American University of Beirut,Academia,Lebanon
+945,"Vilnius University,Chalmers University of Technology",Academia,Lithuania
+946,"University of Washington,DeepMind,Allen Institute for AI,Hebrew University of Jerusalem,The University of Hong Kong",Academia,United States of America
+947,"Google Brain,Google AI",Industry,United States of America
+948,"Tsinghua University,Alibaba",Academia,China
+949,ASAPP,Industry,United States of America
+950,IDSIA,Academia,Switzerland
+951,"IDSIA,SUPSI",Academia,Switzerland
+952,TU Darmstadt,Academia,Germany
+953,"Facebook AI Research,University of California (UC) Berkeley,New York University (NYU)",Industry,United States of America
+954,"University of Edinburgh,Toshiba Cambridge Research Laboratory",Academia,United Kingdom of Great Britain and Northern Ireland
+955,"University of Washington,Microsoft Research",Academia,United States of America
+956,"Eindhoven University of Technology,University of Twente",Academia,Netherlands
+957,Eindhoven University of Technology,Academia,Netherlands
+958,"Meta AI,Sorbonne University",Industry,United States of America
+959,"Google,Apple",Industry,United States of America
+960,"Google Brain,Carnegie Mellon University (CMU)",Industry,United States of America
+961,"National Institute of Advanced Industrial Science and Technology (AIST),University of Tokyo",Academia,Japan
+962,"University of Tokyo,National Institute of Advanced Industrial Science and Technology (AIST)",Academia,Japan
+963,"Google,National Tsing Hua University",Industry,United States of America
+964,"National Tsing Hua University,Google",Academia,Taiwan
+965,"Korea University,Princeton University",Academia,Korea (Republic of)
+966,"Facebook AI Research,New York University (NYU)",Industry,United States of America
+967,"IBM Research,ETH Zurich",Industry,United States of America
+968,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,Microsoft Research,CIFAR AI Research",Academia,Canada
+969,"University of Washington,Salesforce Research",Academia,United States of America
+970,"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Université de Montréal",Academia,China
+971,"IDSIA,Microsoft Research",Academia,Switzerland
+972,"International School for Advanced Studies,Institute of Structural Biology,Technical University of Munich",Academia,Italy
+973,"University of Toronto,Reverie Labs,DeepChem",Academia,Canada
+974,Indiana University Bloomington,Academia,United States of America
+975,"deepset,Bayerische Staatsbibliothek Muenchen",Industry,Germany
+976,"Huazhong University of Science and Technology,Huawei Noah's Ark Lab,Huawei",Academia,China
+977,"UC Davis,Westlake University,Facebook AI",Academia,United States of America
+978,"University of Washington,National Institute of Informatics",Academia,United States of America
+979,"Johns Hopkins University,Xiaomi Corp",Academia,United States of America
+980,"Northeastern University (China),NiuTrans Research,Chinese Academy of Sciences",Academia,China
+981,"University of Illinois Urbana-Champaign (UIUC),Reed College",Academia,United States of America
+982,"Toyota Technological Institute at Chicago,University of Chicago",Academia,United States of America
+983,"University of Washington,Allen Institute for AI,Facebook AI Research",Academia,United States of America
+984,Facebook AI,Industry,United States of America
+985,"University of Chicago,Toyota Technological Institute at Chicago",Academia,United States of America
+986,"University of Liverpool,University of Southern California",Academia,United Kingdom of Great Britain and Northern Ireland
+987,"Johannes Kepler University Linz,Institute of Advanced Research in Artificial Intelligence,University of Oslo",Academia,Austria
+988,"Carnegie Mellon University (CMU),Facebook AI Research",Academia,United States of America
+989,"Naver AI Lab,Naver Clova",Industry,Korea (Republic of)
+990,"NERSC, Lawrence Berkeley National Laboratory,University of California (UC) Berkeley",Government,United States of America
+991,"University of California (UC) Berkeley,NERSC, Lawrence Berkeley National Laboratory",Academia,United States of America
+992,"Facebook,New York University (NYU),University College London (UCL)",Industry,United States of America
+993,Indian Institute of Technology Delhi,Academia,India
+994,"Westlake University,Institute for Advanced Study,McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),CIFAR AI Research,University of Montreal / Université de Montréal",Academia,China
+995,"Northeastern University (China),Chinese Academy of Sciences,NiuTrans Research,Kingsoft",Academia,China
+996,"Northeastern University (China),NiuTrans Research,Kingsoft",Academia,China
+997,"University of Waterloo,Peking University,RSVP.ai",Academia,Canada
+998,"University of Waterloo,RSVP.ai,Peking University",Academia,Canada
+999,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM",Academia,United States of America
+1000,"Uber AI,OpenAI",Industry,United States of America
+1001,MIT-IBM Watson AI Lab,Academia,United States of America
+1002,"Carnegie Mellon University (CMU),Google Brain",Academia,United States of America
+1003,"Pennsylvania State University,Rochester Institute of Technology",Academia,United States of America
+1004,"Stanford University,Google,Google Brain",Academia,United States of America
+1005,"Salesforce Research,Stanford University",Industry,United States of America
+1006,"University of California Los Angeles (UCLA),JD.com",Academia,United States of America
+1007,"University of California Los Angeles (UCLA),University of Pennsylvania",Academia,United States of America
+1008,"University of Oxford,University of Bristol,University of Cambridge",Academia,United Kingdom of Great Britain and Northern Ireland
+1009,"Nanjing University,Ant Group",Academia,China
+1010,"LORIA,University of Lorraine,Facebook AI Research",Academia,France
+1011,"Toyota Technological Institute at Chicago,Google",Academia,United States of America
+1012,Carleton University,Academia,Canada
+1013,"University of California San Diego,Beihang University,Microsoft",Academia,United States of America
+1014,"Massachusetts Institute of Technology (MIT),Harvard University",Academia,United States of America
+1015,"Georgia Institute of Technology,Facebook AI Research,Oregon State University,Simon Fraser University",Academia,United States of America
+1016,"Beijing University of Posts and Telecommunications,University of West London",Academia,China
+1017,"NAVER,Yonsei University,Swiss Federal Institute of Technology",Industry,Korea (Republic of)
+1018,"Numenta,Incubator 491",Industry,United States of America
+1019,"University of Washington,Allen Institute for AI",Academia,United States of America
+1020,"Zhejiang University (ZJU),Microsoft Research",Academia,China
+1021,"Carnegie Mellon University (CMU),Google",Academia,United States of America
+1022,"Allen Institute for AI,Facebook AI Research",Research collective,United States of America
+1023,"Facebook,INRIA,Sorbonne University",Industry,United States of America
+1024,"Stanford University,Facebook AI Research",Academia,United States of America
+1025,"Tsinghua University,Huawei,Tongji University",Academia,China
+1026,"Tsinghua University,Beijing University of Posts and Telecommunications,Huawei Noah's Ark Lab",Academia,China
+1027,"University of Edinburgh,University of Zurich",Academia,United Kingdom of Great Britain and Northern Ireland
+1028,"Shandong University,University of Wollongong",Academia,China
+1029,"Facebook AI Research,Brown University",Industry,United States of America
+1030,"Toyota Technological Institute at Chicago,Google Research",Academia,United States of America
+1031,"Facebook AI Research,LORIA",Industry,United States of America
+1032,Technion - Israel Institute of Technology,Academia,Israel
+1033,"Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Swisscom,University of Freiburg",Academia,Switzerland
+1034,Fraunhofer Heinrich Hertz Institute,Research collective,Germany
+1035,University of Southern California,Academia,United States of America
+1036,"Nankai University,University of Washington,Tianjin University,Harvard University",Academia,China
+1037,University of Michigan,Academia,United States of America
+1038,"New York University (NYU),Facebook AI Research,CIFAR AI Research",Academia,United States of America
+1039,"Beijing Institute of Technology,University of Technology Sydney,Monash University",Academia,China
+1040,"NTT Communication Science Laboratories,Tohoku University",Industry,Japan
+1041,West Virginia University,Academia,United States of America
+1042,"Massachusetts Institute of Technology (MIT),Rey Juan Carlos University",Academia,United States of America
+1043,"Michigan State University,TAL Education Group (Xueersi)",Academia,United States of America
+1044,"Facebook,University of Washington",Industry,United States of America
+1045,"Tianjin University,Microsoft Research Asia,Beijing Institute of Technology",Academia,China
+1046,"University of California (UC) Berkeley,Google Brain",Academia,United States of America
+1047,"University of California (UC) Berkeley,Covariant,Google,Chan Zuckerberg Initiative",Academia,United States of America
+1048,"University of Electronic Science and Technology of China,Chinese University of Hong Kong (CUHK),Peng Cheng Laboratory",Academia,China
+1049,"Brown University,Facebook",Academia,United States of America
+1050,"Rutgers University,Google Research",Academia,United States of America
+1051,Capital One,Industry,United States of America
+1052,University of Texas at Austin,Academia,United States of America
+1053,"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)",Academia,United States of America
+1054,Cerenaut,Unknown,Australia
+1055,"DeepMind,University of California (UC) Berkeley",Industry,United Kingdom of Great Britain and Northern Ireland
+1056,"University of California (UC) Berkeley,Covariant",Academia,United States of America
+1057,IDIAP,Academia,Switzerland
+1058,"Massachusetts Institute of Technology (MIT),Tsinghua University,MIT-IBM Watson AI Lab,DeepMind",Academia,United States of America
+1059,Chinese Academy of Sciences,Academia,China
+1060,Murdoch University,Academia,Australia
+1061,University of Edinburgh,Academia,United Kingdom of Great Britain and Northern Ireland
+1062,"Mobvoi,Williams College",Industry,China
+1063,"Tel Aviv University,Massachusetts Institute of Technology (MIT)",Academia,Israel
+1064,"Facebook AI Research,Google Brain",Industry,United States of America
+1065,"Google,Bar-Ilan University",Industry,United States of America
+1066,Jane Street,Industry,United States of America
+1067,"Technion - Israel Institute of Technology,Facebook AI Research",Academia,Israel
+1068,"Carnegie Mellon University (CMU),Google Brain,Monash University",Academia,United States of America
+1069,"Samsung R&D Institute Russia,National Research University Higher School of Economics",Industry,Russia
+1070,"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain",Industry,United Kingdom of Great Britain and Northern Ireland
+1071,"Tianjin University,Beijing Institute of Technology",Academia,China
+1072,"Princeton University,Alibaba",Academia,United States of America
+1073,"University of California Los Angeles (UCLA),Megvii Inc",Academia,United States of America
+1074,University of Electronic Science and Technology of China,Academia,China
+1075,"Google Brain,DeepMind",Industry,United States of America
+1076,University of Hyderabad,Academia,India
+1077,Samsung R&D Institute Russia,Industry,Russia
+1078,"Samsung,Korea University",Industry,Korea (Republic of)
+1079,"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs",Academia,United States of America
+1080,"Carnegie Mellon University (CMU),Intel Labs,Bosch Center for Artificial Intelligence",Academia,United States of America
+1081,"Heriot-Watt University,DeepMind",Academia,United Kingdom of Great Britain and Northern Ireland
+1082,"Nara Institute of Science and Technology,Chinese University of Hong Kong (CUHK),Tsinghua University",Academia,Japan
+1083,"KU Leuven,ESAT - PSI,Apple",Academia,Belgium
+1084,LinkedIn,Industry,United States of America
+1085,"ASAPP,Cornell University,Google,Princeton University",Industry,United States of America
+1086,"Technical University of Denmark,University of Copenhagen,Universidad Nacional de San Martín,AIMST University",Academia,Denmark
+1087,"Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences,Nanyang Technological University",Academia,Hong Kong
+1088,"Tsinghua University,University of California Los Angeles (UCLA)",Academia,China
+1089,"Tsinghua University,Megvii Inc",Academia,China
+1090,"National Research University Higher School of Economics,Samsung R&D Institute Russia",Academia,Russia
+1091,"DeepMind,Carnegie Mellon University (CMU)",Industry,United Kingdom of Great Britain and Northern Ireland
+1092,"Carnegie Mellon University (CMU),DeepMind",Academia,United States of America
+1093,"DeepMind,University College London (UCL)",Industry,United Kingdom of Great Britain and Northern Ireland
+1094,Ben-Gurion University,Academia,Israel
+1095,"University of Manchester,Alan Turing Institute",Academia,United Kingdom of Great Britain and Northern Ireland
+1096,University of Manchester,Academia,United Kingdom of Great Britain and Northern Ireland
+1097,"Columbia University,New York University (NYU),Princeton University",Academia,United States of America
+1098,ESAT - PSI,Academia,Belgium
+1099,Northwestern University,Academia,United States of America
+1100,Google AI,Industry,United States of America
+1101,École des Ponts ParisTech,Academia,France
+1102,"Intel Labs,Carnegie Mellon University (CMU)",Industry,United States of America
+1103,"Northeastern University,University of Rochester",Academia,United States of America
+1104,"Preferred Networks Inc,Ritsumeikan University,National Institute of Informatics",Industry,Japan
+1105,"Google Brain,Carnegie Mellon University (CMU),Stanford University",Industry,United States of America
+1106,"Tsinghua University,Facebook AI Research,Cornell University",Academia,China
+1107,"University of San Francisco,Insight Centre NUI Galway,Fast.ai",Academia,United States of America
+1108,"Tsinghua University,University of Technology Sydney,University of Texas at San Antonio",Academia,China
+1109,"Google,University of California (UC) Berkeley",Industry,United States of America
+1110,"Facebook AI Research,Courant Institute of Mathematical Sciences",Industry,United States of America
+1111,"Tsinghua University,Stanford University,NVIDIA",Academia,China
+1112,"Johns Hopkins University,Google AI,Stanford University",Academia,United States of America
+1113,"Visual Computing Institute,RWTH Aachen University",Academia,Germany
+1114,"Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",Academia,Poland
+1115,"University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Academia,Canada
+1116,"Carnegie Mellon University (CMU),University of Pittsburgh",Academia,United States of America
+1117,University of Technology Sydney,Academia,Australia
+1118,"Duke University,Microsoft",Academia,United States of America
+1119,"Chinese Academy of Sciences,University of Oxford",Academia,China
+1120,Ben-Gurion University of the Negev,Academia,Israel
+1121,Saarland University,Academia,Germany
+1122,"Beihang University,University of Montreal / Université de Montréal,Chongqing University",Academia,China
+1123,"Tsinghua University,University of California (UC) Berkeley",Academia,China
+1124,"Shandong University,Texas A&M,National University of Singapore,Columbia University",Academia,China
+1125,"University of Guelph,Vector Institute,CIFAR AI Research",Academia,Canada
+1126,"Peking University,Microsoft Research",Academia,China
+1127,Ghent University,Academia,Belgium
+1128,"Google Research,Carnegie Mellon University (CMU)",Industry,United States of America
+1129,"Maluuba,Microsoft",Industry,Canada
+1130,Seoul National University,Academia,Korea (Republic of)
+1131,Twitter,Industry,United States of America
+1132,"National University of Singapore,University of Technology Sydney,Qihoo 360 AI Institute",Academia,Singapore
+1133,"Fudan University,Microsoft Research",Academia,China
+1134,"Johns Hopkins University,Google,University College London (UCL)",Academia,United States of America
+1135,"Courant Institute of Mathematical Sciences,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Academia,United States of America
+1136,"University of Pittsburgh,Duke University",Academia,United States of America
+1137,"University of Toronto,Twitter",Academia,Canada
+1138,"University of California (UC) Berkeley,OpenAI",Academia,United States of America
+1139,"Harbin Institute of Technology,Hong Kong Polytechnic University,ULSee Inc.,Xi’an Jiaotong University",Academia,China
+1140,"Facebook AI Research,University of Le Mans",Industry,United States of America
+1141,"Jagiellonian University,Google Brain",Academia,Poland
+1142,"Duke University,University of Chinese Academy of Sciences",Academia,United States of America
+1143,"University of Alberta,Charles University,Czech Technical University",Academia,Canada
+1144,Max Planck Institute for Intelligent Systems,Academia,Germany
+1145,"UT Austin,University of California (UC) Berkeley,Google",Academia,United States of America
+1146,"University of Toronto,Google DeepMind,Google Brain",Academia,Canada
+1147,"University of Adelaide,Australian Centre for Robotic Vision",Academia,Australia
+1148,"University of California San Diego,Facebook",Academia,United States of America
+1149,"Jiangnan University,University of Surrey",Academia,China
+1150,"Stanford University,Salesforce Research",Academia,United States of America
+1151,"Griffith University,University of Iowa,Dezhou University",Academia,Australia
+1152,"University of Michigan,Max Planck Institute for Informatics",Academia,United States of America
+1153,"MetaMind Inc,Salesforce",Industry,United States of America
+1154,"University of Edinburgh,Toyota Technological Institute at Chicago",Academia,United Kingdom of Great Britain and Northern Ireland
+1155,MetaMind Inc,Industry,United States of America
+1156,Université Paris-Est,Academia,France
+1157,"IBM,University of California San Diego",Industry,United States of America
+1158,"ETH Zurich,Shenzhen Institute of Advanced Technology,Chinese University of Hong Kong (CUHK)",Academia,Switzerland
+1159,"Johns Hopkins University,Cornell University",Academia,United States of America
+1160,"Chinese Academy of Sciences,Chinese University of Hong Kong (CUHK)",Academia,China
+1161,"Sensifai,Islamic Azad University,Technicolor R&I,Institute for Research in Fundamental Sciences (IPM)",Industry,Belgium
+1162,"ETH Zurich,IDSIA",Academia,Switzerland
+1163,"SenseTime,Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences",Industry,Hong Kong
+1164,"Tsinghua University,Microsoft Research",Academia,China
+1165,"University of Edinburgh,Carnegie Mellon University (CMU),University of Washington",Academia,United Kingdom of Great Britain and Northern Ireland
+1166,IEEE,Industry,Multinational
+1167,"Graz University of Technology,University of Oxford",Academia,Austria
+1168,UC Irvine,Academia,United States of America
+1169,York University,Academia,Canada
+1170,"Nanjing University,University of Adelaide",Academia,China
+1171,"Technion - Israel Institute of Technology,Columbia University,University of Montreal / Université de Montréal",Academia,Israel
+1172,"DeepScale,University of California (UC) Berkeley,Stanford University",Academia,United States of America
+1173,"Google,University of Montreal / Université de Montréal",Industry,United States of America
+1174,University of Cambridge,Academia,United Kingdom of Great Britain and Northern Ireland
+1175,"University of Toronto,New York University (NYU),Massachusetts Institute of Technology (MIT)",Academia,Canada
+1176,Baidu Research - Silicon Valley AI Lab,Industry,United States of America
+1177,"Google,University College London (UCL)",Industry,United States of America
+1178,Netflix,Industry,United States of America
+1179,"Princeton University,Intel Labs",Academia,United States of America
+1180,"Chinese Academy of Sciences,Michigan State University",Academia,China
+1181,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",Academia,China
+1182,"Harvard University,New York University (NYU)",Academia,United States of America
+1183,"Google,Carnegie Mellon University (CMU)",Industry,United States of America
+1184,"University of Maryland,Rutgers University",Academia,United States of America
+1185,"University of Toronto,Massachusetts Institute of Technology (MIT),CIFAR AI Research",Academia,Canada
+1186,"SenseTime,Chinese University of Hong Kong (CUHK),Shenzhen Institute of Advanced Technology",Industry,Hong Kong
+1187,"Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences",Academia,Hong Kong
+1188,"University of Science and Technology of China (USTC),York University",Academia,China
+1189,"University of Texas at Austin,Google",Academia,United States of America
+1190,"Chinese Academy of Sciences,Huawei Noah's Ark Lab,Dublin City University",Academia,China
+1191,"MetaMind Inc,Stanford University",Industry,United States of America
+1192,"University of Oxford,Stanford University,Baidu",Academia,United Kingdom of Great Britain and Northern Ireland
+1193,"University of Amsterdam,OpenAI,University of Toronto",Academia,Netherlands
+1194,University of Warwick,Academia,United Kingdom of Great Britain and Northern Ireland
+1195,"UT Austin,University of Massachusetts Lowell,University of California (UC) Berkeley",Academia,United States of America
+1196,"Google,University of Michigan,University of North Carolina",Industry,United States of America
+1197,"Singapore University of Technology & Design,DSO National Laboratories",Academia,Singapore
+1198,"New York University (NYU),Google Brain",Academia,United States of America
+1199,"Jacobs University Bremen,University of Montreal / Université de Montréal",Academia,Germany
+1200,"Google,Stanford University",Industry,United States of America
+1201,"Tel Aviv University,Facebook",Academia,Israel
+1202,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China (USTC)",Industry,United States of America
+1203,"University of Montreal / Université de Montréal,Jacobs University,University of Maine",Academia,Canada
+1204,Beihang University,Academia,China
+1205,"Microsoft,University of Toronto",Industry,United States of America
+1206,University of Amsterdam,Academia,Netherlands
+1207,"Aalto University,University of Montreal / Université de Montréal",Academia,Finland
+1208,"Universite de Technologie de Compiègne – CNRS,Google",Academia,France
+1209,"Universidad Nacional de Cordoba,Inteligent Systems Lab Amsterdam,University of Amsterdam,LEAR Team,INRIA,Xerox Research Centre Europe (XRCE)",Academia,Argentina
+1210,"Google,University of Toronto,New York University (NYU)",Industry,United States of America
+1211,"University of Trento,University of Amsterdam",Academia,Italy
+1212,"University of Toronto,University of Sherbrooke,Harvard University",Academia,Canada
+1213,"Microsoft,Brno University of Technology",Industry,United States of America
+1214,RWTH Aachen University,Academia,Germany
+1215,"Microsoft Research,Brno University of Technology",Industry,United States of America
+1216,"NEC Laboratories,Princeton University",Industry,United States of America
+1217,"Technion - Israel Institute of Technology,Google,University of California (UC) Berkeley",Academia,Israel
+1218,Collège de France,Academia,France
+1219,"Carnegie Mellon University (CMU),Google Research",Academia,United States of America
+1220,"Brno University of Technology,Johns Hopkins University",Academia,Czechia
+1221,"University of Michigan,Stanford University",Academia,United States of America
+1222,University of Bonn,Academia,Germany
+1223,Xerox Research Centre Europe (XRCE),Industry,France
+1224,Yahoo Research,Industry,United States of America
+1225,"INRIA,Ecole Normale Supèrieure,New York University (NYU)",Academia,France
+1226,"University of Montreal / Université de Montréal,University of Illinois Urbana-Champaign (UIUC)",Academia,Canada
+1227,"IDSIA,University of Lugano,SUPSI",Academia,Switzerland
+1228,"University of Montreal / Université de Montréal,University of Toronto",Academia,Canada
+1229,"University of Illinois Urbana-Champaign (UIUC),NEC Laboratories,Rutgers University",Academia,United States of America
+1230,"University of Washington,Microsoft Research,Cornell University",Academia,United States of America
+1231,AT&T,Industry,United States of America
+1232,"University of Edinburgh,University of Pittsburgh",Academia,United Kingdom of Great Britain and Northern Ireland
+1233,Courant Institute of Mathematical Sciences,Academia,United States of America
+1234,"Yahoo Research,AT&T",Industry,United States of America
+1235,Pragmatic Theory Inc.,Industry,Canada
+1236,University of Lubeck,Academia,Germany
+1237,"New York University (NYU),Microsoft",Academia,United States of America
+1238,"Google,NUANCE Communications,IDIAP,University of Illinois Urbana-Champaign (UIUC)",Industry,United States of America
+1239,"UC Irvine,University of Chicago,Toyota Technological Institute at Chicago",Academia,United States of America
+1240,"University of Bern,IDSIA,Technical University of Munich",Academia,Switzerland
+1241,Warsaw University,Academia,Poland
+1242,Xerox,Industry,United States of America
+1243,UT Austin,Academia,United States of America
+1244,"University of Oulu,IEEE",Academia,Finland
+1245,"University of Toronto,National University of Singapore",Academia,Canada
+1246,"IDSIA,Technical University of Munich",Academia,Switzerland
+1247,"INRIA,University of Illinois Urbana-Champaign (UIUC),Ecole Normale Supèrieure",Academia,France
+1248,"University of California (UC) Berkeley,Stanford University",Academia,United States of America
+1249,"Centre de Recherche en Automatique de Nancy (CRAN),CENPARMI",Academia,France
+1250,"New York University (NYU),Net-Scale technologies,NEC Laboratories",Academia,United States of America
+1251,"Microsoft Research,Microsoft",Industry,United States of America
+1252,"Massachusetts Institute of Technology (MIT),Stanford University",Academia,United States of America
+1253,"NEC Laboratories,Courant Institute of Mathematical Sciences",Industry,United States of America
+1254,Instituto de Ciencias Aplicadas y Technologia,Academia,Mexico
+1255,University of Sussex,Academia,United Kingdom of Great Britain and Northern Ireland
+1256,Soongsil University,Academia,Korea (Republic of)
+1257,"Columbia University,Princeton University,Hebrew University of Jerusalem",Academia,United States of America
+1258,"California Institute of Technology,University of Oxford",Academia,United States of America
+1259,California Institute of Technology,Academia,United States of America
+1260,"University of Southern California,RWTH Aachen University",Academia,United States of America
+1261,"Cornell University,IBM",Academia,United States of America
+1262,"Mitsubishi Electric Research Labs,Compaq CRL",Industry,United States of America
+1263,Brown University,Academia,United States of America
+1264,"University of Toronto,University College London (UCL)",Academia,Canada
+1265,University of Minnesota,Academia,United States of America
+1266,"University of California San Diego,Shannon Laboratory,AT&T",Academia,United States of America
+1267,"University of Southern California,IBM,University of Pennsylvania",Academia,United States of America
+1268,"University College London (UCL),University of Toronto",Academia,United Kingdom of Great Britain and Northern Ireland
+1269,"AT&T,Bell Laboratories,Rutgers University",Industry,United States of America
+1270,National Chiao Tung University,Academia,Taiwan
+1271,"UC Davis,Cornell University",Academia,United States of America
+1272,Advanced Telecommunications Research Institute,Industry,Japan
+1273,"University of Cambridge,Carnegie Mellon University (CMU)",Academia,United Kingdom of Great Britain and Northern Ireland
+1274,University of Erlangen - Nuremburg,Academia,Germany
+1275,"AT&T,Bell Laboratories",Industry,United States of America
+1276,University of Pennsylvania,Academia,United States of America
+1277,EURECOM,Academia,France
+1278,Sapienza Università di Roma,Academia,Italy
+1279,Bell Laboratories,Industry,United States of America
+1280,National Cancer Institute,Government,United States of America
+1281,Alan Turing Institute,Government,United Kingdom of Great Britain and Northern Ireland
+1282,Indian Statistical Institute,Academia,India
+1283,"Aalborg University,University of London",Academia,Denmark
+1284,"Stanford University,California Institute of Technology",Academia,United States of America
+1285,Complutense University of Madrid,Academia,Spain
+1286,"Advanced Telecommunications Research Institute,Carnegie Mellon University (CMU)",Industry,Japan
+1287,University of London,Academia,United Kingdom of Great Britain and Northern Ireland
+1288,Science Applications International Corporation / SAIC,Industry,United States of America
+1289,McGill University,Academia,Canada
+1290,"University of Chicago,Bell Laboratories,University of Western Ontario",Academia,United States of America
+1291,"University of California San Diego,Carnegie Mellon University (CMU)",Academia,United States of America
+1292,NHK Broadcasting Science Research Laboratories,Industry,Japan
+1293,Helsinki University of Technology,Academia,Finland
+1294,University of Zagreb,Academia,Croatia
+1295,Biological Cybernetics,Industry,Japan
+1296,University of Kansas,Academia,United States of America
+1297,University of Tokyo,Academia,Japan
+1298,Tokyo Medical and Dental University,Academia,Japan
+1299,University of Geneva,Academia,Switzerland
+1300,Purdue University,Academia,United States of America
+1301,University of Canterbury,Academia,New Zealand
+1302,University of Genoa,Academia,Italy
+1303,Cornell Aeronautical Laboratory,Academia,United States of America
+1304,Sandia Corporation,Industry,United States of America
+1305,"Cornell Aeronautical Laboratory,Cornell University",Academia,United States of America
+1306,Institute for Advanced Study,Academia,United States of America

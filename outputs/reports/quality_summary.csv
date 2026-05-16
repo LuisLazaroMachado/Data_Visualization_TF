@@ -1,0 +1,16 @@
+metric,value
+raw_rows,3509.0
+raw_columns,57.0
+clean_rows,3405.0
+clean_columns,22.0
+duplicate_model_rows_after_cleaning,0.0
+critical_null_rows_after_cleaning,0.0
+min_year,1950.0
+max_year,2026.0
+coverage_pct__Parameters,65.87
+coverage_pct__Training compute (FLOP),40.12
+coverage_pct__Training dataset size (total),40.5
+coverage_pct__Training time (hours),15.98
+coverage_pct__Training compute cost (2023 USD),6.58
+coverage_pct__Hardware quantity,24.61
+coverage_pct__Citations,42.94
