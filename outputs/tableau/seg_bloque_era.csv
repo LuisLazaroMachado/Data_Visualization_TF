@@ -1,0 +1,36 @@
+bloque_geopolitico,era_tecnologica,modelos
+Anglosphere,Era Conexionista (1980-1999),53
+Anglosphere,Era Deep Learning (2000-2011),103
+Anglosphere,Era GPU (2012-2016),181
+Anglosphere,Era LLM (2023-2026),998
+Anglosphere,Era Simbólica (1950-1979),22
+Anglosphere,Era Transformer (2017-2022),634
+Asia-Pacífico,Era Conexionista (1980-1999),5
+Asia-Pacífico,Era Deep Learning (2000-2011),2
+Asia-Pacífico,Era GPU (2012-2016),4
+Asia-Pacífico,Era LLM (2023-2026),106
+Asia-Pacífico,Era Simbólica (1950-1979),3
+Asia-Pacífico,Era Transformer (2017-2022),47
+China,Era GPU (2012-2016),18
+China,Era LLM (2023-2026),700
+China,Era Transformer (2017-2022),129
+Europa,Era Conexionista (1980-1999),8
+Europa,Era Deep Learning (2000-2011),22
+Europa,Era GPU (2012-2016),20
+Europa,Era LLM (2023-2026),108
+Europa,Era Simbólica (1950-1979),2
+Europa,Era Transformer (2017-2022),72
+Latinoamérica,Era Deep Learning (2000-2011),1
+Latinoamérica,Era GPU (2012-2016),1
+Medio Oriente,Era Deep Learning (2000-2011),1
+Medio Oriente,Era GPU (2012-2016),2
+Medio Oriente,Era LLM (2023-2026),34
+Medio Oriente,Era Transformer (2017-2022),15
+Otro,Era Conexionista (1980-1999),2
+Otro,Era Deep Learning (2000-2011),6
+Otro,Era GPU (2012-2016),5
+Otro,Era LLM (2023-2026),48
+Otro,Era Simbólica (1950-1979),3
+Otro,Era Transformer (2017-2022),17
+Rusia,Era LLM (2023-2026),26
+Rusia,Era Transformer (2017-2022),7

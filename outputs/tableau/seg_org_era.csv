@@ -1,0 +1,20 @@
+Organization categorization,era_tecnologica,modelos
+Academia,Era Conexionista (1980-1999),46
+Academia,Era Deep Learning (2000-2011),112
+Academia,Era GPU (2012-2016),131
+Academia,Era LLM (2023-2026),437
+Academia,Era Simbólica (1950-1979),22
+Academia,Era Transformer (2017-2022),426
+Government,Era Conexionista (1980-1999),2
+Government,Era LLM (2023-2026),28
+Government,Era Transformer (2017-2022),1
+Industry,Era Conexionista (1980-1999),20
+Industry,Era Deep Learning (2000-2011),23
+Industry,Era GPU (2012-2016),100
+Industry,Era LLM (2023-2026),1496
+Industry,Era Simbólica (1950-1979),8
+Industry,Era Transformer (2017-2022),471
+Research collective,Era LLM (2023-2026),46
+Research collective,Era Transformer (2017-2022),20
+Unknown,Era LLM (2023-2026),13
+Unknown,Era Transformer (2017-2022),3

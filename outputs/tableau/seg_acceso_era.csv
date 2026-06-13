@@ -1,0 +1,17 @@
+tipo_acceso,era_tecnologica,modelos
+Abierto,Era Deep Learning (2000-2011),1
+Abierto,Era GPU (2012-2016),19
+Abierto,Era LLM (2023-2026),965
+Abierto,Era Transformer (2017-2022),318
+Cerrado,Era Conexionista (1980-1999),5
+Cerrado,Era Deep Learning (2000-2011),25
+Cerrado,Era GPU (2012-2016),80
+Cerrado,Era LLM (2023-2026),711
+Cerrado,Era Simbólica (1950-1979),2
+Cerrado,Era Transformer (2017-2022),482
+Unknown,Era Conexionista (1980-1999),63
+Unknown,Era Deep Learning (2000-2011),109
+Unknown,Era GPU (2012-2016),132
+Unknown,Era LLM (2023-2026),344
+Unknown,Era Simbólica (1950-1979),28
+Unknown,Era Transformer (2017-2022),121
