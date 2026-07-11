@@ -1,0 +1,10 @@
+item,value
+dataset,Epoch AI: All AI Models (Gold)
+n_samples,632
+n_features,15
+scaling,StandardScaler
+pca_var_2d,0.4227
+pca_components_90pct,9
+tsne_perplexity,30
+tsne_input,PCA a 10 componentes antes de t-SNE
+warning,"t-SNE preserva vecindarios locales, no distancias globales"

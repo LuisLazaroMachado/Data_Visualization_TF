@@ -1,0 +1,642 @@
+Model,Organization,Country (of organization),bloque_geopolitico,era_tecnologica,Domain,pca_1,pca_2,tsne_1,tsne_2
+DataRater test model (1B),Google DeepMind,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.242079675976351,-0.36380355407128884,1.1783046,27.134762
+Seaweed-7B,ByteDance,China,China,Era LLM (2023-2026),Video,1.7082783581984406,0.437305328145079,4.784028,22.586037
+Pangu Ultra,Huawei,China,China,Era LLM (2023-2026),Language,2.450273222811861,-0.03513770100130423,6.073376,29.911104
+GR00T N1 2B,NVIDIA,United States of America,Anglosphere,Era LLM (2023-2026),Robotics,1.7397010285410222,0.8344271131712818,8.534936,2.7267394
+HAMSTER VLM,"NVIDIA,University of Washington,University of Southern California",United States of America,Anglosphere,Era LLM (2023-2026),Robotics,1.7944003108026156,0.5111190057007037,8.285723,2.6967213
+Eagle 2,"NVIDIA,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)",United States of America,Anglosphere,Era LLM (2023-2026),Vision,1.470830553394866,1.207724363223918,-25.806765,19.034338
+Uni-Med,"Tsinghua University,Beijing University of Posts and Telecommunications",China,China,Era LLM (2023-2026),Unknown,0.808379989835593,-1.9159978935753004,-16.03642,-23.976782
+Pro-PRIME,"Shanghai Jiao Tong University,Shanghai AI Lab,East China University of Science and Technology,Shanghai Tech University,Guangzhou Inernational Bio Island,Chinese Academy of Sciences,Shanghai Academy of Experimental Medicine",China,China,Era LLM (2023-2026),Biology,0.47274784408534143,-3.187900895004221,15.151018,-36.573967
+RDT-1B,Tsinghua University,China,China,Era LLM (2023-2026),Robotics,0.778018936492515,-1.2826374445501216,-1.1040905,-15.300285
+Pyramid Flow,"Peking University,Kuaishou Technology,Beijing University of Posts and Telecommunications",China,China,Era LLM (2023-2026),Video,0.7524998453881708,-1.3973847329253652,-1.2033927,-15.322282
+Aria,Rhymes AI,United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.5099923726170648,1.2251835968922142,32.6115,6.4181113
+dnaGrinder,Hong Kong Polytechnic University,Hong Kong,China,Era LLM (2023-2026),Biology,-0.014920883016535356,-3.138705184072804,15.028887,-35.872524
+ProtBFN,InstaDeep,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era LLM (2023-2026),Biology,1.4364520769361244,-0.6453635254414054,16.94869,-31.429321
+PocketGen,"University of Science and Technology of China (USTC),Hefei Comprehensive National Science Center,Harvard University,Broad Institute,Harvard Data Science Initiative",China,China,Era LLM (2023-2026),Biology,-0.31217379322348615,-2.923196146502948,14.592514,-35.619324
+AMPLIFY,"Chandar Research Lab,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Amgen,Polytechnique Montreal,CIFAR AI Research",Canada,Anglosphere,Era LLM (2023-2026),Biology,0.851128262993784,-2.5872346938350286,11.077597,-35.615814
+Prithvi WxC,"IBM Research,University of Alabama,Stanford University,Colorado State University,Oak Ridge National Laboratory,NASA",United States of America,Anglosphere,Era LLM (2023-2026),Earth science,1.3717086253494504,0.27971650955297506,7.9030576,2.6320372
+AntiFormer,"University of Florida,Sichuan University,Shihezi University,University of Macau,University of Texas Health Science Center",United States of America,Anglosphere,Era LLM (2023-2026),Biology,0.15452220518235246,-3.3295890356855855,12.202147,-34.50589
+xGen-MM (BLIP-3),"Salesforce Research,University of Washington",United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,1.6652411494623087,1.069312992747252,33.65722,6.969848
+P-LLama3,University of Siena,Italy,Europa,Era LLM (2023-2026),Biology,1.5785703383726475,-3.0831993252133447,11.664348,-36.178772
+LLaVA-OV-72B,"ByteDance,Nanyang Technological University,Chinese University of Hong Kong (CUHK),Hong Kong University of Science and Technology (HKUST)",China,China,Era LLM (2023-2026),Multimodal,2.7028319457194185,1.7785359530865097,31.806795,7.1459255
+EPInformer,"The University of Hong Kong,Harvard Medical School",Hong Kong,China,Era LLM (2023-2026),Biology,-0.8071903850386023,-3.333253982245021,14.866004,-35.0142
+OmniGenome,University of Exeter,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era LLM (2023-2026),Biology,0.25564894606031496,-3.0919183900417204,14.994762,-36.30121
+RNA-FrameFlow,"National University of Singapore,Prescient Design,University of Missouri,University of Cambridge",Singapore,Asia-Pacífico,Era LLM (2023-2026),Biology,0.06636436915283092,-2.8999180861071783,11.608233,-34.554325
+Ovis-7B,"Alibaba,Nanjing University",China,China,Era LLM (2023-2026),Multimodal,2.381869208062022,1.2183205732164926,32.602825,6.348754
+OpenVLA,"Stanford University,University of California (UC) Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence",United States of America,Anglosphere,Era LLM (2023-2026),Robotics,0.9760531926507217,-0.9885596043074582,-0.72103626,-15.126353
+MULAN,"AIRI Artificial Intelligence Research Institute,Skolkovo Institute of Science and Technology,Belozersky Institute of Physio-Chemical Biology,Ligand Pro",Russia,Rusia,Era LLM (2023-2026),Biology,0.8890066109696465,-1.8287933777587975,11.679035,-33.857994
+Zamba2-7B,Zyphra,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.094765357707404,0.3213470287548053,8.424428,-3.8647354
+360Zhinao-7B,360 Security Technology,China,China,Era LLM (2023-2026),Language,2.303982960920548,-0.48276903239525976,6.551625,-4.7241554
+"ALLaM adapted13B
+",Saudi Data and Artificial Intelligence Authority,Saudi Arabia,Medio Oriente,Era LLM (2023-2026),Language,1.8395071557108678,0.11693419178695316,5.2708464,28.477583
+ALLaM adapted 70B,Saudi Data and Artificial Intelligence Authority,Saudi Arabia,Medio Oriente,Era LLM (2023-2026),Language,2.132843900027197,0.16821891593169652,6.170182,29.32195
+ALLaM 7B,Saudi Data and Artificial Intelligence Authority,Saudi Arabia,Medio Oriente,Era LLM (2023-2026),Language,2.12033600470379,0.21307640223327037,7.8014097,-3.847865
+ALLaM 34B,Saudi Data and Artificial Intelligence Authority,Saudi Arabia,Medio Oriente,Era LLM (2023-2026),Language,2.0556401766164636,0.15442019359249798,5.8589306,29.060083
+Octo-Base,"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind",United States of America,Anglosphere,Era LLM (2023-2026),Robotics,0.20312263839416447,-1.205850518222966,-1.4738369,-15.437195
+ProSST,"Shanghai Jiao Tong University,Shanghai AI Lab,East China University of Science and Technology",China,China,Era LLM (2023-2026),Biology,0.1294400814729638,-2.59701545108748,13.848111,-36.605846
+LBSTER,"Prescient Design,Genentech",United States of America,Anglosphere,Era LLM (2023-2026),Biology,0.73398549760667,-1.002762214681105,16.934141,-32.23846
+VILA1.5-13B,"NVIDIA,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.1152445042191466,1.4961872249251242,32.15211,6.609449
+DiffPepBuilder,Peking University,China,China,Era LLM (2023-2026),Biology,0.3174430540508776,-2.7526983299719894,14.275126,-36.797993
+SaProt,"Zhejiang University (ZJU),Westlake University",China,China,Era LLM (2023-2026),Biology,0.5466268929321427,-2.25852929083197,13.307752,-37.539803
+ESM-AA,"Peking University,Nanjing University,Tsinghua University,PharMolix",China,China,Era LLM (2023-2026),Biology,0.07029355845041821,-2.8695622378862318,14.483993,-36.219376
+Mixture-of-Depths,"Google DeepMind,McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.1718700245742428,0.22384289904638016,3.8695078,26.67768
+TeleChat-12B,China Telecom,China,China,Era LLM (2023-2026),Language,2.23133481136535,-0.03106878133248022,7.1498985,-4.375794
+ProstT5,"Technical University of Munich,Seoul National University,Institute for Advanced Study,TUM School of Life Sciences Weihenstephan",Germany,Europa,Era LLM (2023-2026),Biology,0.5264843515321569,-2.2751146499462322,13.363356,-37.543518
+ERNIE-RNA,"Microsoft Research,Syngentech,Tsinghua University",United States of America,Anglosphere,Era LLM (2023-2026),Biology,1.0297459704145264,-0.6752992911252806,17.05439,-31.682487
+MM1-30B,Apple,United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.188268852771411,1.267040481802956,33.22781,7.59693
+DeepSeek-VL-7B,DeepSeek,China,China,Era LLM (2023-2026),Multimodal,2.2835930853281132,1.514907892026084,32.04461,6.7908707
+DeepSeek-VL-1.3B,DeepSeek,China,China,Era LLM (2023-2026),Multimodal,1.9497478588631274,1.456791783298476,32.038143,6.209816
+RiNALMo,"University of Zagreb,Genome Institute of Singapore,Bioinformatics Institute",Croatia,Otro,Era LLM (2023-2026),Biology,0.34531232539242807,-2.5396715386333852,13.789899,-37.040897
+Evo,"Stanford University,University of California (UC) Berkeley,Together",United States of America,Anglosphere,Era LLM (2023-2026),Biology,1.1176916506582282,-2.1144569417892325,10.1822,-36.48742
+ProLLaMA,"Peking University,Peng Cheng Laboratory",China,China,Era LLM (2023-2026),Biology,0.869052334518224,-2.434247459414557,13.675229,-37.821407
+MegaScale (175B),"ByteDance,Peking University",China,China,Era LLM (2023-2026),Language,2.076419528825305,0.4870645529245102,7.8286014,28.837868
+MegaScale (530B),"ByteDance,Peking University",China,China,Era LLM (2023-2026),Language,2.2734794680691843,0.5214922888209844,8.338932,29.261173
+MegaScale (Production),"ByteDance,Peking University",China,China,Era LLM (2023-2026),Language,2.360189683274328,0.5361151726211777,8.546584,29.375647
+ProtChatGPT,"University of Technology Sydney,Zhejiang University (ZJU)",Australia,Anglosphere,Era LLM (2023-2026),Biology,1.0661025273090359,-2.6307483984227367,14.01937,-37.85619
+PLAPT,"Wolfram Research,ASC27,Newport High School,Sanskriti School",United States of America,Anglosphere,Era LLM (2023-2026),Biology,0.8123665833324472,-0.8800767519311683,16.957178,-32.091553
+Distilled Grandmaster,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era LLM (2023-2026),Games,1.441299265617114,0.34279100251260647,7.9860578,2.6579657
+CARP,Microsoft Research,United States of America,Anglosphere,Era LLM (2023-2026),Biology,1.6519094438287982,-0.15354105779407187,17.593185,-28.558954
+Code Llama-70B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.3590586020770266,1.0581442106019172,14.823796,-2.9902546
+ProteinStructureTransformer,Max Planck Institute of Biochemistry,Germany,Europa,Era LLM (2023-2026),Biology,0.576431959977936,-2.72485982993455,14.262333,-37.260525
+OmniNA,Tianjin Medical University,China,China,Era LLM (2023-2026),Biology,0.6166869264758728,-3.02864570192213,14.832157,-37.033176
+DeepSeekMoE-16B,DeepSeek,China,China,Era LLM (2023-2026),Language,2.0403950033716205,0.7032651643148793,11.182647,-3.075514
+PLLaMa,"University of California Santa Barbara (UCSB),University of Lincoln,Chinese Academy of Agricultural Sciences,Swedish University of Agricultural Sciences",United States of America,Anglosphere,Era LLM (2023-2026),Biology,1.3901613613689034,-2.427412140937353,10.825126,-36.53138
+YaYi 2.0,Yayi (Wenge),China,China,Era LLM (2023-2026),Language,2.3946364006977934,-0.03764640852832043,7.2230525,-4.569011
+nekomata-14b,rinna,Japan,Asia-Pacífico,Era LLM (2023-2026),Language,2.2213648707446207,0.1877426847791914,7.9084687,-4.277353
+CogAgent,"Tsinghua University,Z.ai (Zhipu AI)",China,China,Era LLM (2023-2026),Vision,0.5334865548987233,-0.326418762165694,-27.240162,13.0936165
+FunSearch,Google DeepMind,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.1298675535718092,0.7493259956483413,11.794094,-3.2375069
+VILA-13B,"NVIDIA,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.059997929482462,1.513291605680202,32.12434,6.565707
+Llama Guard,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.9852910400276045,0.7623669204123874,11.425987,-2.6918483
+Mamba-2.8B,"Carnegie Mellon University (CMU),Princeton University",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.7851079494027657,-1.0330713335546184,-1.4259496,-10.987065
+Orca 2-13B,Microsoft Research,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.0318997918853223,0.4986883872337493,9.442244,-3.4682086
+Volcano 13B,"Korea University,Korea Advanced Institute of Science and Technology (KAIST),LG",Korea (Republic of),Asia-Pacífico,Era LLM (2023-2026),Language,1.2502823661954419,-1.741336008103643,-1.4161218,-12.888817
+CogVLM-17B,"Tsinghua University,Z.ai (Zhipu AI),Beihang University",China,China,Era LLM (2023-2026),Multimodal,1.478671861755365,-0.5404438636978652,32.8986,4.7797675
+LLaVA 1.5,"University of Wisconsin Madison,Microsoft Research",United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,1.3903744792497763,-0.21513553465500757,32.806137,4.7143755
+Skywork-13B,Kunlun Inc.,China,China,Era LLM (2023-2026),Language,2.15335576220601,0.4440663993375197,9.166248,-3.8858254
+CODEFUSION (Python),"Microsoft,Microsoft Research",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.6102433688560301,-0.05646612239028939,1.0711577,25.554325
+Llemma 34B,"Princeton University,University of Toronto,Vector Institute,University of Cambridge,Carnegie Mellon University (CMU),University of Washington,EleutherAI",United States of America,Anglosphere,Era LLM (2023-2026),Mathematics,1.2383160186011408,-1.1550663540816812,-0.6774298,-15.065565
+Llemma 7B,"Princeton University,EleutherAI,University of Toronto,Vector Institute,University of Cambridge,Carnegie Mellon University (CMU),University of Washington",United States of America,Anglosphere,Era LLM (2023-2026),Mathematics,0.9745140218039834,-1.2012590965810137,-0.8927635,-15.183759
+CodeFuse-13B,Ant Group,China,China,Era LLM (2023-2026),Language,2.228091414502194,0.16842189876242128,7.808969,-4.283596
+FinGPT-13B,"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.3279721950855041,-1.7259741824630435,-1.1999743,-12.820496
+LLaMA-7B (protein-oriented instruction-tuned),Zhejiang University (ZJU),China,China,Era LLM (2023-2026),Language,1.1398090234328135,-1.6972448311710857,-1.6799084,-12.851817
+TinyLlama-1.1B (1T token checkpoint),Singapore University of Technology & Design,Singapore,Asia-Pacífico,Era LLM (2023-2026),Language,0.7927825272002369,-1.4503924251691145,-2.141751,-12.234918
+TinyLlama-1.1B (3T token checkpoint),Singapore University of Technology & Design,Singapore,Asia-Pacífico,Era LLM (2023-2026),Language,0.861199195666805,-1.4388545805147557,-1.874496,-12.124602
+Qwen-14B,Alibaba,China,China,Era LLM (2023-2026),Language,2.0283752505578976,1.0455367450506894,13.896255,-2.1826491
+Qwen-7B,Alibaba,China,China,Era LLM (2023-2026),Language,1.8978953444296038,1.0227847533874854,13.364159,-1.8178145
+InternLM-XComposer,Shanghai AI Lab,China,China,Era LLM (2023-2026),Multimodal,1.2638202536879586,-0.7398057487727462,32.95824,4.8138165
+DreamLLM,"Xi’an Jiaotong University,Megvii Inc,Tsinghua University,Huazhong University of Science and Technology",China,China,Era LLM (2023-2026),Multimodal,0.7601317984237042,-0.8944167628506945,33.5985,5.1726213
+Baichuan 2-7B,Baichuan,China,China,Era LLM (2023-2026),Language,1.9519329833320807,0.8015624351205557,11.704823,-2.4154637
+OpenChat-13b,"Tsinghua University,Shanghai AI Lab,01.AI",China,China,Era LLM (2023-2026),Language,1.2314493955775032,-1.4995265219047964,-1.123284,-12.273275
+Phi-1.5,Microsoft,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.5084766403619847,0.636619245565312,8.94346,-1.3233749
+MADLAD-400 10B,"Google DeepMind,Google Research",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.9419604092681835,0.5000340025822916,9.224157,-3.1082854
+FLM-101B,"Chinese Academy of Sciences,Harbin Institute of Technology,Nanyang Technological University,Beijing Academy of Artificial Intelligence / BAAI",China,China,Era LLM (2023-2026),Language,1.5291949582940398,-1.9066714513880638,-0.9350461,-13.009821
+XGen-7B,Salesforce,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.094880464354222,0.04412935397703341,7.203485,-4.0424542
+Falcon-180B,Technology Innovation Institute,United Arab Emirates,Medio Oriente,Era LLM (2023-2026),Language,2.152341515604982,-0.23433157207125532,3.9309397,-9.281884
+Swift,Intel Labs,United States of America,Anglosphere,Era LLM (2023-2026),Robotics,-0.7088271319035342,0.16610534712431752,1.5443968,21.708559
+Jais,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42",United States of America,Anglosphere,Era LLM (2023-2026),Language,2.081796921029287,0.29150346870814,8.173788,-3.7277825
+ShapeMol,Ohio State University,United States of America,Anglosphere,Era LLM (2023-2026),Biology,-0.04538024756008924,-1.8554467051074734,15.779078,-34.13448
+Code Llama-34B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.173887316884864,1.0525704567582865,14.316499,-2.5996683
+Code Llama-7B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.9071529591189949,1.0058831984328285,13.230235,-1.8880218
+SS-pLM,"Nostrum Biodiscovery,Barcelona Supercomputing Center,Institucio Catalana de Recerca i Estudis Avancçats",Spain,Europa,Era LLM (2023-2026),Biology,0.1735208539270965,-2.028991914126223,15.774329,-34.20311
+AudioLM,Google Research,United States of America,Anglosphere,Era LLM (2023-2026),Audio,0.561004899989706,0.7889980298497301,3.3661604,21.909695
+LM-Design,"ByteDance,University of Wisconsin Madison",China,China,Era LLM (2023-2026),Biology,0.5042849383885677,-0.5845230080111435,17.302065,-31.899551
+Llama 2-70B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.2070413402237947,1.388655839467217,15.900216,-2.085479
+Llama 2-34B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.700337524395915,1.2529750584331472,11.332009,27.038605
+Llama 2-7B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.8199656043800079,1.3208950883488288,14.991659,-1.1455266
+Llama 2-13B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.9262146662723623,1.3394808241364276,15.314166,-1.4803505
+RetNet,"Microsoft Research,Tsinghua University",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.3796871446315955,0.5388180793719847,6.3429255,26.701014
+xTrimoPGLM -100B,"Tsinghua University,BioMap Research",China,China,Era LLM (2023-2026),Biology,1.1953868747929157,-2.2187897132410557,13.335296,-38.20036
+Pangu-Weather,Huawei,China,China,Era LLM (2023-2026),Earth science,1.3914193707036595,0.7069948005039309,8.320325,2.6989493
+LongNet,"Microsoft,Xi’an Jiaotong University",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.3284030727299239,0.3700489291133928,5.026961,26.788542
+HyenaDNA,"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",United States of America,Anglosphere,Era LLM (2023-2026),Biology,0.1466659411773311,-2.1505413523360732,10.093481,-34.989346
+Kosmos-2,Microsoft,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.44877136295194,0.7348193265211032,9.353919,-0.9740619
+WizardCoder-15.5B,Microsoft,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.041807437993746,0.8017029079100105,12.029488,-2.8315198
+PoET,OpenProtein.ai,Singapore,Asia-Pacífico,Era LLM (2023-2026),Biology,0.7448986016941918,-0.4674714784571604,17.360703,-31.55268
+Polyglot-Ko-12.8B,EleutherAI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.6352664887171326,-0.8787626047433387,4.1421924,-7.2012534
+PaLI-X,Google Research,United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.2068933266256376,1.3011877404080499,33.20568,7.652642
+Guanaco-65B,University of Washington,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.4227776949185889,-0.9869465107077825,-0.34358123,-11.303331
+RWKV-4 14B,RWKV Foundation,Multinational,Otro,Era LLM (2023-2026),Language,1.173936293913723,-0.3899104497983451,7.862656,25.498318
+ONE-PEACE,"Alibaba,Huazhong University of Science and Technology",China,China,Era LLM (2023-2026),Multimodal,1.8332940156152653,1.1894288028560807,32.51497,6.17784
+LIMA,"Meta AI,Carnegie Mellon University (CMU),University of Southern California,Tel Aviv University",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.8958337643679257,0.7822872588696089,9.244646,27.965357
+WeLM,WeChat AI,China,China,Era LLM (2023-2026),Language,1.6610818316291864,0.00030665064583864667,4.160162,27.88557
+InstructBLIP,"Salesforce Research,Hong Kong University of Science and Technology (HKUST),Nanyang Technological University",United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,1.8431696952705237,1.7576346876627167,31.73702,6.511264
+ESM-GearNet,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal,IBM Research,HEC Montreal,CIFAR AI Research",Canada,Anglosphere,Era LLM (2023-2026),Biology,0.06163879118980356,-2.6207379412186484,13.924509,-36.51373
+PaLM 2,Google,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.2153895013657583,0.9247956049392423,10.605291,28.617466
+StarCoder,"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich",United States of America,Anglosphere,Era LLM (2023-2026),Language,2.01621251092968,0.8354317557830532,12.25389,-2.6234987
+WizardLM-7B,"Microsoft,Peking University",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.875788218589389,0.8319213644331006,11.77097,-2.0484097
+LLaVA,"University of Wisconsin Madison,Microsoft Research,Columbia University",United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,1.366513853001408,-0.10747804605218345,32.774536,4.688744
+DINOv2,"Facebook AI Research,INRIA",United States of America,Anglosphere,Era LLM (2023-2026),Vision,0.8176844920922071,2.1313181500098866,-26.213167,17.920296
+Incoder-6.7B,"Facebook AI Research,University of Washington,University of California (UC) Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.729266453786046,0.7364906556587691,10.461238,-1.7961268
+DiffDock-PP,"Technical University of Munich,Massachusetts Institute of Technology (MIT)",Germany,Europa,Era LLM (2023-2026),Biology,-0.9884279119434305,-2.753905997982585,14.424011,-35.107986
+Cerebras-GPT-13B,Cerebras Systems,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.004086464716872,0.4220876280645282,8.783162,-3.4233646
+Segment Anything Model,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Vision,0.732880115232166,2.2362601595883396,-26.272276,17.637074
+Pythia-12b,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.5010081778895616,-0.15627238682815656,3.3655863,-8.925362
+Pythia-2.8b,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.2549400321829989,-0.1993394547798063,2.987752,-8.637869
+Pythia-6.9b,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.4074659622185248,-0.17264440345277518,3.2265916,-8.810993
+Pythia-160m,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.770978005021073,-0.28404289161847496,2.2004087,-8.177789
+Pythia-1b,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.0808333885118449,-0.22981167429167348,2.6790848,-8.448802
+Pythia-1.4b,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.1377368480316659,-0.2198524488545024,2.7803273,-8.51036
+Pythia-70m,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.6312178323416521,-0.30850396566014937,2.0459764,-8.111343
+Pythia-410m,"EleutherAI,Booz Allen Hamilton, McLean,University of Cambridge,Indraprastha Institute of Information Technology
+Delhi,Stability AI,datasaur.ai,University of Amsterdam",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.9300837290575853,-0.2561960582795967,2.4265108,-8.297851
+BloombergGPT,"Bloomberg,Johns Hopkins University",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.816083141744446,0.7696115506834835,9.04256,27.678232
+VideoMAE V2,"Nanjing University,Shenzhen Institute of Advanced Technology,Shanghai AI Lab",China,China,Era LLM (2023-2026),Video,0.5978722828969882,-1.2052444248882872,-1.1965499,-15.321578
+Sparse Wide GPT-3 Small,Cerebras Systems,United States of America,Anglosphere,Era LLM (2023-2026),Language,0.902890939918048,-0.3678561780373456,0.55411947,26.609861
+PanGu-Σ,Huawei Noah's Ark Lab,China,China,Era LLM (2023-2026),Language,2.295234442218,0.3425320899562624,7.3799877,29.546602
+GPT-4 (Mar 2023),OpenAI,United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.6233722780952853,2.226780136570537,32.4813,8.281398
+Falcon-40B,Technology Innovation Institute,United Arab Emirates,Medio Oriente,Era LLM (2023-2026),Language,2.0841803829027765,-1.4832717897698766,5.0745597,-6.317907
+GPT-4 (Jun 2023),OpenAI,United States of America,Anglosphere,Era LLM (2023-2026),Multimodal,2.6233722780952853,2.226780136570537,32.4813,8.281398
+VALL-E X,Microsoft,United States of America,Anglosphere,Era LLM (2023-2026),Speech,0.09763637621048613,1.0589190603562328,-6.748332,3.448539
+AudioGen,"Meta AI,Hebrew University of Jerusalem",United States of America,Anglosphere,Era LLM (2023-2026),Audio,1.4198847750316204,0.8437627670347544,8.454278,2.7095025
+DiT-XL/2,"New York University (NYU),University of California (UC) Berkeley",United States of America,Anglosphere,Era LLM (2023-2026),Image generation,0.5314251092616199,-0.3348140286200326,16.841763,12.672879
+LLaMA-13B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.875338262110054,1.3596299669391567,15.39514,-1.2702423
+LLaMA-33B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.0512264327760446,1.3902803684429221,15.739599,-1.6724418
+LLaMA-65B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,2.169212335475302,1.4109286750472758,15.940129,-1.9416723
+LLaMA-7B,Meta AI,United States of America,Anglosphere,Era LLM (2023-2026),Language,1.7629487609179681,1.3399614490892755,15.013122,-0.97950196
+Hyena 1.3B,"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.124543892959565,-1.6767090214601859,-14.258834,-22.3297
+Hyena-2 355M,"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",United States of America,Anglosphere,Era LLM (2023-2026),Language,-0.026031966590379516,-1.7035025140196784,-14.303654,-21.73884
+Hyena-2 153M,"Stanford University,University of Montreal / Université de Montréal,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",United States of America,Anglosphere,Era LLM (2023-2026),Language,0.2246776380325851,-1.612679817650993,-3.7466059,-12.326854
+ViT-22B,Google,United States of America,Anglosphere,Era LLM (2023-2026),Vision,1.0329254497012073,1.7270855450724791,-24.767664,20.413551
+BLIP-2 (Q-Former),Salesforce Research,United States of America,Anglosphere,Era LLM (2023-2026),Vision,0.7275560169348769,2.137775026081229,-26.123362,17.82848
+DDPM-IP (CelebA),Utrecht University,Netherlands,Europa,Era LLM (2023-2026),Image generation,0.5678991115373387,-1.0717292385242942,17.020016,12.73853
+GPT-2+Active-SGD (WT2),University of Montreal / Université de Montréal,Canada,Anglosphere,Era LLM (2023-2026),Language,-0.19378079019880387,-2.897833460616123,-20.305075,-20.603785
+Adaptive Agent,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era LLM (2023-2026),Games,0.9298789607299733,0.5229469023849335,3.5876946,22.108807
+Ankh_large,"Technical University of Munich,Columbia University",Germany,Europa,Era LLM (2023-2026),Biology,0.8727125822994084,-2.216985191299309,10.367889,-36.02094
+Ankh_base,"Technical University of Munich,Columbia University",Germany,Europa,Era LLM (2023-2026),Biology,0.7149298871294073,-2.244611039204206,10.390851,-35.710682
+Nucleotide Transformer,"NVIDIA,Technical University of Munich,InstaDeep",United States of America,Anglosphere,Era LLM (2023-2026),Biology,1.8025895894668933,-0.44786820990417947,17.365677,-28.967405
+DreamerV3,"DeepMind,University of Toronto",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era LLM (2023-2026),Games,0.5951950344718091,0.8011065096441229,3.3645036,21.883072
+SantaCoder,"Hugging Face,ServiceNow,Massachusetts Institute of Technology (MIT),Wellesley College,Saama,EleutherAI,Huawei Noah's Ark Lab,Carnegie Mellon University (CMU)",United States of America,Anglosphere,Era LLM (2023-2026),Language,1.5659847177086508,0.4638200529625336,8.189263,-1.7567341
+VALL-E,Microsoft,United States of America,Anglosphere,Era LLM (2023-2026),Audio,0.45651541936122786,0.8129848280577661,3.262265,21.848148
+SparseOPT-175B,"Institute of Science and Technology Austria (ISTA),Neural Magic",Austria,Otro,Era LLM (2023-2026),Language,1.0423948633461402,-1.3456991731636516,-14.075398,-23.702377
+Hybrid H3-2.7B,"Stanford University,University at Buffalo",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.8298234459020779,-1.4270255959345433,-1.9199878,-12.06845
+OPT-IML (175B),Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.3727770687344156,0.6880145933631545,12.0078125,-4.0373707
+CaLM,University of Oxford,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Biology,-0.17756872076573707,-2.693794528042891,14.10356,-36.011177
+Whisper v2,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Speech,0.6660396231168983,1.843379551378436,-6.5291405,3.2086053
+Vega v2,"Wuhan University,JD Explore Academy,Shanghai AI Lab,Nanyang Technological University,Washington University in St Louis,Chongqing University of Posts and Telecommunications,University of Sydney",China,China,Era Transformer (2017-2022),Language,0.7909312271226787,-1.9883127257979767,-15.251922,-23.533148
+ZymCTRL,"Basecamp Research,Friedrich-Alexander-Universität,University of Girona",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Biology,1.5715674442511063,-0.3805787618471832,17.66516,-29.121048
+AR-LDM,"Alibaba,University of Waterloo,Vector Institute",China,China,Era Transformer (2017-2022),Image generation,1.139862823789952,0.9490851949742193,16.491262,14.188716
+Fusion in Encoder,Samsung,Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Language,0.944083760511085,-0.23179980826477128,1.0511876,26.560738
+Galactica,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.268845834294562,0.8855604079856932,13.364904,-3.3116584
+EVA-01,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology,Zhejiang University (ZJU),Beijing Institute of Technology",China,China,Era Transformer (2017-2022),Vision,0.06089969190057852,-0.29992929066641316,-27.081158,12.977727
+InternImage,"Shanghai AI Lab,Tsinghua University,Nanjing University,SenseTime,Chinese University of Hong Kong (CUHK)",China,China,Era Transformer (2017-2022),Vision,-0.04830906186907859,-0.3074956654461303,-27.045837,12.944119
+Mogrifier RLSTM (WT2),DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,0.38137274753147254,-0.8093007180796228,-0.5702957,25.945133
+eDiff-I,NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.0896015868518432,1.4281650416276002,16.28504,14.129584
+Taiyi-Stable Diffusion,IDEA CCNL,China,China,Era Transformer (2017-2022),Image generation,0.9380065849530539,-0.9046816218262846,17.000282,12.782693
+U-PaLM (540B),Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.2745170688760283,0.35208368019848413,7.3283916,29.483019
+Flan-PaLM 540B,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.1125706308085146,1.0844580182528334,11.06302,28.205
+Flan-T5 11B,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.813051659641313,1.079197286951548,13.582982,-1.3602686
+GenSLM,"University of Chicago,NVIDIA,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.008411540750291,-2.2083441942573865,10.4109125,-36.339607
+Decaying Fast Weights Transformer (WT-103),Jenni,Singapore,Asia-Pacífico,Era Transformer (2017-2022),Language,0.8464803308427058,-0.09188984173426243,1.4333749,26.2574
+DiffDock,Massachusetts Institute of Technology (MIT),United States of America,Anglosphere,Era Transformer (2017-2022),Biology,-0.0070516535198497845,-2.0623279185761514,9.906386,-34.92237
+NMST+GPT-2,New York University (NYU),United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.12593047548858458,-2.8174843740672944,-20.044857,-21.219973
+Whisper,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Speech,0.46279299691012504,1.8091038689715646,-6.5642123,3.2164047
+DistilProtBert,Bar-Ilan University,Israel,Medio Oriente,Era Transformer (2017-2022),Biology,0.42592257706251857,-2.515705560033848,10.925089,-35.081936
+PaLI,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.6329865677458981,0.72250660324208,8.381083,27.142302
+BEIT-3,Microsoft,United States of America,Anglosphere,Era Transformer (2017-2022),Multimodal,1.577552527957605,1.4684220518650313,31.933393,6.0644927
+PeTriBERT,"University of Montpellier,BionomeeX",France,Europa,Era Transformer (2017-2022),Biology,-0.1472846094544429,-2.8532453348706777,14.442986,-35.885765
+BlenderBot 3,"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",Canada,Anglosphere,Era Transformer (2017-2022),Language,1.566079046568141,-1.4362178819593003,-0.5172681,-12.135361
+GLM-130B,Tsinghua University,China,China,Era Transformer (2017-2022),Language,1.4604071973994102,-1.1641101274735224,-0.42045632,-11.558743
+AlexaTM 20B,Amazon,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.7563731054619254,0.2989601674326338,5.865191,28.075512
+ProtGPT2,University of Bayreuth,Germany,Europa,Era Transformer (2017-2022),Biology,0.6242536600615264,-1.9306887770545564,9.721357,-35.89866
+OmegaPLM,"Massachusetts Institute of Technology (MIT),Westlake University",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.3027433656526457,-2.1187884504783097,13.116941,-37.417645
+ESM2-15B,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.9403377058142273,0.24553195626654295,17.76944,-27.524454
+ESM2-3B,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.7126245858739817,0.2053940013399662,17.88507,-27.767733
+ESM2-650M,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.4634294210691001,0.16171964437819006,18.075985,-28.079807
+ESM2-150M,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.1867657877559563,0.11348100731189711,18.47214,-28.65685
+ESM2-35M,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.9281966488384463,0.06830576134852381,18.769167,-28.931562
+ESM2-8M,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.6786379095117514,0.024627793265060233,19.02275,-29.027088
+Transformer-XL + RMT,"Moscow Institute of Physics and Technology,AIRI Artificial Intelligence Research Institute",Russia,Rusia,Era Transformer (2017-2022),Language,-0.18546307031629014,-1.904901466899548,-15.292524,-20.780981
+Rita-XLarge,"LightOn,Harvard University,University of Oxford",France,Europa,Era Transformer (2017-2022),Biology,1.4623643586532087,-0.1587668329087044,17.950603,-28.935627
+BLOOM-176B,"Hugging Face,BigScience",United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.2726101512348245,1.0965766786473132,14.8643,-2.7692575
+NLLB,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.9806854679683914,0.9398126062204727,12.981915,-2.3909705
+BLOOM-7.1B,"Hugging Face,BigScience",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.7302700994280646,1.001646622995429,12.649207,-1.2989817
+CodeT5-large,Salesforce,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.4689247968374453,0.571695874454319,8.444974,-1.2964393
+Minerva (540B),Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.1621110875562604,0.8833647890941525,10.263624,28.636482
+ProGen2-xlarge,"Salesforce Research,Columbia University,Johns Hopkins University",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.762005909062072,0.12939494754830735,17.680063,-27.958372
+ProGen2-base,"Salesforce Research,Columbia University,Johns Hopkins University",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.3788282034046802,0.062482614273533826,18.05668,-28.436655
+GPT-SW3,"AI Sweden,RISE",Sweden,Europa,Era Transformer (2017-2022),Language,0.5207474983687801,-2.1589740010334912,-16.340136,-23.189579
+Parti,Google Research,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.729569698220135,1.5998240484471011,16.023079,14.335261
+OPT-6.7B,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.6916682667362695,1.0850751243151435,13.198045,-0.9864568
+OPT-66B,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.073673295636013,1.151964524643678,14.6909485,-2.1099658
+OPT-30B,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.9451470506688504,1.1294391817471248,14.234414,-1.7165259
+Unified-IO (XL),"Allen Institute for AI,University of Washington",United States of America,Anglosphere,Era Transformer (2017-2022),Multimodal,1.4995256022773413,0.3868581957870585,32.50922,5.511125
+CoCa,Google Research,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.6380204089145237,1.8273100611749291,-24.846167,20.081528
+EGRU (WT2),"Ruhr University Bochum,Technische Universität Dresden,University of London",Germany,Europa,Era Transformer (2017-2022),Language,-0.31820593386204044,-2.235692054252484,-18.166653,-20.14941
+BIG-G 137B,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.895776828137827,0.9346187529236497,10.220825,27.80145
+LIMoE-H/14,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Multimodal,1.6911948907426169,1.254548972819158,33.417957,7.1003666
+DITTO,"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)",China,China,Era Transformer (2017-2022),Language,-0.09292423955885784,-1.9745025485781864,-15.898542,-21.33318
+Tranception,"University of Oxford,Harvard Medical School,Cohere",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Biology,0.70006804467484,-2.1336469498842727,10.114601,-35.810856
+GPT-2 Medium (FlashAttention),"Stanford University,University at Buffalo",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.41621938646573586,-1.1549073981835176,-2.3555987,-11.065248
+TRIMELMext (247M),Princeton University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.2972749920047918,-1.778025791365654,-3.9748502,-12.783399
+TRIMELMext (7M),Princeton University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.39599219008456005,-1.8987831467234868,-5.240615,-12.977264
+TRIMELMlong (150M),Princeton University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.14612341629448403,-1.8040541631557683,-4.3186154,-12.787186
+Imagen,Google Brain,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.3370544512274687,1.8613050000451357,15.835329,14.189632
+Gato,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Multimodal,1.3790218702064971,1.4460411100065576,33.217964,7.03991
+UL2,"Google Research,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.054457415237642,0.6655052523312287,10.742366,-3.2069073
+OPT-175B,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.262730446175234,1.1848992297136,15.283207,-2.5165763
+Flamingo,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Multimodal,2.0127315540087034,1.8648366122669469,32.676224,7.8091884
+Sparse all-MLP,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.3778639940215722,-0.09944057717499613,2.5192175,27.158484
+Stable Diffusion (LDM-KL-8-G),"Runway,Ludwig Maximilian University of Munich,Heidelberg University",United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.5789545705127657,2.14846527472346,15.539654,13.436773
+BERT-RBP,Waseda University,Japan,Asia-Pacífico,Era Transformer (2017-2022),Biology,0.3056254330903373,-2.4314283826358474,10.731871,-34.996456
+DALL·E 2,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.4432024235245988,1.8982855143191815,15.778984,14.198295
+PaLM (540B),Google Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.0847918856815055,1.2087363557052144,11.46007,27.962618
+Monarch-GPT-2-Medium,"Stanford University,University at Buffalo,University of Michigan",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.041190807669014645,-1.916241896555535,-15.322417,-21.922943
+Monarch-GPT-2-Small,"Stanford University,University at Buffalo,University of Michigan",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.14564730682055863,-1.9486450400570317,-15.584699,-20.851795
+NoPos,"Tel Aviv University,University of Washington,Intel Labs,Meta AI",Israel,Medio Oriente,Era Transformer (2017-2022),Language,0.05742785545812659,-1.8398268236173452,-14.90342,-22.001032
+Chinchilla,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,1.8175128813992096,0.9595482979390946,10.218505,27.443945
+MemSizer (language modeling),"Meta AI,Chinese University of Hong Kong (CUHK)",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7953886799802797,-0.3609469327433573,0.36464834,26.326677
+"Segatron-XL large, M=384 + HCP","Microsoft Research,University of Waterloo",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.803966421461748,-0.18839210156363947,0.93148184,26.197893
+Transformer Large + HCP,"University of Waterloo,Microsoft Research",Canada,Anglosphere,Era Transformer (2017-2022),Language,-0.09925230303124163,-2.3071819040605126,-18.326677,-21.132252
+"Segatron -XL base, M=150 + HCP","Microsoft Research,University of Waterloo",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.5775712622969187,-0.22714526091222273,0.42692682,25.840132
+ViT-G (model soup),"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.017910312494176718,-0.23791184679693567,-27.066599,12.970378
+GPT3-6.7B + muP,"Microsoft,OpenAI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.4320591799787683,0.4131698828779972,5.6511245,27.03114
+RQ-Transformer (LSUN-cat dataset),"Kakao,POSTECH",Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Image generation,0.6408724777171543,1.2458473892117936,16.441721,14.023721
+RQ-Transformer (1.4B params ImageNet dataset),"Kakao,POSTECH",Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Vision,0.22891290104214382,1.5598781257713619,-24.22221,19.794191
+RQ-Transformer (3.8B params ImageNet dataset),"Kakao,POSTECH",Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Vision,0.4002181915892796,1.589859897001193,-24.297224,19.962196
+Statement Curriculum Learning,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.2379264910443502,0.30545394034094936,4.3577623,26.694155
+PolyCoder,Carnegie Mellon University (CMU),United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7045780731889504,-1.3788011501670543,-2.1319642,-11.808327
+ST-MoE,"Google,Google Brain,Google Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.0079951492095507,0.5742735216635717,8.180854,28.524422
+LaMDA,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.874737245902795,0.8966592845479648,9.88417,27.781593
+ProteinBERT,"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading",Israel,Medio Oriente,Era Transformer (2017-2022),Biology,-0.047922518854167,-2.0254801114418814,9.820729,-34.912777
+GPT-NeoX-20B,EleutherAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.6144912357906487,-0.2130744891577322,3.498622,-8.947412
+RETRO-7B,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,1.384067092572552,0.7657379034645209,7.9266686,26.581589
+AlphaCode,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,1.7200900370411014,0.8746637213556399,9.469238,27.250109
+InstructGPT 175B,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.8005649597421844,1.3232787110045066,11.627817,27.293425
+Primer (GPT-3 XL-like 1.9B),Google Brain,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.3385740036364533,0.3620557503939985,4.9390984,26.844576
+Detic,"Meta AI,University of Texas at Austin",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.21627523194090628,1.6562210439187086,-24.94332,17.879173
+ERNIE 3.0 Titan,"Baidu,Peng Cheng Laboratory",China,China,Era Transformer (2017-2022),Language,2.081386020352928,0.3719385883872752,7.0868716,28.9984
+GLIDE,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.6796566606353243,1.8905351576115652,15.770874,13.454728
+MoE-1.1T,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.3433977190843374,0.6517746848328774,11.751703,-4.2230067
+Fairseq-dense 13B,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.8932146193050066,0.5710676958564488,9.566443,-2.8152573
+XGLM-7.5B,"Meta AI,Facebook AI Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.7920337360525156,0.6433584036036141,9.795352,-2.2982922
+HSO,Toyota Technological Institute at Chicago,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.30687656372977223,-2.491544817149392,-18.770601,-22.204079
+Contriever,"Meta AI,University College London (UCL),PSL University,Université Grenoble Alpes",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.9808074303060329,0.7410787613281987,8.235151,-0.27833572
+GLaM,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.076056953197866,0.8556951953062759,9.949627,28.574097
+Gopher (280B),DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,1.9395738119887984,0.9030706111099057,10.035312,28.046349
+CTR-BERT,Amazon,United States of America,Anglosphere,Era Transformer (2017-2022),Recommendation,0.4122838869803319,0.28920231726445617,2.489552,22.010715
+GPT-2-Medium+Pixelfly,"Stanford University,SambaNova Systems, Inc,Peking University,Adobe,University at Buffalo",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.20245388744891582,-1.9742186337436118,-16.138285,-20.723858
+GPT-2-Small+Pixelfly,"Stanford University,SambaNova Systems, Inc,Peking University,Adobe,University at Buffalo",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.3873856351507062,-2.006585534624928,-16.546991,-19.681055
+NÜWA,"Microsoft Research,Peking University",United States of America,Anglosphere,Era Transformer (2017-2022),Multimodal,1.3720529240193409,1.269552221189341,33.495277,6.86444
+Florence,Microsoft,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.4842502260712036,1.7454697312659015,-24.559395,19.838804
+BASIC-L,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.6689250866830626,1.4843068208667725,-24.382572,20.2359
+Swin Transformer V2 (SwinV2-G),Microsoft Research Asia,China,China,Era Transformer (2017-2022),Vision,0.7312909092806011,1.995784850826773,-25.814306,18.084827
+ESM1v,"Facebook AI Research,New York University (NYU),University of California (UC) Berkeley",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.153932577220695,0.1580098457945139,18.55531,-28.440207
+Masked Autoencoders ViT-H,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.45141777471549505,2.2242853489307746,-25.954752,17.412708
+GPT2+CoreLM+Fine-Tuning,Aristotle University of Thessaloniki,Greece,Otro,Era Transformer (2017-2022),Language,0.031538249361989706,-2.5946063267582815,-19.526558,-21.393951
+CodeT5-base,"Salesforce,Nanyang Technological University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.1779392644814082,0.8682893116560798,9.058393,-0.30623895
+S4,Stanford University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.17923167079264066,-1.1994933236024867,-2.9712858,-11.141074
+PMLM-large,"Microsoft Research Asia,Nanyang Technological University,Xi’an Jiaotong University,Sun Yat-sen University",China,China,Era Transformer (2017-2022),Biology,0.9962633880352554,-0.4963406194406975,17.242537,-31.465403
+base LM+GNN+kNN,"Shannon.AI,Nanjing University,Nanyang Technological University,Zhejiang University (ZJU)",China,China,Era Transformer (2017-2022),Language,1.145175455177885,0.13745919977113238,6.4895043,-0.769214
+PAGnol-XL,"LightOn,Laboratoire de Physique de l'Ecole Normale (LPENS),INRIA",France,Europa,Era Transformer (2017-2022),Language,1.1065471806312657,-0.23192752543462922,1.4520692,26.853739
+GPT-2 (fine-tuned with HYDRA),University of California San Diego,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.43945666405428896,-2.3892203167797077,-18.0249,-22.667841
+MGK 4 heads (medium),"FPT Software AI Center,University of California Los Angeles (UCLA),VinUniversity,Deezer Research,Rice University,University of Texas at Austin",Vietnam,Otro,Era Transformer (2017-2022),Language,0.538874110951777,-0.06280735354288028,0.91239905,25.485548
+MGK 8 heads (small),"FPT Software AI Center,University of California Los Angeles (UCLA),VinUniversity,Deezer Research,Rice University,University of Texas at Austin",Vietnam,Otro,Era Transformer (2017-2022),Language,0.38383962191836474,-0.08982731222279852,0.60711414,25.29153
+T0-XXL,"Hugging Face,Brown University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.5643910503257934,0.9301610311295804,11.598729,-0.92319036
+KnGPT2,"Huawei Noah's Ark Lab,McGill University",China,China,Era Transformer (2017-2022),Language,0.8045490017938858,0.00704045502878633,1.7469972,26.077589
+Yuan 1.0,Inspur,China,China,Era Transformer (2017-2022),Language,2.0172889161212657,0.31794795472704324,6.6789594,28.908278
+TOME,"University of Southern California,Google",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.10421935832917703,-2.030554620493261,-16.149351,-22.143446
+Megatron-Turing NLG 530B,"Microsoft,NVIDIA",United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.052591477331302,0.8025321831571272,9.564785,28.526136
+M6-10T,Alibaba,China,China,Era Transformer (2017-2022),Multimodal,2.4347718002107714,1.079973282244005,33.606976,7.7639756
+PLATO-XL,Baidu,China,China,Era Transformer (2017-2022),Language,1.8484503571161817,0.34117620014693634,8.043283,-3.0257237
+DLRM-2022,Facebook,United States of America,Anglosphere,Era Transformer (2017-2022),Recommendation,1.678210106462831,0.7472154477518378,5.065071,22.727182
+HyperCLOVA 82B,"NAVER,Search Solutions",Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Language,1.8188819313051916,0.40852940904762614,6.6573796,28.149529
+HyperCLOVA 204B,NAVER,Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Language,1.9489696205068372,0.36672773865956876,6.7990727,28.592848
+NLM,"Carnegie Mellon University (CMU),University of California San Diego",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.1422485612831528,-1.9152898173295032,-15.367915,-21.013815
+PermuteFormer,Peking University,China,China,Era Transformer (2017-2022),Language,-0.27220064455305854,-2.252085510624194,-18.235937,-20.42544
+FLAN 137B,Google Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.8907119517563629,1.1085729224564722,10.914764,27.651758
+$\infty$-former (SM),"Universidade de Lisboa (ULisboa),DeepMind",Portugal,Otro,Era Transformer (2017-2022),Language,0.21542989329472303,-2.1062382179557746,-16.581343,-22.439081
+"ALiBi (L=3072, Lvalid = 3072)","University of Washington,Facebook AI Research,Allen Institute for AI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.5436573554779802,-1.3349256491709687,-2.530968,-11.653124
+XLMR-XXL,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.8913798505760717,0.490439252848535,8.907195,-2.8775053
+ProteinLM,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Tencent",China,China,Era Transformer (2017-2022),Biology,0.9243445207369845,-2.4123598839965292,10.83487,-35.926506
+DNABERT,Northeastern University,United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.12619831799514583,-1.9266873122555583,9.657916,-35.299786
+"GPT-2 (1.5B, Curriculum Learning 45K)",Microsoft,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.17309291298966,0.11448980352767144,3.0469205,26.66551
+"GPT-2 (117M, SLW 110K)",Microsoft,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7092420865910811,0.03351360235716347,1.6292781,25.66516
+Jurassic-1-Jumbo,AI21 Labs,Israel,Medio Oriente,Era Transformer (2017-2022),Language,1.9936454894849998,0.2760940705618024,6.368544,28.814558
+YOLOX-X,Megvii Inc,China,China,Era Transformer (2017-2022),Vision,0.30007996709858387,2.0723873844540304,-25.468784,17.540693
+FMMformer (2-kernel fast weight + Band20),"University of California Los Angeles (UCLA),University of Utah",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.7289415079776724,-2.2284904106642034,-18.856066,-18.983732
+SEER,"Facebook AI Research,INRIA",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.9015273277051028,1.6231470083837298,-25.578773,18.501083
+GOAT,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,0.40167326030936623,0.5583383763735764,2.8359606,21.870602
+HuBERT,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Speech,0.39341763409936753,1.7558846801892392,-6.579438,3.2227485
+Codex,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.4023113066708421,1.1222769155217416,10.67889,26.402235
+ERNIE 3.0,Baidu,China,China,Era Transformer (2017-2022),Language,1.8041251599689787,0.7329997281459725,10.518184,-2.1565566
+DEQ-Transformer (Post-LN) + Jacobian Regularisation,"Carnegie Mellon University (CMU),Intel Labs",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.16790106422452414,-1.9056866640229733,-4.5352945,-12.944409
+Adaptive Input Transformer + RD,"Microsoft Research Asia,Soochow University",China,China,Era Transformer (2017-2022),Language,0.6786252872806928,0.47334960367614726,3.4512506,25.717577
+CPM-2,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",China,China,Era Transformer (2017-2022),Language,0.7171893058403842,-1.8024835944263184,-14.775891,-23.4626
+Fold2Seq,"IBM,Texas A&M",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.02300804983801274,-0.5853569437821592,17.39463,-32.215096
+EfficientNetV2-XL,"Google,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.27622077049199567,1.9998733928007104,-25.332989,17.671038
+StyleGAN3-T,"NVIDIA,Aalto University",United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,0.7182169199451198,1.574352791619887,15.863605,13.049309
+StyleGAN3-R,"NVIDIA,Aalto University",United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,0.7035289079852829,1.5715040721120541,15.8553295,13.038156
+ALIGN,Google Research,United States of America,Anglosphere,Era Transformer (2017-2022),Multimodal,1.33596520284797,1.7753482942811005,32.759518,7.388038
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),University of California (UC) Berkeley,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.605245260417896,0.2594884561178089,-26.788506,12.808172
+Delta RNN (+ full context),"IDSIA,SUPSI,King Abdullah University of Science and Technology (KAUST)",Switzerland,Europa,Era Transformer (2017-2022),Language,-0.5095475284675253,-2.057430157568536,-17.29154,-19.2321
+DeBERTa,Microsoft,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.5358860340583624,1.0338121553854582,12.285877,-0.72801477
+CoAtNet,"Google,Google Research,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.5704096251776201,1.824401065200757,-24.794353,20.03273
+EMDR,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),McGill University,DeepMind",Canada,Anglosphere,Era Transformer (2017-2022),Language,0.5511802179502785,-1.6618369426165889,-3.1602907,-12.609318
+ViT-G/14,"Google Brain,Google Research",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.5644666103853317,1.8023795172638466,-24.76848,20.009003
+AFP+FPI (PTB),University of Sheffield,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,-1.2551668601198898,-2.7173835480740878,-20.590254,-18.76857
+AFP+FPI (WT2),University of Sheffield,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,-0.8423466608063177,-2.6457186352545983,-20.352787,-19.185055
+GPT2-Large+LHOPT,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.1628247096060849,0.033672464009164765,2.5271425,26.608435
+ByT5-XXL,"Google,Google Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.9075924121888177,0.7671292370314278,11.064593,-2.3835742
+Transformer local-attention (NesT-B),"Google Cloud,Google Research",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.0821581356073858,2.054198060449608,-25.242214,17.357853
+CogView,"Tsinghua University,Alibaba DAMO Academy",China,China,Era Transformer (2017-2022),Image generation,0.9117566443231384,-0.5057849996725351,16.924423,12.771459
+ConSERT,"Meituan University,Beijing University of Posts and Telecommunications",China,China,Era Transformer (2017-2022),Language,0.3545310191136034,-1.4632565996287301,-3.1802616,-11.963168
+MedBERT,"Peng Cheng Laboratory,University of Texas at Houston",China,China,Era Transformer (2017-2022),Medicine,-0.7836886018214214,-1.3474624132478994,-13.888261,-19.661085
+ADM,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.3224031743249163,1.9930587936682753,15.752256,13.328438
+ProtT5-XXL,"Technical University of Munich,Med AI Technology,NVIDIA,Oak Ridge National Laboratory,Google,Seoul National University",Germany,Europa,Era Transformer (2017-2022),Biology,1.0614427002727929,-1.93442826234952,9.887097,-36.47854
+ProtBERT-UniRef,"Technical University of Munich,NVIDIA,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology",Germany,Europa,Era Transformer (2017-2022),Biology,0.35450195440051413,-2.9167186971320493,14.698544,-36.700096
+Transformer-XL + SIS,INRIA,France,Europa,Era Transformer (2017-2022),Language,0.10194477638495134,-2.2585814664868265,-17.81481,-21.896679
+ViT + DINO,"INRIA,Facebook AI Research",France,Europa,Era Transformer (2017-2022),Vision,-0.6130373339889048,0.029284338949421874,-26.795639,12.76694
+PanGu-α,Huawei Noah's Ark Lab,China,China,Era Transformer (2017-2022),Language,1.8273319733214781,0.5253615609426058,7.4465437,28.130085
+DiffQ Transformer (16L),Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7024218668060379,0.061326919993900136,1.8494697,25.644373
+Transformer-C,University of Massachusetts Amherst,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.2824379854914032,-2.3239522462055846,-18.7112,-20.410055
+T2R + Random Init,"University of Washington,Microsoft,DeepMind,Allen Institute for AI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.06426438115821562,-1.9701795938961582,-15.937262,-21.483343
+T2R 75% + Pretrain (WT-103),"University of Washington,Microsoft,DeepMind",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.06614395917651725,-1.9700689658895023,-15.912485,-21.502659
+T2R + Pretrain,"University of Washington,Microsoft,DeepMind",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.06517586769877723,-1.969905706126469,-15.908048,-21.502758
+GPT-Neo-2.7B,EleutherAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.1956780805825957,-0.2727778430605561,2.9594414,-8.326047
+GLM-10B,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI,Massachusetts Institute of Technology (MIT),Shanghai Qi Zhi institute",China,China,Era Transformer (2017-2022),Language,0.8502311474434301,-1.1688706512025042,-1.4539258,-11.330818
+ResNet-RS,"Google Brain,University of California (UC) Berkeley",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.6909852630771407,1.6088435583026321,-25.313892,18.305796
+M6-T,Alibaba,China,China,Era Transformer (2017-2022),Multimodal,2.1692771370837036,1.12404523958321,33.62589,7.5289574
+Generative BST,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.742894893529397,0.8517787587463111,11.366549,-1.5661936
+RFA-GATE-Gaussian-Stateful Big,"University of Washington,DeepMind,Allen Institute for AI,Hebrew University of Jerusalem,The University of Hong Kong",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.27976606941713433,-1.7014380468200516,-14.400861,-20.812103
+Meta Pseudo Labels,"Google Brain,Google AI",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.43209122853184134,1.6672387739728503,-24.423344,19.80058
+SRU++ Large,ASAPP,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.0642942556177486,0.15817956035584976,6.4847865,-0.69764715
+SRU++ Base,ASAPP,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.641093853978649,0.03686569017645755,1.4712284,25.349092
+SRU++ Large only 2 attention layers (k=5) (WT103),ASAPP,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7056683933197602,0.04820748123535154,1.7720072,25.680153
+Linear Transformer (large),IDSIA,Switzerland,Europa,Era Transformer (2017-2022),Language,-0.4145199735987199,-1.7660635596981578,-14.859672,-20.024189
+Linear Transformer (small),"IDSIA,SUPSI",Switzerland,Europa,Era Transformer (2017-2022),Language,-0.5515845002614043,-1.7900530487728594,-15.178922,-19.514273
+MSA Transformer,"Facebook AI Research,University of California (UC) Berkeley,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.1889492642158235,0.14225630185495283,18.510677,-28.525675
+Selfish-RNN (SNT-ASGD) Stacked LSTMs,"Eindhoven University of Technology,University of Twente",Netherlands,Europa,Era Transformer (2017-2022),Language,-0.4425647961010806,-2.107933031585022,-5.412878,-13.109093
+DeiT-B,"Meta AI,Sorbonne University",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.1365078120350525,2.13167387647737,-25.451328,17.237131
+Switch,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,2.355063229187978,1.1587158473866754,15.460584,-2.8971748
+DALL-E,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.4115065595387553,1.857590757698891,15.832561,14.222094
+CLIP (ViT L/14@336px),OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Multimodal,1.4936196866279674,2.261643831795544,31.355263,6.4909606
+Transformer-XL + AutoDropout (PTB),Google Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.06230394245039325,-0.04269615010506281,0.39161733,24.856834
+Subformer (122M),"National Institute of Advanced Industrial Science and Technology (AIST),University of Tokyo",Japan,Asia-Pacífico,Era Transformer (2017-2022),Language,-0.29376628818196415,-2.077205593810974,-16.9917,-20.37712
+Subformer (83M),"University of Tokyo,National Institute of Advanced Industrial Science and Technology (AIST)",Japan,Asia-Pacífico,Era Transformer (2017-2022),Language,-0.35890137739025524,-2.0886055534344883,-17.260515,-19.826956
+Subformer (96M),"University of Tokyo,National Institute of Advanced Industrial Science and Technology (AIST)",Japan,Asia-Pacífico,Era Transformer (2017-2022),Language,-0.334269930024599,-2.08429471535061,-17.15787,-20.062597
+AraGPT2-Mega,American University of Beirut,Lebanon,Otro,Era Transformer (2017-2022),Language,0.6450476717003716,-1.684330170754579,-2.923064,-12.769385
+Shortformer,"University of Washington,Facebook AI Research,Allen Institute for AI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.3260891772373237,-1.9580880725274081,-16.056252,-20.043951
+ERNIE-Doc (247M),Baidu,China,China,Era Transformer (2017-2022),Language,1.0326831720656198,0.2055820201562457,6.535327,-0.6744609
+"ERNIE-Doc Base (151M, WT103)",Baidu,China,China,Era Transformer (2017-2022),Language,0.8021584214605976,0.16617525720063928,6.357177,-0.5795292
+CT-MoS (WT2),"Google,National Tsing Hua University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.23858198838373382,-0.09880922611644896,0.3305971,25.183632
+CT-MoS + DynamicEval (WT2),"National Tsing Hua University,Google",Taiwan,Otro,Era Transformer (2017-2022),Language,-0.5727532357241102,-2.2021037176386207,-18.4882,-19.332983
+ESM1b,"Facebook AI Research,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.272467582394223,0.4569809708169502,18.481283,-27.521862
+CPM-Large,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",China,China,Era Transformer (2017-2022),Language,0.5775079586504903,-1.6981227835248869,-3.1589317,-12.762188
+AlphaFold 2,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Biology,0.928288048104462,0.8785654055812504,19.167027,-27.301493
+KEPLER,"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Université de Montréal",China,China,Era Transformer (2017-2022),Language,-0.09196109407153094,-1.5182634515083546,-13.888902,-21.69449
+AWD-FWM (WT2),"IDSIA,Microsoft Research",Switzerland,Europa,Era Transformer (2017-2022),Language,-0.6000147762689862,-2.09715482907743,-17.87683,-19.088661
+ViT-Huge/14,"Google Brain,Google Research",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.4658864793491361,2.581334167915112,-26.35821,17.183168
+wave2vec 2.0 LARGE,Facebook,United States of America,Anglosphere,Era Transformer (2017-2022),Speech,0.1689373579089676,1.8618672431648995,-6.6083713,3.2173064
+GBERT-Large,"deepset,Bayerische Staatsbibliothek Muenchen",Germany,Europa,Era Transformer (2017-2022),Language,1.2669286248700633,0.5564225440971853,7.923682,-0.8402834
+German ELECTRA Large,"deepset,Bayerische Staatsbibliothek Muenchen",Germany,Europa,Era Transformer (2017-2022),Language,1.2387810104089658,0.5516757066623631,7.857041,-0.7944382
+Conformer + Wav2vec 2.0 + Noisy Student,"Google,Google Research,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Speech,0.07503117127887968,1.1972191201762383,-6.747727,3.4370093
+mT5-XXL,"Google,Google Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.7903090141403981,1.0771387111626098,13.356366,-1.2486674
+Memformer (4 encoder + 16 decoder),"UC Davis,Westlake University,Facebook AI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.35073806933988233,-2.035919463369943,-16.796307,-19.9062
+LUKE,"University of Washington,National Institute of Informatics",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.5907740683972528,-1.3642011350634773,-2.5411325,-11.829437
+ProBERTa,"University of Illinois Urbana-Champaign (UIUC),Reed College",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,-0.08105485988946301,-2.3769610123420333,10.600517,-34.604847
+ESM1-670M (UR50/S),"Facebook AI Research,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.1225944809929587,0.431733672610423,18.750933,-27.757174
+ESM1-670M (UR50/D),"Facebook AI Research,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.1280131610803041,0.43264748338900555,18.726723,-27.737724
+ESM1-670M (UR100),"Facebook AI Research,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,1.0512807536462183,0.4197072655039142,18.962206,-27.920044
+ESM1-85M,"Facebook AI Research,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.7739426865374592,0.3707120286140378,19.223465,-28.266695
+ESM1-43M,"Facebook AI Research,New York University (NYU)",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.656864944503876,0.35022145612831596,19.299679,-28.3963
+Transformer+Recurrent Windows of Context,"Toyota Technological Institute at Chicago,University of Chicago",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.049382323057009986,-2.375695986930457,-18.642296,-21.59712
+ERNIE-GEN (large),Baidu,China,China,Era Transformer (2017-2022),Language,1.1535072012498508,0.37069462627658495,7.0759063,-0.75352997
+DeLighT,"University of Washington,Allen Institute for AI,Facebook AI Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.4110917965442729,-1.9674629488585786,-16.294195,-19.59007
+mBART-50,Facebook AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.4268346462755916,0.6794065029610448,8.780299,-0.98774517
+DLRM-2021,Meta AI,United States of America,Anglosphere,Era Transformer (2017-2022),Recommendation,1.4258426006402292,0.7299035317790672,4.9333005,22.664822
+GShard (dense),Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.2094598403269339,0.8115899260226782,7.6005836,26.366405
+GShard (600B),Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.7242981360463236,0.9044150200099145,9.754066,27.285688
+GPT-3 6.7B,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.0933833344157178,1.4665351160090365,11.77321,25.69302
+GPT-3 XL,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.8197581917400918,1.418644756116961,11.740938,25.155617
+GPT-3 Small,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.4210995663917724,1.3488718762282363,11.700512,24.647312
+GPT-3 Medium,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.5980898475245627,1.3798487313590635,11.71919,24.831089
+GPT-3 Large,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7263959962832934,1.4023045186298615,11.731979,25.002464
+GPT-3 2.7B,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.9374958996460598,1.439251971279928,11.748676,25.37544
+GPT-3 13B,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.2043692472997962,1.485960871516567,11.806868,25.943907
+iGPT-XL,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.9900537335311775,2.002861880982904,-26.105518,18.30059
+iGPT-L,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,1.459850086748039,1.6977333866140245,16.039959,13.387169
+6-Layer-Tensor-Transformer+AdaHessian,"NERSC, Lawrence Berkeley National Laboratory,University of California (UC) Berkeley",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.10421394870226554,-0.7073229693865954,-14.747238,-18.619812
+GPT-3 175B (davinci),OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.6455723486350287,1.56318042607071,12.016153,26.834686
+GPT3-6.7B (rerun of original),"Microsoft,OpenAI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.3198240511822719,0.4471078744191252,5.493694,26.70744
+DETR,Facebook,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,0.11678722589627868,2.2869358361445915,-25.697214,17.072796
+rTop-k(distributed setting),Stanford University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.7822073078331842,-2.1001999970137675,-18.314957,-18.701874
+ONLSTM-SYD,"Westlake University,Institute for Advanced Study,McGill University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),CIFAR AI Research,University of Montreal / Université de Montréal",China,China,Era Transformer (2017-2022),Language,-0.6899222240736382,-2.3681564485938003,-19.43262,-19.222761
+NAS+ESS (156M),"Northeastern University (China),Chinese Academy of Sciences,NiuTrans Research,Kingsoft",China,China,Era Transformer (2017-2022),Language,-0.2958358644498838,-2.339846489646038,-18.864092,-20.34695
+UnifiedQA,"Allen Institute for AI,University of Washington",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.9115754229781605,-0.31283315956192637,2.5379732,-8.041522
+"Segatron XL large, M=384","University of Waterloo,Peking University,RSVP.ai",Canada,Anglosphere,Era Transformer (2017-2022),Language,0.2793536578147917,-2.1785360420889504,-4.8882,-13.220148
+Once for All,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.7856136012036281,-0.30499361376980294,-26.682255,12.610043
+DiffStk-MRNN,"Pennsylvania State University,Rochester Institute of Technology",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.4164125571331438,-2.5066055500583913,-20.551826,-18.660315
+MetNet,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Earth science,0.2887993681424904,0.6459224675245503,2.9092886,21.902193
+ELECTRA,"Stanford University,Google,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.38314885586896075,-1.1255720305707606,-2.411183,-11.008747
+Tensor-Transformer(1core)+PN (WT103),University of California (UC) Berkeley,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.07483647566638271,-1.9550423333952933,-4.9521585,-13.020168
+ProGen,"Salesforce Research,Stanford University",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,0.874866019810761,-0.06892698718287907,17.57463,-31.021517
+TransformerXL + spectrum control,"University of California Los Angeles (UCLA),JD.com",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.2420975726499838,-1.9547907070025319,-15.97504,-20.402773
+LSTM-3-layer+Gadam,"University of Oxford,University of Bristol,University of Cambridge",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,-0.7565876265738174,-2.568978832536372,-20.15669,-19.2997
+Feedback Transformer,"LORIA,University of Lorraine,Facebook AI Research",France,Europa,Era Transformer (2017-2022),Language,-0.3060795796239829,-2.1151874654857186,-17.446165,-20.238289
+Turing-NLG,Microsoft,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.462211523676504,0.34942373844312036,5.3095393,27.309723
+ALBERT-xxlarge,"Toyota Technological Institute at Chicago,Google",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.2932730588128998,-0.9733943893793225,-2.295943,-10.6595955
+TaLK Convolution,Carleton University,Canada,Anglosphere,Era Transformer (2017-2022),Language,-0.1465388611182276,-2.1462709784643974,-17.373991,-20.962242
+Meena,Google Brain,United States of America,Anglosphere,Era Transformer (2017-2022),Language,1.2951105881500944,0.7356107459021531,7.2934513,26.482758
+AlphaFold,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Biology,0.244854914530844,0.23996932117628073,17.90821,-30.756287
+OpenAI Five,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Games,-0.10489574315975556,1.3918258168809263,-7.238894,15.712591
+OpenAI Five Rerun,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Games,-0.207011632704121,1.374604907171178,-7.176468,15.806317
+MMLSTM (WT-103),"Beijing University of Posts and Telecommunications,University of West London",China,China,Era Transformer (2017-2022),Language,-1.2384305076331583,-1.9574275581158003,-15.948292,-7.1775007
+MMLSTM (WT-2),"Beijing University of Posts and Telecommunications,University of West London",China,China,Era Transformer (2017-2022),Language,-1.482943547266805,-1.999571226371018,-16.439487,-7.270626
+MMLSTM (PTB),"Beijing University of Posts and Telecommunications,University of West London",China,China,Era Transformer (2017-2022),Language,-1.6022243951371715,-2.020136008296656,-17.11419,-6.80592
+bRSM + cache,"Numenta,Incubator 491",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.3014322675969014,-0.23788594403623273,-2.3465154,17.152437
+Transformer-XL DeFINE (141M),"University of Washington,Allen Institute for AI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.2026339550108147,-1.885689767347732,-15.761541,-6.8912992
+MuZero,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,-0.717254695167885,1.3117172648645634,-6.949745,16.410177
+Noisy Student (L2),"Carnegie Mellon University (CMU),Google",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-1.3563849437179925,0.13004795513932946,-24.27602,10.652698
+Sandwich Transformer,"Allen Institute for AI,Facebook AI Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.6214022082032208,-0.5784920213049874,-2.625179,14.533038
+CamemBERT,"Facebook,INRIA,Sorbonne University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.3225760724158452,1.0881936980100895,-0.01303768,10.234178
+Self-Attention and Convolutional Layers,Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Switzerland,Europa,Era Transformer (2017-2022),Vision,-2.251801280988894,-0.3067517492559998,-24.41254,10.618986
+XLM-RoBERTa,Facebook AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.49455615228883504,1.4992958739885789,0.8552131,9.693148
+Base LM + kNN LM + Continuous Cache,"Stanford University,Facebook AI Research",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.1104032483079156,-1.1858757765337153,-14.633433,-5.353616
+AlphaStar,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,-0.11879977082415535,1.5257502143400066,-7.3589134,15.66263
+T5-3B,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.5693227253838435,1.7338798107196194,1.2552048,9.111653
+T5-11B,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.7963858045097456,1.7736479824668592,1.4601984,8.9700165
+LSTM(large)+Sememe+cell,"Tsinghua University,Beijing University of Posts and Telecommunications,Huawei Noah's Ark Lab",China,China,Era Transformer (2017-2022),Language,-1.5732530039309252,-2.01437374982995,-16.976492,-6.869292
+Rubik's cube ADR robot,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Robotics,-0.5466163722613052,1.2389072358512991,-6.9062915,16.294376
+AlphaX-1,"Facebook AI Research,Brown University",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-1.5297668425053754,1.4288638730358294,-22.239737,16.096706
+DistilBERT,Hugging Face,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.20030103451479522,1.4094176666252765,-0.0037664308,9.77019
+Megatron-BERT,NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.3681859134531451,1.2074410154401614,-5.231224,13.54975
+Megatron-LM (8.3B),NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.3938846103350593,1.2125896418827247,-5.2261753,13.515475
+Hide and Seek,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Games,-1.2370382527802792,0.9972999230811024,-6.307748,17.159266
+Megatron-LM (2.5B),NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.1816386184659722,1.1755018061056948,-5.2179027,13.730854
+Megatron-LM (355M),NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.2384581744397307,1.2324290123340556,0.15286632,10.031168
+Megatron-LM (1.2B),NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.20079989922853056,1.1779413925945397,-5.2297935,13.729113
+ResNet-152 + ObjectNet,Massachusetts Institute of Technology (MIT),United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-2.072569086965589,-0.009491432880803756,-24.290606,10.629129
+"DEQ-Transformer (Medium, Adaptive Embedding)","Carnegie Mellon University (CMU),Intel Labs",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.025864449511763,-1.1682798137892723,-10.32692,-7.7049537
+R-Transformer,"Michigan State University,TAL Education Group (Xueersi)",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.8247650487986888,-1.7216593003534237,-16.649166,-6.0811334
+All-attention network + adaptive span,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.3484295586154295,0.5491118402915574,-3.7795663,15.3366165
+RoBERTa Large,"Facebook,University of Washington",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.3386481236477783,1.723514224082023,0.8030048,9.010702
+RoBERTa Base,"Facebook,University of Washington",United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.12056104992564806,1.6856098057315645,0.4760094,9.194391
+Tensorized Transformer (257M),"Tianjin University,Microsoft Research Asia,Beijing Institute of Technology",China,China,Era Transformer (2017-2022),Language,-1.1538381740281327,-1.5119460852174003,-15.081878,-5.978857
+Tensorized Transformer (OBW),"Tianjin University,Microsoft Research Asia,Beijing Institute of Technology",China,China,Era Transformer (2017-2022),Language,-1.104019471490579,-1.5040558514319602,-15.011013,-5.972589
+Tensorized Transformer (PTB),"Tianjin University,Microsoft Research Asia,Beijing Institute of Technology",China,China,Era Transformer (2017-2022),Language,-1.9653143472173542,-1.6520996624528939,-16.714834,-5.819202
+Tensorized Transformer (W103),"Tianjin University,Microsoft Research Asia,Beijing Institute of Technology",China,China,Era Transformer (2017-2022),Language,-1.3403211953680099,-1.5445845225517563,-15.507362,-5.9568133
+TAPE Transformer,"University of California (UC) Berkeley,Covariant,Google,Chan Zuckerberg Initiative",United States of America,Anglosphere,Era Transformer (2017-2022),Biology,-0.9513607831166473,-1.634119960335059,8.807058,-34.060265
+AWD-LSTM + MoS + Partial Shuffled,University of Texas at Austin,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.1321951763869509,-1.5398713938125892,-11.012469,-7.7459774
+Transformer-XL Large + Phrase Induction,"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.7776752938716386,-1.933988601867188,-15.257031,-7.0660067
+XLNet,"Carnegie Mellon University (CMU),Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.45100970630201737,-0.5920376890319337,-9.447051,-7.748153
+DLRM-2020,Facebook AI,United States of America,Anglosphere,Era Transformer (2017-2022),Recommendation,0.014273900327480406,1.2476026532920248,-7.000797,15.414565
+Grover-Mega,University of Washington,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.22531195055198602,-0.9510914336179227,-9.510634,-7.7704124
+MnasNet-A3,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.8288692245218487,2.274102291538399,-23.790165,16.352684
+MnasNet-A1 + SSDLite,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.8352164121555099,2.2729677919395535,-23.786694,16.35128
+AWD-LSTM-DRILL + dynamic evaluation† (WT2),IDIAP,Switzerland,Europa,Era Transformer (2017-2022),Language,-1.0064372535732533,-2.0467710551989113,-11.476865,-7.7980924
+BERT-Large-CAS (PTB+WT2+WT103),Amazon,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.06581976209903687,0.5717735938623818,-3.8709867,14.905615
+MEGNet (molecule model),University of California San Diego,United States of America,Anglosphere,Era Transformer (2017-2022),Materials science,-2.6871623445390456,-1.106264452948161,-17.678608,-3.5382388
+MEGNet (crystal formation energy model),University of California San Diego,United States of America,Anglosphere,Era Transformer (2017-2022),Materials science,-2.5699552595816777,-1.0853147979921922,-17.649757,-3.5500402
+MEGNet (crystal band gap model),University of California San Diego,United States of America,Anglosphere,Era Transformer (2017-2022),Materials science,-2.5699552595816777,-1.0853147979921922,-17.649752,-3.5500462
+MEGNet (crystal elasticity model),University of California San Diego,United States of America,Anglosphere,Era Transformer (2017-2022),Materials science,-2.5699552595816777,-1.0853147979921922,-17.649757,-3.5500402
+WeNet (Penn Treebank),Amazon,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.5756162905939105,-0.1131110660614845,-2.5973127,16.807678
+FAIRSEQ Adaptive Inputs,"Facebook AI Research,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.34745742159138043,1.147842556128423,-5.175947,14.391913
+UniRep,Harvard University,United States of America,Anglosphere,Era Transformer (2017-2022),Biology,-1.0527387168514075,-1.6359403099633274,8.797898,-34.04822
+SciBERT,Allen Institute for AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.3684285403635416,0.20818672455496576,-0.8479774,8.993365
+KataGo,Jane Street,United States of America,Anglosphere,Era Transformer (2017-2022),Games,-0.5358024393586326,0.7926416958460523,-1.5136429,12.506144
+GPT-2 (1.5B),OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.40167283902234435,1.727288562872636,1.0390109,9.138729
+GPT-2 (124M),OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.08037427972403235,1.6704151813111985,0.41919035,9.248043
+GPT-2 (774M),OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.3900243234511322,1.7246103770981192,1.0775447,9.315674
+GPT-2 (355M),OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.258227638655219,1.7015432169880191,0.85304695,9.427185
+Compress-LSTM (66M),"Samsung R&D Institute Russia,National Research University Higher School of Economics",Russia,Rusia,Era Transformer (2017-2022),Language,-0.7369209339494025,0.24139908243043323,-3.0745094,16.30097
+Hanabi 4 player,"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,-1.1866085776314412,0.7836829956424989,-6.118159,17.306677
+Transformer-XL (257M),"Carnegie Mellon University (CMU),Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.6222251587355976,-0.7745348391850082,-9.6212015,-7.7318964
+Decoupled weight decay regularization,University of Freiburg,Germany,Europa,Era Transformer (2017-2022),Vision,-1.9228847644768488,0.07174493624260561,-25.34001,11.36919
+StyleGAN,NVIDIA,United States of America,Anglosphere,Era Transformer (2017-2022),Image generation,-0.7056133654481612,2.2283865539465246,15.468545,12.616469
+Multi-cell LSTM,University of Hyderabad,India,Asia-Pacífico,Era Transformer (2017-2022),Language,-1.938686009856076,-2.254482584100644,-17.824305,-7.54794
+Fine-tuned-AWD-LSTM-DOC (fin),Samsung R&D Institute Russia,Russia,Rusia,Era Transformer (2017-2022),Language,-0.69175370498449,-0.23946015607695167,-2.4514983,17.002323
+Mesh-TensorFlow Transformer 4.9B (language),Google Brain,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.10380993470554259,0.8555834313244844,-4.602825,14.188668
+Mesh-TensorFlow Transformer 2.9B (translation),Google Brain,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.00578554820728486,0.8365353124725342,-4.5114536,14.367877
+TrellisNet,"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.272441614947416,-1.5388463859701431,-15.356328,-6.015715
+BERT-Large,Google,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.012466794487517066,1.957033538886404,0.70993245,8.723181
+BigGAN-deep 512x512,"Heriot-Watt University,DeepMind",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Image generation,-0.6554925937255071,0.09733516220793118,16.520681,12.280816
+Transformer (Adaptive Input Embeddings) WT103,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,0.09137409304463437,0.9001714630596868,-0.34509718,10.664908
+LSTM+NeuralCache,"KU Leuven,ESAT - PSI,Apple",Belgium,Europa,Era Transformer (2017-2022),Language,-2.091659941896288,-2.3897498214908452,-18.03564,-7.8595586
+Transformer + Simple Recurrent Unit,"ASAPP,Cornell University,Google,Princeton University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.4757723423607629,0.6843442742590031,-4.0981092,15.288211
+(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),"NTT Communication Science Laboratories,Tohoku University",Japan,Asia-Pacífico,Era Transformer (2017-2022),Language,-0.10203685162375145,0.40157466447874796,-0.9711126,11.935347
+AWD-LSTM-DOC (fin) (23M),"NTT Communication Science Laboratories,Tohoku University",Japan,Asia-Pacífico,Era Transformer (2017-2022),Language,-0.49503532805838407,0.3330499722215647,-1.0350343,12.065129
+Dexterous In-Hand Manipulation [control policy],OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Robotics,-0.9344560792486974,1.275854588264105,-6.8343983,16.75913
+Big-Little Net,IBM,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.9935222037565006,1.6019558874054312,-23.373135,16.468134
+Big-Little Net (vision),IBM,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.6481933095501641,1.6601924432815944,-23.507545,16.522114
+Big-Little Net (speech),IBM,United States of America,Anglosphere,Era Transformer (2017-2022),Speech,-1.595162811265384,1.21584913368108,-7.1730475,3.3777556
+FTW (For The Win),DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,-0.6148393778785192,1.1455415505263475,-6.6291275,16.358152
+QT-Opt,"Google Brain,University of California (UC) Berkeley",United States of America,Anglosphere,Era Transformer (2017-2022),Robotics,-1.1995838590947165,1.1849225779655348,-6.5471106,17.036215
+DARTS,"DeepMind,Carnegie Mellon University (CMU)",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,-0.9168535291792889,1.1444079840997026,-5.050271,15.171761
+GPT-1,OpenAI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.19034252416838018,1.5253092390560519,0.090604246,9.553549
+aLSTM(depth-2)+RecurrentPolicy (WT2),"University of Manchester,Alan Turing Institute",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,-1.5811134973225458,-2.0729487094942973,-16.954214,-7.2807946
+Dropout-LSTM+Noise(Bernoulli) (WT2),"Columbia University,New York University (NYU),Princeton University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.5269652495514567,-1.9220773031231626,-16.491814,-6.8302927
+LSTM+Noise(Beta),"Columbia University,New York University (NYU),Princeton University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.5269652495514567,-1.9220773031231626,-16.491814,-6.8302927
+ResNeXt-101 32x48d,Facebook,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.1972818749411356,2.2523214393990756,-24.167099,16.581078
+RNNLM + Dynamic KL Regularization (WT2),Northwestern University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.5402099329391332,-2.115663697455012,-16.816664,-7.572293
+RNMT+,Google AI,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.31271303553953017,0.817276200562398,-4.391887,14.833182
+YOLOv3,University of Washington,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-2.201452172350817,0.4405707109190058,-24.01195,10.568139
+"LSTM (Hebbian, Cache, MbPA)","DeepMind,University College London (UCL)",United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Language,-0.14240373343504806,0.39159651959447767,-3.462966,15.446444
+4 layer QRNN (h=2500),Salesforce Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.5830464869000677,0.5755945857356973,-3.8404162,15.615375
+ENAS,"Google Brain,Carnegie Mellon University (CMU),Stanford University",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.1041479555801352,1.019329324928827,-4.837471,15.520844
+AmoebaNet-A (F=448),Google Brain,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-0.8728044833685554,2.2447083893132787,-22.074295,15.659982
+IMPALA,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,-1.0167713107759813,1.2295862637893697,-6.7038274,16.873896
+ELMo,"University of Washington,Allen Institute for AI",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.9403350848914092,-0.8137826435890321,-15.053027,-4.5672026
+QRNN,Salesforce Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.4443188896918265,-0.06262705643563785,-2.6731467,16.682985
+ULM-FiT,"University of San Francisco,Insight Centre NUI Galway,Fast.ai",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.038506564825363,-0.9617990345606505,-10.05392,-7.6924725
+RNNLM + Dynamic KL Regularization,Northwestern University,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.9742297961109858,-2.19089269682619,-17.856247,-7.1694007
+2-layer-LSTM+Deep-Gradient-Compression,"Tsinghua University,Stanford University,NVIDIA",China,China,Era Transformer (2017-2022),Language,-2.2593134522887515,-1.2413060101484805,-16.22151,-4.9331007
+PNASNet-5,"Johns Hopkins University,Google AI,Stanford University",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-2.0113740095278008,0.02870347110030139,-24.261168,10.623497
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",Carnegie Mellon University (CMU),United States of America,Anglosphere,Era Transformer (2017-2022),Language,-1.5284111165563004,-1.375874097477324,-15.521073,-5.470694
+Fraternal dropout + AWD-LSTM 3-layer (WT2),"Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",Poland,Otro,Era Transformer (2017-2022),Language,-1.5997144970977617,-1.7673787582674354,-16.310766,-6.360979
+AlphaGo Zero,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era Transformer (2017-2022),Games,-0.699452590433231,1.652510688623756,-7.4257674,16.163195
+AWD-LSTM+WT+Cache+IOG (WT2),NTT Communication Science Laboratories,Japan,Asia-Pacífico,Era Transformer (2017-2022),Language,-0.9450738558950137,-0.06605892515490899,-2.5245976,16.939775
+ISS,"Duke University,Microsoft",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-2.0393265820353954,-1.656230291222504,-16.96912,-5.873682
+PyramidNet,Korea Advanced Institute of Science and Technology (KAIST),Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Vision,-2.347642034384672,-0.1821611317872189,-25.356155,11.330838
+GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),Ben-Gurion University of the Negev,Israel,Medio Oriente,Era Transformer (2017-2022),Language,-1.4633194523853834,-2.2111091385949546,-16.955019,-7.7987247
+EI-REHN-1000D,Korea Advanced Institute of Science and Technology (KAIST),Korea (Republic of),Asia-Pacífico,Era Transformer (2017-2022),Language,-1.7854963114655746,-2.201169036646724,-17.443014,-7.6754284
+RetinaNet-R101,Facebook AI Research,United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-1.5528931361105733,2.470144499818157,-21.937237,15.444062
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),Salesforce Research,United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.9190689410626335,0.9023328945481963,-4.602509,15.521172
+Densely Connected LSTM + Var. Dropout,Ghent University,Belgium,Europa,Era Transformer (2017-2022),Language,-1.758853587681372,-2.170666219893676,-17.561165,-7.2304034
+JFT,"Google Research,Carnegie Mellon University (CMU)",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-1.1208299323824946,2.1869170114039855,-22.095526,15.679931
+Transformer,"Google Research,Google Brain",United States of America,Anglosphere,Era Transformer (2017-2022),Language,-0.7219004462412517,1.885926175804679,-6.1914177,13.190253
+AlexNet + coordinating filters,"University of Pittsburgh,Duke University",United States of America,Anglosphere,Era Transformer (2017-2022),Vision,-1.8684178216266458,-0.37997971768914107,-25.402332,11.375905
+MoE-Multi,"Jagiellonian University,Google Brain",Poland,Otro,Era Transformer (2017-2022),Language,-0.8226834133754,-0.8254041400744264,-14.153894,-5.112184
+DeepStack,"University of Alberta,Charles University,Czech Technical University",Canada,Anglosphere,Era Transformer (2017-2022),Games,-1.9629877128518491,-0.9832586891843065,-17.43184,-3.6392624
+"GCRN-M1, dropout",Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Switzerland,Europa,Era GPU (2012-2016),Language,-3.2097637856523678,-0.7392910486668587,-16.097448,1.9973907
+PolyNet,Chinese University of Hong Kong (CUHK),Hong Kong,China,Era GPU (2012-2016),Vision,-3.1550865010940763,0.21340176197454808,-22.383553,9.587904
+ResNeXt-101 (64×4d),"University of California San Diego,Facebook",United States of America,Anglosphere,Era GPU (2012-2016),Vision,-3.035276500005046,0.9940033443202793,-22.12461,10.414571
+NASv3 (CIFAR-10),Google Brain,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.3433748597731956,2.8955028698990346,-20.02125,13.093947
+NAS with base 8 and shared embeddings,Google Brain,United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.370752105937543,1.726595886598936,-11.0444,11.203038
+BIDAF,"University of Washington,Allen Institute for AI",United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.719742215511168,-0.43188850357293207,-15.037139,1.4628739
+VD-LSTM+REAL Large,"Salesforce Research,Stanford University",United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.2231081644200406,1.2376148251485892,-10.429484,11.009586
+Xception,Google,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.5408853920932617,3.068278645214892,-20.006128,12.887639
+GNMT,Google,United States of America,Anglosphere,Era GPU (2012-2016),Language,-1.3731025593610797,1.9388561223779293,-10.71364,11.997287
+Pointer Sentinel-LSTM (medium),"MetaMind Inc,Salesforce",United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.4720951278421324,1.6121171869949,-11.025038,10.969683
+Zoneout + Variational LSTM (WT2),"MetaMind Inc,Salesforce",United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.4243305336255156,1.6201722484353602,-10.996029,11.024574
+Zoneout + Variational LSTM (PTB),MetaMind Inc,United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.4806366701732774,1.6106241004573132,-11.031643,10.95919
+Pointer Sentinel-LSTM (WT2),MetaMind Inc,United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.568221475111575,1.5959063587443585,-11.0766,10.868976
+Attend-Infer-Repeat,Google DeepMind,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.8142525112534647,2.37151325838507,-19.759481,13.322013
+VD-RHN,"ETH Zurich,IDSIA",Switzerland,Europa,Era GPU (2012-2016),Language,-3.204375590522218,-0.8530839182995289,-16.24985,1.899236
+"Variational (untied weights, MC) LSTM (Large)",University of Cambridge,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Language,-3.2042491755270426,-0.5718457040593635,-15.859862,2.1711175
+ResNet-152 (ImageNet),Microsoft,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.829988200556455,3.5428911554982223,-20.070583,12.495824
+ResNet-101 (ImageNet),Microsoft,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.500104569343229,3.6476478223619497,-20.705114,12.616749
+DeepSpeech2 (English),Baidu Research - Silicon Valley AI Lab,United States of America,Anglosphere,Era GPU (2012-2016),Speech,-2.9470515274091085,2.421434641278038,-8.24163,3.5161986
+Inception v3,"Google,University College London (UCL)",United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.7072508622130367,3.179577652412301,-19.972403,12.731537
+AlphaGo Fan,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Games,-2.2276650254914667,2.2986474949709965,-11.9908285,11.467814
+LSTM-Char-Large,"Harvard University,New York University (NYU)",United States of America,Anglosphere,Era GPU (2012-2016),Language,-3.3911107024457894,-0.5852262759361497,-16.067587,2.3009357
+Search-Proven Best LSTM,Google,United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.5632719008606335,1.5367684457556365,-11.008472,10.810402
+genCNN + dyn eval,"Chinese Academy of Sciences,Huawei Noah's Ark Lab,Dublin City University",China,China,Era GPU (2012-2016),Language,-3.1555109584240997,-1.3370512609938892,-16.64557,1.469908
+"MSRA (C, PReLU)",Microsoft Research,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.640752358236548,3.1165700447099156,-19.939606,12.786326
+ADAM (CIFAR-10),"University of Amsterdam,OpenAI,University of Toronto",Netherlands,Europa,Era GPU (2012-2016),Vision,-4.634236312733356,1.2384711251129907,-20.997345,9.750869
+Fractional Max-Pooling,University of Warwick,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Vision,-3.832381899745632,0.3181288412976404,-21.874056,9.291563
+SNM-skip,Google,United States of America,Anglosphere,Era GPU (2012-2016),Language,-0.8429618069345327,0.8973722274493877,-9.2426815,11.699291
+GoogLeNet / InceptionV1,"Google,University of Michigan,University of North Carolina",United States of America,Anglosphere,Era GPU (2012-2016),Vision,-3.1736556539182423,3.210811936898401,-19.841833,12.526472
+SPN-4+KN5,"Singapore University of Technology & Design,DSO National Laboratories",Singapore,Asia-Pacífico,Era GPU (2012-2016),Language,-3.289772950341511,-1.119586071275388,-16.551006,1.7010453
+Seq2Seq LSTM,Google,United States of America,Anglosphere,Era GPU (2012-2016),Language,-1.6180249390613586,2.1675295025969064,-10.901224,11.98977
+Large regularized LSTM,"New York University (NYU),Google Brain",United States of America,Anglosphere,Era GPU (2012-2016),Language,-3.1577395642451065,-0.4290243160350462,-15.642659,2.2858076
+VGG16,University of Oxford,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Vision,-3.567921148370022,1.3454350874217973,-21.389584,10.323482
+VGG19,University of Oxford,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Vision,-3.570286073443324,1.345082176737774,-21.388508,10.322412
+Image generation,University of Amsterdam,Netherlands,Europa,Era GPU (2012-2016),Vision,-4.741057338476459,0.8592323941420865,-21.006823,9.277945
+DQN,DeepMind,United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Games,-3.301608945300843,2.1059765953893006,-12.117962,10.93861
+TransE,"Universite de Technologie de Compiègne – CNRS,Google",France,Europa,Era GPU (2012-2016),Language,-2.75286828281013,-0.14765718324048713,-15.199262,2.4133804
+Word2Vec (large),Google,United States of America,Anglosphere,Era GPU (2012-2016),Language,-2.253718275022636,2.177820013238421,-11.122969,11.677937
+Mitosis,IDSIA,Switzerland,Europa,Era GPU (2012-2016),Vision,-4.6049281656289764,0.3688851157474349,-21.342752,8.886577
+RNN+weight noise+dynamic eval,University of Toronto,Canada,Anglosphere,Era GPU (2012-2016),Language,-3.393789167109863,-0.3684019506925029,-15.767499,2.5341449
+AlexNet,University of Toronto,Canada,Anglosphere,Era GPU (2012-2016),Vision,-3.9746337954668456,1.3581849260264256,-21.253403,10.146556
+Unsupervised High-level Feature Learner,Google,United States of America,Anglosphere,Era GPU (2012-2016),Vision,-2.692286782560194,2.816562994809389,-19.738367,12.958072
+LBL,University College London (UCL),United Kingdom of Great Britain and Northern Ireland,Anglosphere,Era GPU (2012-2016),Language,-3.8608277970576768,-0.7593862960129237,-16.503532,2.4610777
+Dropout (MNIST),University of Toronto,Canada,Anglosphere,Era GPU (2012-2016),Vision,-4.385145621318602,0.752004080949364,-21.355034,9.384878
+MCDNN (MNIST),"IDSIA,SUPSI",Switzerland,Europa,Era GPU (2012-2016),Vision,-4.384997325336653,0.6561071649890882,-21.40594,9.274962
+KN5 LM + RNN 400/10 (WSJ),"Brno University of Technology,Johns Hopkins University",Czechia,Otro,Era Deep Learning (2000-2011),Speech,-4.570752580842745,0.4418955035005727,-9.223826,3.5633147
+RNN 500/10 + RT09 LM (NIST RT05),"Brno University of Technology,Johns Hopkins University",Czechia,Otro,Era Deep Learning (2000-2011),Speech,-4.604938242035362,0.4359785371211651,-9.234466,3.5646436
+RNN LM,Johns Hopkins University,United States of America,Anglosphere,Era Deep Learning (2000-2011),Language,-3.3791751006357518,-0.23934824067620106,-15.634329,2.6570773
+RNN 1000/5 + RT09 LM (NIST RT05),"Brno University of Technology,Johns Hopkins University",Czechia,Otro,Era Deep Learning (2000-2011),Speech,-4.370477791465726,0.4770141919629139,-9.164595,3.5563953
+Feedforward NN,University of Montreal / Université de Montréal,Canada,Anglosphere,Era Deep Learning (2000-2011),Vision,-4.680880559607103,0.9207951871793032,-20.979141,9.349956
+6-layer MLP (MNIST),"IDSIA,University of Lugano,SUPSI",Switzerland,Europa,Era Deep Learning (2000-2011),Vision,-4.573962246656966,0.41988452643747354,-21.22839,8.91431
+GPU DBNs,Stanford University,United States of America,Anglosphere,Era Deep Learning (2000-2011),Other,-3.7784376364492496,-0.32219624602545827,-16.79831,2.8332827
+BiLSTM for Speech,"IDSIA,Technical University of Munich",Switzerland,Europa,Era Deep Learning (2000-2011),Speech,-5.771514318412398,0.3180342552136608,-9.655681,3.6207469
+NPLM (Brown),University of Montreal / Université de Montréal,Canada,Anglosphere,Era Deep Learning (2000-2011),Language,-4.444917741573354,-0.19171410922096574,-16.170313,3.4477506
+NPLM (AP News),University of Montreal / Université de Montréal,Canada,Anglosphere,Era Deep Learning (2000-2011),Language,-4.173805700990794,-0.14485002622463103,-16.022638,3.2529511
+Decision tree (classification),"Mitsubishi Electric Research Labs,Compaq CRL",United States of America,Anglosphere,Era Deep Learning (2000-2011),Vision,-5.154351930356202,3.083133069859907,-17.957241,9.059119
+Neural LM,University of Montreal / Université de Montréal,Canada,Anglosphere,Era Deep Learning (2000-2011),Language,-4.311088721074835,-0.08929066976545161,-16.067429,3.424316
+LeNet-5,AT&T,United States of America,Anglosphere,Era Conexionista (1980-1999),Vision,-5.375717680979934,3.3014991122592683,-17.91507,8.990496
+RNN for speech,National Chiao Tung University,Taiwan,Otro,Era Conexionista (1980-1999),Speech,-6.638006022430476,-0.22797412718778173,-10.083058,3.6750083
+LSTM,Technical University of Munich,Germany,Europa,Era Conexionista (1980-1999),Language,-5.602307841208114,0.2595442419546352,-16.35864,4.363268
+System 11,Carnegie Mellon University (CMU),United States of America,Anglosphere,Era Conexionista (1980-1999),Vision,-6.731981149099854,0.719082313909494,-18.909094,7.933891
+Fuzzy NN,Indian Statistical Institute,India,Asia-Pacífico,Era Conexionista (1980-1999),Speech,-7.546840513699762,0.09673286027831754,-10.263103,3.7178862
+TD-Gammon,IBM,United States of America,Anglosphere,Era Conexionista (1980-1999),Games,-5.033120795356699,1.9240931681357474,-16.621803,7.9789205
+Zip CNN,"AT&T,Bell Laboratories",United States of America,Anglosphere,Era Conexionista (1980-1999),Vision,-6.03003888596187,3.1184985657213864,-17.744858,8.652148
+Innervator,"Stanford University,California Institute of Technology",United States of America,Anglosphere,Era Conexionista (1980-1999),Mathematics,-7.568258725846678,-0.43208991819489606,-17.018002,6.293665
+ALVINN,Carnegie Mellon University (CMU),United States of America,Anglosphere,Era Conexionista (1980-1999),Driving,-6.45291896289856,-0.09592229406441286,-16.830324,5.9816604
+NetTalk (transcription),Princeton University,United States of America,Anglosphere,Era Conexionista (1980-1999),Speech,-7.364751538721037,0.4051059367610874,-10.211296,3.7126772
+NetTalk (dictionary),Princeton University,United States of America,Anglosphere,Era Conexionista (1980-1999),Speech,-7.366228498113749,0.40485686108383145,-10.211656,3.7127378
+MLP with back-propagation,"University of California San Diego,Carnegie Mellon University (CMU)",United States of America,Anglosphere,Era Conexionista (1980-1999),Mathematics,-7.3109949116737685,0.325774347501268,-16.93522,6.194101
+ASE+ACE,University of Massachusetts Amherst,United States of America,Anglosphere,Era Conexionista (1980-1999),Robotics,-7.52438736811654,-0.00484375040498383,-17.004587,6.3036823
+Neocognitron,NHK Broadcasting Science Research Laboratories,Japan,Asia-Pacífico,Era Conexionista (1980-1999),Vision,-6.5152875109537804,3.1430972112970808,-17.62239,8.374044
+Cognitron,Biological Cybernetics,Japan,Asia-Pacífico,Era Simbólica (1950-1979),Other,-6.885407559389768,1.95858255336282,-16.883448,7.3082485
+ADALINE,Stanford University,United States of America,Anglosphere,Era Simbólica (1950-1979),Vision,-10.255663985918902,1.0800378616948003,-17.889862,6.7897215
+Perceptron (1960),Cornell Aeronautical Laboratory,United States of America,Anglosphere,Era Simbólica (1950-1979),Vision,-8.989612968253697,0.7617990361793892,-17.845915,6.836854
+Samuel Neural Checkers,IBM,United States of America,Anglosphere,Era Simbólica (1950-1979),Games,-8.316188653845328,2.4910361418285154,-17.072767,7.1816583
+Perceptron Mark I,"Cornell Aeronautical Laboratory,Cornell University",United States of America,Anglosphere,Era Simbólica (1950-1979),Other,-9.153229239796467,0.21935015470665742,-17.405672,6.655764
