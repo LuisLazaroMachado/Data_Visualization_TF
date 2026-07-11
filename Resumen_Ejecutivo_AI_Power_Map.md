@@ -2,7 +2,11 @@
 
 **Resumen Ejecutivo**
 
-Equipo: DataChasquiAILab
+Equipo: 
+
+Fabian Marcelo Rojas Cuadros, 
+Lazaro Machado Luis isaac
+
 Curso: Data Visualization — Universidad Peruana de Ciencias Aplicadas
 
 ---
